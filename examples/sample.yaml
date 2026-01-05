@@ -1,0 +1,2117 @@
+- sentence: àprí jɜ̀dí ðáŋàlà
+  updated_sentence: ''
+  translation: boy held sheep
+  split: train
+  index: '0'
+  checked_by_pi: false
+  words:
+  - original_str: àprí
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - àpɾí
+      - àpɾí
+      - boy-nominative-singular
+      - 0.05
+      1:
+      - ápɾí
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 0.1
+      2:
+      - àpɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-1pl.incl.sbj-imperfective
+      - 1.05
+      3:
+      - àpɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-1pl.incl.obj-imperfective
+      - 1.05
+      4:
+      - àpɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-singular
+      - 1.05
+      5:
+      - ápɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-left_h-1pl.incl.sbj-imperfective
+      - 1.1
+      6:
+      - ápɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-left_h-1pl.incl.obj-imperfective
+      - 1.1
+      7:
+      - àpɾì<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-final_lowering-singular
+      - 1.1
+      8:
+      - ápɛ̀ŕ
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-perfective
+      - 1.1
+      9:
+      - ápɛ̀ŕ
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-perfective
+      - 1.1
+      10:
+      - ápàŕ
+      - áp-à-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-imperfective
+      - 1.1
+      11:
+      - ápàŕ
+      - áp-à-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-imperfective
+      - 1.1
+      12:
+      - ápɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 1.1
+      13:
+      - ápɾì<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-final_lowering-left_h-singular
+      - 1.15
+  - original_str: jɜ̀dí
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - jàdí
+      - j-àd-í
+      - touch-CLj-ventive-ɔi-perfective
+      - 0.05
+      1:
+      - jádí
+      - j-àd-í
+      - touch-CLj-ventive-ɔi-left_h-perfective
+      - 0.1
+      2:
+      - jàdì
+      - j-àd-ì
+      - touch-CLj-itive-ɔi-dependent
+      - 0.1
+      3:
+      - jádì
+      - j-àd-ì
+      - touch-CLj-itive-ɔi-left_h-dependent
+      - 0.15
+      4:
+      - jɛ́àdí
+      - jɛ́-àd-í
+      - touch-ventive-ɔi-1sg.sbj-perfective
+      - 0.6
+      5:
+      - ràdí
+      - r-àd-í
+      - touch-CLr-ventive-ɔi-perfective
+      - 1.05
+      6:
+      - ŋàdí
+      - ŋ-àd-í
+      - touch-CLŋ-ventive-ɔi-perfective
+      - 1.05
+      7:
+      - làdí
+      - l-àd-í
+      - touch-CLl-ventive-ɔi-perfective
+      - 1.05
+      8:
+      - àdí
+      - àd-í
+      - touch-ventive-ɔi-imperfective
+      - 1.05
+      9:
+      - ɲàdí
+      - ɲ-àd-í
+      - touch-CLɲ-ventive-ɔi-perfective
+      - 1.05
+  - original_str: ðáŋàlà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðáŋàlà<ENDOFSENTENCE>
+      - ðàŋàlà
+      - sheep-accusative-left_h-singular
+      - 0.0
+      1:
+      - ðàŋàlà<ENDOFSENTENCE>
+      - ðàŋàlà
+      - sheep-accusative-singular
+      - 0.05
+      2:
+      - ðə́ŋàlà<ENDOFSENTENCE>
+      - ðə́-ŋál-á
+      - yawn-CLð-final_lowering-ao-left_h-infinitive
+      - 0.55
+      3:
+      - ðə́ŋàlà<ENDOFSENTENCE>
+      - ðə̀-ŋàl-à
+      - yawn-CLð-ventive-ao-left_h-dependent
+      - 0.55
+      4:
+      - ðá ŋálà<ENDOFSENTENCE>
+      - ð-á ŋál-à
+      - yawn-aux-CLð-itive-ao-imperfective
+      - 0.55
+      5:
+      - ðá ŋálà<ENDOFSENTENCE>
+      - ð-á ŋál-à
+      - yawn-aux-CLð-itive-ao-3sg.obj-2sg.sbj-imperfective
+      - 0.55
+      6:
+      - ðáŋàl<ENDOFSENTENCE>
+      - ðàŋàl
+      - sheep-nominative-left_h-singular
+      - 0.55
+      7:
+      - ðàŋàl<ENDOFSENTENCE>
+      - ðàŋàl
+      - sheep-nominative-singular
+      - 0.6
+      8:
+      - ðáŋâl<ENDOFSENTENCE>
+      - ð-á-ŋâ-l
+      - aux-CLð-2sg.obj-imperfective-locative
+      - 0.6
+      9:
+      - ðáŋâl<ENDOFSENTENCE>
+      - ð-à-ŋâ-l
+      - aux-CLð-itive-left_h-2sg.obj-perfective-locative
+      - 0.6
+      10:
+      - ðə̀ŋàlà<ENDOFSENTENCE>
+      - ðə́-ŋál-á
+      - yawn-CLð-final_lowering-ao-infinitive
+      - 0.6
+      11:
+      - ðə̀ŋàlà<ENDOFSENTENCE>
+      - ðə̀-ŋàl-à
+      - yawn-CLð-ventive-ao-dependent
+      - 0.6
+      12:
+      - ðáŋɜ̀l<ENDOFSENTENCE>
+      - ð-àŋ-ɜ́l
+      - see-CLð-ventive-final_lowering-au-left_h-3sg.obj-3pl.sbj-perfective
+      - 0.6
+      13:
+      - ðə́ŋálá<ENDOFSENTENCE>
+      - ðə́-ŋál-á
+      - yawn-CLð-ao-infinitive
+      - 0.65
+- sentence: àprí jə̀və̀lɛ̀ðɔ́ ðáŋàlà
+  updated_sentence: ''
+  translation: boy pulled sheep towards
+  split: train
+  index: '1'
+  checked_by_pi: false
+  words:
+  - original_str: àprí
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - àpɾí
+      - àpɾí
+      - boy-nominative-singular
+      - 0.05
+      1:
+      - ápɾí
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 0.1
+      2:
+      - àpɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-1pl.incl.sbj-imperfective
+      - 1.05
+      3:
+      - àpɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-1pl.incl.obj-imperfective
+      - 1.05
+      4:
+      - àpɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-singular
+      - 1.05
+      5:
+      - ápɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-left_h-1pl.incl.sbj-imperfective
+      - 1.1
+      6:
+      - ápɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-left_h-1pl.incl.obj-imperfective
+      - 1.1
+      7:
+      - àpɾì<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-final_lowering-singular
+      - 1.1
+      8:
+      - ápɛ̀ŕ
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-perfective
+      - 1.1
+      9:
+      - ápɛ̀ŕ
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-perfective
+      - 1.1
+      10:
+      - ápàŕ
+      - áp-à-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-imperfective
+      - 1.1
+      11:
+      - ápàŕ
+      - áp-à-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-imperfective
+      - 1.1
+      12:
+      - ápɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 1.1
+      13:
+      - ápɾì<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-final_lowering-left_h-singular
+      - 1.15
+  - original_str: jə̀və̀lɛ̀ðɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - jə̀və̀lɛ̀ðɔ́
+      - jə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLj-ventive-aɔ-perfective
+      - 0.0
+      1:
+      - jə́və̀lɛ̀ðɔ́
+      - jə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLj-ventive-aɔ-left_h-perfective
+      - 0.05
+      2:
+      - jɛ́və̀lɛ̀ðɔ́
+      - jɛ́-və̀lɛ̀ð-ɔ́
+      - pull-ventive-aɔ-1sg.sbj-perfective
+      - 0.1
+      3:
+      - jɛ́ və̀lɛ̀ðɔ́
+      - j-ɛ́ və̀lɛ̀ð-ɔ́
+      - pull-aux-CLj-ventive-aɔ-3sg.obj-1sg.sbj-imperfective
+      - 0.6
+      4:
+      - já və̀lɛ̀ðɔ́
+      - j-á və̀lɛ̀ð-ɔ́
+      - pull-aux-CLj-ventive-aɔ-imperfective
+      - 0.6
+      5:
+      - já və̀lɛ̀ðɔ́
+      - j-á və̀lɛ̀ð-ɔ́
+      - pull-aux-CLj-ventive-aɔ-3sg.obj-2sg.sbj-imperfective
+      - 0.6
+      6:
+      - lə̀və̀lɛ̀ðɔ́
+      - lə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLl-ventive-aɔ-perfective
+      - 1.0
+      7:
+      - ðə̀və̀lɛ̀ðɔ́
+      - ðə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLð-ventive-aɔ-perfective
+      - 1.0
+      8:
+      - nə̀və̀lɛ̀ðɔ́
+      - nə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLn-ventive-aɔ-perfective
+      - 1.0
+      9:
+      - kə̀və̀lɛ̀ðɔ́
+      - kə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLg-ventive-aɔ-perfective
+      - 1.0
+      10:
+      - rə̀və̀lɛ̀ðɔ́
+      - rə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLr-ventive-aɔ-perfective
+      - 1.0
+  - original_str: ðáŋàlà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðáŋàlà<ENDOFSENTENCE>
+      - ðàŋàlà
+      - sheep-accusative-left_h-singular
+      - 0.0
+      1:
+      - ðàŋàlà<ENDOFSENTENCE>
+      - ðàŋàlà
+      - sheep-accusative-singular
+      - 0.05
+      2:
+      - ðə́ŋàlà<ENDOFSENTENCE>
+      - ðə́-ŋál-á
+      - yawn-CLð-final_lowering-ao-left_h-infinitive
+      - 0.55
+      3:
+      - ðə́ŋàlà<ENDOFSENTENCE>
+      - ðə̀-ŋàl-à
+      - yawn-CLð-ventive-ao-left_h-dependent
+      - 0.55
+      4:
+      - ðá ŋálà<ENDOFSENTENCE>
+      - ð-á ŋál-à
+      - yawn-aux-CLð-itive-ao-imperfective
+      - 0.55
+      5:
+      - ðá ŋálà<ENDOFSENTENCE>
+      - ð-á ŋál-à
+      - yawn-aux-CLð-itive-ao-3sg.obj-2sg.sbj-imperfective
+      - 0.55
+      6:
+      - ðáŋàl<ENDOFSENTENCE>
+      - ðàŋàl
+      - sheep-nominative-left_h-singular
+      - 0.55
+      7:
+      - ðàŋàl<ENDOFSENTENCE>
+      - ðàŋàl
+      - sheep-nominative-singular
+      - 0.6
+      8:
+      - ðáŋâl<ENDOFSENTENCE>
+      - ð-á-ŋâ-l
+      - aux-CLð-2sg.obj-imperfective-locative
+      - 0.6
+      9:
+      - ðáŋâl<ENDOFSENTENCE>
+      - ð-à-ŋâ-l
+      - aux-CLð-itive-left_h-2sg.obj-perfective-locative
+      - 0.6
+      10:
+      - ðə̀ŋàlà<ENDOFSENTENCE>
+      - ðə́-ŋál-á
+      - yawn-CLð-final_lowering-ao-infinitive
+      - 0.6
+      11:
+      - ðə̀ŋàlà<ENDOFSENTENCE>
+      - ðə̀-ŋàl-à
+      - yawn-CLð-ventive-ao-dependent
+      - 0.6
+      12:
+      - ðáŋɜ̀l<ENDOFSENTENCE>
+      - ð-àŋ-ɜ́l
+      - see-CLð-ventive-final_lowering-au-left_h-3sg.obj-3pl.sbj-perfective
+      - 0.6
+      13:
+      - ðə́ŋálá<ENDOFSENTENCE>
+      - ðə́-ŋál-á
+      - yawn-CLð-ao-infinitive
+      - 0.65
+- sentence: àprí jàvə́lɛ̀ðɛ́ ðàŋàlà
+  updated_sentence: ''
+  translation: 'boy pulled sheep away '
+  split: train
+  index: '2'
+  checked_by_pi: false
+  words:
+  - original_str: àprí
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - àpɾí
+      - àpɾí
+      - boy-nominative-singular
+      - 0.05
+      1:
+      - ápɾí
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 0.1
+      2:
+      - àpɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-1pl.incl.sbj-imperfective
+      - 1.05
+      3:
+      - àpɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-1pl.incl.obj-imperfective
+      - 1.05
+      4:
+      - àpɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-singular
+      - 1.05
+      5:
+      - ápɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-left_h-1pl.incl.sbj-imperfective
+      - 1.1
+      6:
+      - ápɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-left_h-1pl.incl.obj-imperfective
+      - 1.1
+      7:
+      - àpɾì<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-final_lowering-singular
+      - 1.1
+      8:
+      - ápɛ̀ŕ
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-perfective
+      - 1.1
+      9:
+      - ápɛ̀ŕ
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-perfective
+      - 1.1
+      10:
+      - ápàŕ
+      - áp-à-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-imperfective
+      - 1.1
+      11:
+      - ápàŕ
+      - áp-à-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-imperfective
+      - 1.1
+      12:
+      - ápɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 1.1
+      13:
+      - ápɾì<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-final_lowering-left_h-singular
+      - 1.15
+  - original_str: jàvə́lɛ̀ðɛ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - jà və́lɛ̀ðɛ̀
+      - j-à və́lɛ̀ð-ɛ̀
+      - pull-aux-CLj-itive-aɔ-perfective
+      - 0.55
+      1:
+      - jà və́lɛ̀ðɛ̀
+      - j-à və́lɛ̀ð-ɛ̀
+      - pull-aux-CLj-itive-aɔ-3sg.obj-2sg.sbj-perfective
+      - 0.55
+      2:
+      - já və́lɛ̀ðɛ̀
+      - j-à və́lɛ̀ð-ɛ̀
+      - pull-aux-CLj-itive-aɔ-left_h-perfective
+      - 0.6
+      3:
+      - já və́lɛ̀ðɛ̀
+      - j-à və́lɛ̀ð-ɛ̀
+      - pull-aux-CLj-itive-aɔ-left_h-3sg.obj-2sg.sbj-perfective
+      - 0.6
+      4:
+      - jə̀və̀lɛ̀ðɛ̀
+      - jə̀-və̀lɛ̀ð-ɛ̀
+      - pull-CLj-itive-aɔ-dependent
+      - 0.65
+      5:
+      - jə́və̀lɛ̀ðɛ̀
+      - jə̀-və̀lɛ̀ð-ɛ̀
+      - pull-CLj-itive-aɔ-left_h-dependent
+      - 0.7
+      6:
+      - jà ílɛ̀ðɛ̀
+      - j-à ílɛ̀ð-ɛ̀
+      - buy/sell-aux-CLj-itive-ɔɔ-perfective
+      - 1.1
+      7:
+      - jà ílɛ̀ðɛ̀
+      - j-à ílɛ̀ð-ɛ̀
+      - buy/sell-aux-CLj-itive-ɔɔ-3sg.obj-2sg.sbj-perfective
+      - 1.1
+      8:
+      - já ílɛ̀ðɛ̀
+      - j-à ílɛ̀ð-ɛ̀
+      - buy/sell-aux-CLj-itive-ɔɔ-left_h-perfective
+      - 1.15
+      9:
+      - já ílɛ̀ðɛ̀
+      - j-à ílɛ̀ð-ɛ̀
+      - buy/sell-aux-CLj-itive-ɔɔ-left_h-3sg.obj-2sg.sbj-perfective
+      - 1.15
+      10:
+      - t̪à və́lɛ̀ðɛ̀
+      - t̪-à və́lɛ̀ð-ɛ̀
+      - pull-aux-CLt̪-itive-aɔ-perfective
+      - 1.55
+      11:
+      - t̪à və́lɛ̀ðɛ̀
+      - t̪-à və́lɛ̀ð-ɛ̀
+      - pull-aux-CLt̪-itive-aɔ-3sg.obj-2sg.sbj-perfective
+      - 1.55
+      12:
+      - ðà və́lɛ̀ðɛ̀
+      - ð-à və́lɛ̀ð-ɛ̀
+      - pull-aux-CLð-itive-aɔ-perfective
+      - 1.55
+      13:
+      - ðà və́lɛ̀ðɛ̀
+      - ð-à və́lɛ̀ð-ɛ̀
+      - pull-aux-CLð-itive-aɔ-3sg.obj-2sg.sbj-perfective
+      - 1.55
+      14:
+      - jɛ̀ və́lɛ̀ðɛ̀
+      - j-ɛ̀ və́lɛ̀ð-ɛ̀
+      - pull-aux-CLj-itive-aɔ-3sg.obj-1sg.sbj-perfective
+      - 1.55
+      15:
+      - là və́lɛ̀ðɛ̀
+      - l-à və́lɛ̀ð-ɛ̀
+      - pull-aux-CLl-itive-aɔ-perfective
+      - 1.55
+      16:
+      - là və́lɛ̀ðɛ̀
+      - l-à və́lɛ̀ð-ɛ̀
+      - pull-aux-CLl-itive-aɔ-3sg.obj-2sg.sbj-perfective
+      - 1.55
+  - original_str: ðàŋàlà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðàŋàlà<ENDOFSENTENCE>
+      - ðàŋàlà
+      - sheep-accusative-singular
+      - 0.0
+      1:
+      - ðáŋàlà<ENDOFSENTENCE>
+      - ðàŋàlà
+      - sheep-accusative-left_h-singular
+      - 0.05
+      2:
+      - ðə̀ŋàlà<ENDOFSENTENCE>
+      - ðə́-ŋál-á
+      - yawn-CLð-final_lowering-ao-infinitive
+      - 0.55
+      3:
+      - ðə̀ŋàlà<ENDOFSENTENCE>
+      - ðə̀-ŋàl-à
+      - yawn-CLð-ventive-ao-dependent
+      - 0.55
+      4:
+      - ðàŋàl<ENDOFSENTENCE>
+      - ðàŋàl
+      - sheep-nominative-singular
+      - 0.55
+      5:
+      - ðə́ŋàlà<ENDOFSENTENCE>
+      - ðə́-ŋál-á
+      - yawn-CLð-final_lowering-ao-left_h-infinitive
+      - 0.6
+      6:
+      - ðə́ŋàlà<ENDOFSENTENCE>
+      - ðə̀-ŋàl-à
+      - yawn-CLð-ventive-ao-left_h-dependent
+      - 0.6
+      7:
+      - ðàŋâl<ENDOFSENTENCE>
+      - ð-à-ŋâ-l
+      - aux-CLð-itive-2sg.obj-perfective-locative
+      - 0.6
+      8:
+      - ðáŋàl<ENDOFSENTENCE>
+      - ðàŋàl
+      - sheep-nominative-left_h-singular
+      - 0.6
+      9:
+      - ðàŋɜ̀l<ENDOFSENTENCE>
+      - ð-àŋ-ɜ́l
+      - see-CLð-ventive-final_lowering-au-3sg.obj-3pl.sbj-perfective
+      - 0.6
+      10:
+      - ðá ŋálà<ENDOFSENTENCE>
+      - ð-á ŋál-à
+      - yawn-aux-CLð-itive-ao-imperfective
+      - 0.6
+      11:
+      - ðá ŋálà<ENDOFSENTENCE>
+      - ð-á ŋál-à
+      - yawn-aux-CLð-itive-ao-3sg.obj-2sg.sbj-imperfective
+      - 0.6
+      12:
+      - ðáŋâl<ENDOFSENTENCE>
+      - ð-á-ŋâ-l
+      - aux-CLð-2sg.obj-imperfective-locative
+      - 0.65
+      13:
+      - ðáŋâl<ENDOFSENTENCE>
+      - ð-à-ŋâ-l
+      - aux-CLð-itive-left_h-2sg.obj-perfective-locative
+      - 0.65
+- sentence: àprí jávə́lɛ̀ðà ðàŋàlà
+  updated_sentence: ''
+  translation: boy will pull sheep away
+  split: train
+  index: '3'
+  checked_by_pi: false
+  words:
+  - original_str: àprí
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - àpɾí
+      - àpɾí
+      - boy-nominative-singular
+      - 0.05
+      1:
+      - ápɾí
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 0.1
+      2:
+      - àpɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-1pl.incl.sbj-imperfective
+      - 1.05
+      3:
+      - àpɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-1pl.incl.obj-imperfective
+      - 1.05
+      4:
+      - àpɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-singular
+      - 1.05
+      5:
+      - ápɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-left_h-1pl.incl.sbj-imperfective
+      - 1.1
+      6:
+      - ápɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-left_h-1pl.incl.obj-imperfective
+      - 1.1
+      7:
+      - àpɾì<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-final_lowering-singular
+      - 1.1
+      8:
+      - ápɛ̀ŕ
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-perfective
+      - 1.1
+      9:
+      - ápɛ̀ŕ
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-perfective
+      - 1.1
+      10:
+      - ápàŕ
+      - áp-à-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-imperfective
+      - 1.1
+      11:
+      - ápàŕ
+      - áp-à-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-imperfective
+      - 1.1
+      12:
+      - ápɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 1.1
+      13:
+      - ápɾì<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-final_lowering-left_h-singular
+      - 1.15
+  - original_str: jávə́lɛ̀ðà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - já və́lɛ̀ðà
+      - j-á və́lɛ̀ð-à
+      - pull-aux-CLj-itive-aɔ-imperfective
+      - 0.5
+      1:
+      - já və́lɛ̀ðà
+      - j-á və́lɛ̀ð-à
+      - pull-aux-CLj-itive-aɔ-3sg.obj-2sg.sbj-imperfective
+      - 0.5
+      2:
+      - jə́və̀lɛ̀ðà
+      - jə̀-və̀lɛ̀ð-à
+      - pull-CLj-ventive-aɔ-left_h-dependent
+      - 0.6
+      3:
+      - jə̀və̀lɛ̀ðà
+      - jə̀-və̀lɛ̀ð-à
+      - pull-CLj-ventive-aɔ-dependent
+      - 0.65
+      4:
+      - jávə̀lìðà
+      - j-àvə̀lìð-à
+      - lift-antip-CLj-ventive-ao-left_h-dependent
+      - 1.05
+      5:
+      - jàvə̀lìðà
+      - j-àvə̀lìð-à
+      - lift-antip-CLj-ventive-ao-dependent
+      - 1.1
+      6:
+      - jɛ́ və́lɛ̀ðà
+      - j-ɛ́ və́lɛ̀ð-à
+      - pull-aux-CLj-itive-aɔ-3sg.obj-1sg.sbj-imperfective
+      - 1.5
+      7:
+      - rá və́lɛ̀ðà
+      - r-á və́lɛ̀ð-à
+      - pull-aux-CLr-itive-aɔ-imperfective
+      - 1.5
+      8:
+      - rá və́lɛ̀ðà
+      - r-á və́lɛ̀ð-à
+      - pull-aux-CLr-itive-aɔ-3sg.obj-2sg.sbj-imperfective
+      - 1.5
+      9:
+      - lá və́lɛ̀ðà
+      - l-á və́lɛ̀ð-à
+      - pull-aux-CLl-itive-aɔ-imperfective
+      - 1.5
+      10:
+      - lá və́lɛ̀ðà
+      - l-á və́lɛ̀ð-à
+      - pull-aux-CLl-itive-aɔ-3sg.obj-2sg.sbj-imperfective
+      - 1.5
+      11:
+      - ŋá və́lɛ̀ðà
+      - ŋ-á və́lɛ̀ð-à
+      - pull-aux-CLŋ-itive-aɔ-imperfective
+      - 1.5
+      12:
+      - ŋá və́lɛ̀ðà
+      - ŋ-á və́lɛ̀ð-à
+      - pull-aux-CLŋ-itive-aɔ-3sg.obj-2sg.sbj-imperfective
+      - 1.5
+      13:
+      - ná və́lɛ̀ðà
+      - n-á və́lɛ̀ð-à
+      - pull-aux-CLn-itive-aɔ-imperfective
+      - 1.5
+      14:
+      - ná və́lɛ̀ðà
+      - n-á və́lɛ̀ð-à
+      - pull-aux-CLn-itive-aɔ-3sg.obj-2sg.sbj-imperfective
+      - 1.5
+  - original_str: ðàŋàlà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðàŋàlà<ENDOFSENTENCE>
+      - ðàŋàlà
+      - sheep-accusative-singular
+      - 0.0
+      1:
+      - ðáŋàlà<ENDOFSENTENCE>
+      - ðàŋàlà
+      - sheep-accusative-left_h-singular
+      - 0.05
+      2:
+      - ðə̀ŋàlà<ENDOFSENTENCE>
+      - ðə́-ŋál-á
+      - yawn-CLð-final_lowering-ao-infinitive
+      - 0.55
+      3:
+      - ðə̀ŋàlà<ENDOFSENTENCE>
+      - ðə̀-ŋàl-à
+      - yawn-CLð-ventive-ao-dependent
+      - 0.55
+      4:
+      - ðàŋàl<ENDOFSENTENCE>
+      - ðàŋàl
+      - sheep-nominative-singular
+      - 0.55
+      5:
+      - ðə́ŋàlà<ENDOFSENTENCE>
+      - ðə́-ŋál-á
+      - yawn-CLð-final_lowering-ao-left_h-infinitive
+      - 0.6
+      6:
+      - ðə́ŋàlà<ENDOFSENTENCE>
+      - ðə̀-ŋàl-à
+      - yawn-CLð-ventive-ao-left_h-dependent
+      - 0.6
+      7:
+      - ðàŋâl<ENDOFSENTENCE>
+      - ð-à-ŋâ-l
+      - aux-CLð-itive-2sg.obj-perfective-locative
+      - 0.6
+      8:
+      - ðáŋàl<ENDOFSENTENCE>
+      - ðàŋàl
+      - sheep-nominative-left_h-singular
+      - 0.6
+      9:
+      - ðàŋɜ̀l<ENDOFSENTENCE>
+      - ð-àŋ-ɜ́l
+      - see-CLð-ventive-final_lowering-au-3sg.obj-3pl.sbj-perfective
+      - 0.6
+      10:
+      - ðá ŋálà<ENDOFSENTENCE>
+      - ð-á ŋál-à
+      - yawn-aux-CLð-itive-ao-imperfective
+      - 0.6
+      11:
+      - ðá ŋálà<ENDOFSENTENCE>
+      - ð-á ŋál-à
+      - yawn-aux-CLð-itive-ao-3sg.obj-2sg.sbj-imperfective
+      - 0.6
+      12:
+      - ðáŋâl<ENDOFSENTENCE>
+      - ð-á-ŋâ-l
+      - aux-CLð-2sg.obj-imperfective-locative
+      - 0.65
+      13:
+      - ðáŋâl<ENDOFSENTENCE>
+      - ð-à-ŋâ-l
+      - aux-CLð-itive-left_h-2sg.obj-perfective-locative
+      - 0.65
+- sentence: ðə̀və̀lɛ́ðɔ́ áprì
+  updated_sentence: ''
+  translation: boy pulled it sheep towards
+  split: train
+  index: '4'
+  checked_by_pi: false
+  words:
+  - original_str: ðə̀və̀lɛ́ðɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðə̀və̀lɛ̀ðɔ́
+      - ðə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLð-ventive-aɔ-perfective
+      - 0.05
+      1:
+      - ðə́və̀lɛ̀ðɔ́
+      - ðə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLð-ventive-aɔ-left_h-perfective
+      - 0.1
+      2:
+      - ðɛ́ və̀lɛ̀ðɔ́
+      - ð-ɛ́ və̀lɛ̀ð-ɔ́
+      - pull-aux-CLð-ventive-aɔ-3sg.obj-1sg.sbj-imperfective
+      - 0.65
+      3:
+      - ðá və̀lɛ̀ðɔ́
+      - ð-á və̀lɛ̀ð-ɔ́
+      - pull-aux-CLð-ventive-aɔ-imperfective
+      - 0.65
+      4:
+      - ðá və̀lɛ̀ðɔ́
+      - ð-á və̀lɛ̀ð-ɔ́
+      - pull-aux-CLð-ventive-aɔ-3sg.obj-2sg.sbj-imperfective
+      - 0.65
+      5:
+      - ɲə̀və̀lɛ̀ðɔ́
+      - ɲə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLɲ-ventive-aɔ-perfective
+      - 1.05
+      6:
+      - jə̀və̀lɛ̀ðɔ́
+      - jə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLj-ventive-aɔ-perfective
+      - 1.05
+      7:
+      - nə̀və̀lɛ̀ðɔ́
+      - nə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLn-ventive-aɔ-perfective
+      - 1.05
+      8:
+      - lə̀və̀lɛ̀ðɔ́
+      - lə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLl-ventive-aɔ-perfective
+      - 1.05
+      9:
+      - ŋə̀və̀lɛ̀ðɔ́
+      - ŋə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLŋ-ventive-aɔ-perfective
+      - 1.05
+      10:
+      - kə̀və̀lɛ̀ðɔ́
+      - kə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLg-ventive-aɔ-perfective
+      - 1.05
+  - original_str: áprì
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ápɾì<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-final_lowering-left_h-singular
+      - 0.05
+      1:
+      - àpɾì<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-final_lowering-singular
+      - 0.1
+      2:
+      - ápɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 0.1
+      3:
+      - àpɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-singular
+      - 0.15
+      4:
+      - ábr̀ì<ENDOFSENTENCE>
+      - ábr̀-ì
+      - jump-itive-ao-perfective
+      - 1.05
+      5:
+      - ápɛ̀r̀<ENDOFSENTENCE>
+      - áp-ɛ̀-ŕ
+      - carry-itive-final_lowering-aɔ-1pl.incl.sbj-perfective
+      - 1.05
+      6:
+      - ápɛ̀r̀<ENDOFSENTENCE>
+      - áp-ɛ̀-ŕ
+      - carry-itive-final_lowering-aɔ-1pl.incl.obj-perfective
+      - 1.05
+      7:
+      - ápàr̀<ENDOFSENTENCE>
+      - áp-à-ŕ
+      - carry-itive-final_lowering-aɔ-1pl.incl.sbj-imperfective
+      - 1.05
+      8:
+      - ápàr̀<ENDOFSENTENCE>
+      - áp-à-ŕ
+      - carry-itive-final_lowering-aɔ-1pl.incl.obj-imperfective
+      - 1.05
+      9:
+      - ápɔ̀r̀<ENDOFSENTENCE>
+      - àp-ɔ́-ŕ
+      - carry-ventive-final_lowering-aɔ-left_h-1pl.incl.sbj-imperfective
+      - 1.05
+      10:
+      - ápɔ̀r̀<ENDOFSENTENCE>
+      - àp-ɔ́-ŕ
+      - carry-ventive-final_lowering-aɔ-left_h-1pl.incl.obj-imperfective
+      - 1.05
+      11:
+      - ápɛ̀ŕ<ENDOFSENTENCE>
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-perfective
+      - 1.1
+      12:
+      - ápɛ̀ŕ<ENDOFSENTENCE>
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-perfective
+      - 1.1
+      13:
+      - àpɔ̀r̀<ENDOFSENTENCE>
+      - àp-ɔ́-ŕ
+      - carry-ventive-final_lowering-aɔ-1pl.incl.sbj-imperfective
+      - 1.1
+      14:
+      - àpɔ̀r̀<ENDOFSENTENCE>
+      - àp-ɔ́-ŕ
+      - carry-ventive-final_lowering-aɔ-1pl.incl.obj-imperfective
+      - 1.1
+- sentence: ðá áprí və́lɛ̀ðɔ̀
+  updated_sentence: ''
+  translation: boy will pull it sheep towards
+  split: train
+  index: '5'
+  checked_by_pi: false
+  words:
+  - original_str: ðá
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðá
+      - ð-á
+      - aux-CLð-imperfective
+      - 0.0
+      1:
+      - ðá
+      - ð-á
+      - aux-CLð-3sg.obj-2sg.sbj-imperfective
+      - 0.0
+      2:
+      - ðá
+      - ð-á
+      - slice-ventive-aɔ-imperative
+      - 0.0
+      3:
+      - ðâ
+      - ð-à
+      - aux-CLð-itive-left_h-perfective
+      - 0.05
+      4:
+      - ðâ
+      - ð-à
+      - aux-CLð-itive-left_h-3sg.obj-2sg.sbj-perfective
+      - 0.05
+      5:
+      - ðâ
+      - ð-à
+      - slice-itive-aɔ-left_h-imperfective
+      - 0.05
+      6:
+      - ðà
+      - ð-à
+      - aux-CLð-itive-perfective
+      - 0.05
+      7:
+      - ðà
+      - ð-à
+      - aux-CLð-itive-3sg.obj-2sg.sbj-perfective
+      - 0.05
+      8:
+      - ðà
+      - ð-à
+      - slice-itive-aɔ-imperfective
+      - 0.05
+      9:
+      - ɔ̀ðá
+      - ɔ̀ð-á
+      - grind-ventive-aɔ-imperative
+      - 0.55
+      10:
+      - ɔ́ðá
+      - ɔ̀ð-á
+      - grind-ventive-aɔ-left_h-imperative
+      - 0.55
+      11:
+      - ɔ́ðà
+      - ɔ́ð-à
+      - grind-itive-aɔ-imperfective
+      - 0.6
+      12:
+      - t̪á
+      - t̪-á
+      - aux-CLt̪-imperfective
+      - 1.0
+      13:
+      - t̪á
+      - t̪-á
+      - aux-CLt̪-3sg.obj-2sg.sbj-imperfective
+      - 1.0
+      14:
+      - t̪á
+      - t̪-á
+      - be.lost-ventive-au-imperative
+      - 1.0
+      15:
+      - ðɔ́
+      - ð-ɔ́
+      - slice-ventive-aɔ-imperfective
+      - 1.0
+      16:
+      - ðɔ́
+      - ð-ɔ́
+      - slice-itive-aɔ-imperative
+      - 1.0
+  - original_str: áprí
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ápɾí
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 0.05
+      1:
+      - àpɾí
+      - àpɾí
+      - boy-nominative-singular
+      - 0.1
+      2:
+      - ápɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 1.05
+      3:
+      - ápàŕ
+      - áp-à-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-imperfective
+      - 1.05
+      4:
+      - ápàŕ
+      - áp-à-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-imperfective
+      - 1.05
+      5:
+      - ápɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-left_h-1pl.incl.sbj-imperfective
+      - 1.05
+      6:
+      - ápɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-left_h-1pl.incl.obj-imperfective
+      - 1.05
+      7:
+      - ápɛ̀ŕ
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-perfective
+      - 1.05
+      8:
+      - ápɛ̀ŕ
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-perfective
+      - 1.05
+      9:
+      - ábr̀ì
+      - ábr̀-ì
+      - jump-itive-ao-perfective
+      - 1.1
+      10:
+      - àpɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-singular
+      - 1.1
+      11:
+      - àpɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-1pl.incl.sbj-imperfective
+      - 1.1
+      12:
+      - àpɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-1pl.incl.obj-imperfective
+      - 1.1
+      13:
+      - ápɾì<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-final_lowering-left_h-singular
+      - 1.1
+  - original_str: və́lɛ̀ðɔ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - və́lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - və̀lɛ̀ð-ɔ́
+      - pull-ventive-final_lowering-aɔ-left_h-imperfective
+      - 0.0
+      1:
+      - və́lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - və́lɛ́ð-ɔ́
+      - pull-itive-final_lowering-aɔ-left_h-imperative
+      - 0.0
+      2:
+      - və̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - və̀lɛ̀ð-ɔ́
+      - pull-ventive-final_lowering-aɔ-imperfective
+      - 0.05
+      3:
+      - və̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - və́lɛ́ð-ɔ́
+      - pull-itive-final_lowering-aɔ-imperative
+      - 0.05
+      4:
+      - və́lɛ̀ðɔ́<ENDOFSENTENCE>
+      - və̀lɛ̀ð-ɔ́
+      - pull-ventive-aɔ-left_h-imperfective
+      - 0.05
+      5:
+      - və̀lɛ̀ðɔ́<ENDOFSENTENCE>
+      - və̀lɛ̀ð-ɔ́
+      - pull-ventive-aɔ-imperfective
+      - 0.1
+      6:
+      - və́lɛ́ðɔ́<ENDOFSENTENCE>
+      - və́lɛ́ð-ɔ́
+      - pull-itive-aɔ-imperative
+      - 0.1
+      7:
+      - ávə̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - á-və̀lɛ̀ð-ɔ́
+      - pull-ventive-final_lowering-aɔ-2sg.sbj-perfective
+      - 0.6
+      8:
+      - ávə̀lɛ̀ðɔ́<ENDOFSENTENCE>
+      - á-və̀lɛ̀ð-ɔ́
+      - pull-ventive-aɔ-2sg.sbj-perfective
+      - 0.65
+      9:
+      - və́lɛ̀ðà<ENDOFSENTENCE>
+      - və̀lɛ̀ð-á
+      - pull-ventive-final_lowering-aɔ-left_h-imperative
+      - 1.0
+      10:
+      - və́lɛ̀ðà<ENDOFSENTENCE>
+      - və́lɛ̀ð-à
+      - pull-itive-aɔ-imperfective
+      - 1.0
+      11:
+      - və́lɛ̀ðɛ̀<ENDOFSENTENCE>
+      - və́lɛ̀ð-ɛ̀
+      - pull-itive-aɔ-perfective
+      - 1.0
+- sentence: ðá áprí və́lɛ̀ðà
+  updated_sentence: ''
+  translation: boy will pull it sheep away from
+  split: train
+  index: '6'
+  checked_by_pi: false
+  words:
+  - original_str: ðá
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðá
+      - ð-á
+      - aux-CLð-imperfective
+      - 0.0
+      1:
+      - ðá
+      - ð-á
+      - aux-CLð-3sg.obj-2sg.sbj-imperfective
+      - 0.0
+      2:
+      - ðá
+      - ð-á
+      - slice-ventive-aɔ-imperative
+      - 0.0
+      3:
+      - ðâ
+      - ð-à
+      - aux-CLð-itive-left_h-perfective
+      - 0.05
+      4:
+      - ðâ
+      - ð-à
+      - aux-CLð-itive-left_h-3sg.obj-2sg.sbj-perfective
+      - 0.05
+      5:
+      - ðâ
+      - ð-à
+      - slice-itive-aɔ-left_h-imperfective
+      - 0.05
+      6:
+      - ðà
+      - ð-à
+      - aux-CLð-itive-perfective
+      - 0.05
+      7:
+      - ðà
+      - ð-à
+      - aux-CLð-itive-3sg.obj-2sg.sbj-perfective
+      - 0.05
+      8:
+      - ðà
+      - ð-à
+      - slice-itive-aɔ-imperfective
+      - 0.05
+      9:
+      - ɔ̀ðá
+      - ɔ̀ð-á
+      - grind-ventive-aɔ-imperative
+      - 0.55
+      10:
+      - ɔ́ðá
+      - ɔ̀ð-á
+      - grind-ventive-aɔ-left_h-imperative
+      - 0.55
+      11:
+      - ɔ́ðà
+      - ɔ́ð-à
+      - grind-itive-aɔ-imperfective
+      - 0.6
+      12:
+      - t̪á
+      - t̪-á
+      - aux-CLt̪-imperfective
+      - 1.0
+      13:
+      - t̪á
+      - t̪-á
+      - aux-CLt̪-3sg.obj-2sg.sbj-imperfective
+      - 1.0
+      14:
+      - t̪á
+      - t̪-á
+      - be.lost-ventive-au-imperative
+      - 1.0
+      15:
+      - ðɔ́
+      - ð-ɔ́
+      - slice-ventive-aɔ-imperfective
+      - 1.0
+      16:
+      - ðɔ́
+      - ð-ɔ́
+      - slice-itive-aɔ-imperative
+      - 1.0
+  - original_str: áprí
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ápɾí
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 0.05
+      1:
+      - àpɾí
+      - àpɾí
+      - boy-nominative-singular
+      - 0.1
+      2:
+      - ápɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-left_h-singular
+      - 1.05
+      3:
+      - ápàŕ
+      - áp-à-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-imperfective
+      - 1.05
+      4:
+      - ápàŕ
+      - áp-à-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-imperfective
+      - 1.05
+      5:
+      - ápɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-left_h-1pl.incl.sbj-imperfective
+      - 1.05
+      6:
+      - ápɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-left_h-1pl.incl.obj-imperfective
+      - 1.05
+      7:
+      - ápɛ̀ŕ
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.sbj-perfective
+      - 1.05
+      8:
+      - ápɛ̀ŕ
+      - áp-ɛ̀-ŕ
+      - carry-itive-aɔ-1pl.incl.obj-perfective
+      - 1.05
+      9:
+      - ábr̀ì
+      - ábr̀-ì
+      - jump-itive-ao-perfective
+      - 1.1
+      10:
+      - àpɾí<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-singular
+      - 1.1
+      11:
+      - àpɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-1pl.incl.sbj-imperfective
+      - 1.1
+      12:
+      - àpɔ́ŕ
+      - àp-ɔ́-ŕ
+      - carry-ventive-aɔ-1pl.incl.obj-imperfective
+      - 1.1
+      13:
+      - ápɾì<ENDOFSENTENCE>
+      - àpɾí
+      - boy-nominative-final_lowering-left_h-singular
+      - 1.1
+  - original_str: və́lɛ̀ðà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - və́lɛ̀ðà<ENDOFSENTENCE>
+      - və̀lɛ̀ð-á
+      - pull-ventive-final_lowering-aɔ-left_h-imperative
+      - 0.0
+      1:
+      - və́lɛ̀ðà<ENDOFSENTENCE>
+      - və́lɛ̀ð-à
+      - pull-itive-aɔ-imperfective
+      - 0.0
+      2:
+      - və̀lɛ̀ðà<ENDOFSENTENCE>
+      - və̀lɛ̀ð-á
+      - pull-ventive-final_lowering-aɔ-imperative
+      - 0.05
+      3:
+      - və́lɛ̀ðá<ENDOFSENTENCE>
+      - və̀lɛ̀ð-á
+      - pull-ventive-aɔ-left_h-imperative
+      - 0.05
+      4:
+      - və̀lɛ̀ðá<ENDOFSENTENCE>
+      - və̀lɛ̀ð-á
+      - pull-ventive-aɔ-imperative
+      - 0.1
+      5:
+      - və́lɛ̀ðɛ̀<ENDOFSENTENCE>
+      - və́lɛ̀ð-ɛ̀
+      - pull-itive-aɔ-perfective
+      - 1.0
+      6:
+      - və́lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - və̀lɛ̀ð-ɔ́
+      - pull-ventive-final_lowering-aɔ-left_h-imperfective
+      - 1.0
+      7:
+      - və́lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - və́lɛ́ð-ɔ́
+      - pull-itive-final_lowering-aɔ-left_h-imperative
+      - 1.0
+      8:
+      - və́lɛ̀ðà
+      - və́lɛ̀ð-à
+      - pull-itive-aɔ-imperfective
+      - 1.0
+      9:
+      - və̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - və̀lɛ̀ð-ɔ́
+      - pull-ventive-final_lowering-aɔ-imperfective
+      - 1.05
+      10:
+      - və̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - və́lɛ́ð-ɔ́
+      - pull-itive-final_lowering-aɔ-imperative
+      - 1.05
+      11:
+      - və́lɛ̀ðàŕ<ENDOFSENTENCE>
+      - və́lɛ̀ð-à-ŕ
+      - pull-itive-aɔ-1pl.incl.sbj-imperfective
+      - 1.05
+      12:
+      - və́lɛ̀ðàŕ<ENDOFSENTENCE>
+      - və́lɛ̀ð-à-ŕ
+      - pull-itive-aɔ-1pl.incl.obj-imperfective
+      - 1.05
+- sentence: án ɔ́ɟɔ́ kə́və́lɛ̀ðɔ̀
+  updated_sentence: ''
+  translation: Who pulled it sheep or something else towards
+  split: train
+  index: '7'
+  checked_by_pi: false
+  words:
+  - original_str: án
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - àn
+      - àn
+      - FOC
+      - 0.05
+      1:
+      - ân
+      - àn
+      - FOC-left_h
+      - 0.05
+      2:
+      - ɜ́nì
+      - ɜ̀nì
+      - ear/leaf-nominative-left_h-singular
+      - 0.6
+      3:
+      - áǹɔ́
+      - á-ǹ-ɔ́
+      - listen-ventive-aɔ-2sg.sbj-perfective
+      - 0.6
+      4:
+      - ɜ̀nì
+      - ɜ̀nì
+      - ear/leaf-nominative-singular
+      - 0.65
+      5:
+      - ŋán
+      - ŋán
+      - milk-nominative-plural
+      - 1.0
+      6:
+      - lán
+      - lán
+      - milk-nominative-singular
+      - 1.0
+  - original_str: ɔ́ɟɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ɔ́ɽɔ́
+      - ɔ̀ɽ-ɔ́
+      - run-ventive-aɔ-left_h-imperfective
+      - 1.0
+      1:
+      - ɔ́ɽɔ́
+      - ɔ́ɽ-ɔ́
+      - run-itive-aɔ-imperative
+      - 1.0
+      2:
+      - ɔ́ðɔ́
+      - ɔ̀ð-ɔ́
+      - grind-ventive-aɔ-left_h-imperfective
+      - 1.0
+      3:
+      - ɔ́ðɔ́
+      - ɔ́ð-ɔ́
+      - grind-itive-aɔ-imperative
+      - 1.0
+      4:
+      - ɔ́dɔ́
+      - ɔ̀d-ɔ́
+      - build-ventive-aɔ-left_h-imperfective
+      - 1.0
+      5:
+      - ɔ́dɔ́
+      - ɔ́d-ɔ́
+      - build-itive-aɔ-imperative
+      - 1.0
+      6:
+      - ɔ́dɔ́
+      - ɔ̀d-ɔ́
+      - touch-ventive-ɔi-left_h-imperative
+      - 1.0
+      7:
+      - ɔ́ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-ventive-ɔɔ-left_h-imperfective
+      - 1.0
+      8:
+      - ɔ́ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-ventive-ɔɔ-left_h-imperative
+      - 1.0
+      9:
+      - ɔ́ɾɔ́
+      - ɔ́ɾ-ɔ́
+      - insult-itive-ɔɔ-imperative
+      - 1.0
+      10:
+      - ɔ̀ðɔ́
+      - ɔ̀ð-ɔ́
+      - grind-ventive-aɔ-imperfective
+      - 1.05
+      11:
+      - ɔ́ɾɔ̀
+      - ɔ́ɾ-ɔ̀
+      - insult-itive-ɔɔ-imperfective
+      - 1.05
+      12:
+      - ɔ́dɔ̀
+      - ɔ́d-ɔ̀
+      - touch-itive-ɔi-imperfective
+      - 1.05
+      13:
+      - ɔ̀ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-ventive-ɔɔ-imperfective
+      - 1.05
+      14:
+      - ɔ̀ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-ventive-ɔɔ-imperative
+      - 1.05
+      15:
+      - ɔ̀dɔ́
+      - ɔ̀d-ɔ́
+      - build-ventive-aɔ-imperfective
+      - 1.05
+      16:
+      - ɔ̀dɔ́
+      - ɔ̀d-ɔ́
+      - touch-ventive-ɔi-imperative
+      - 1.05
+      17:
+      - ɔ̀ɽɔ́
+      - ɔ̀ɽ-ɔ́
+      - run-ventive-aɔ-imperfective
+      - 1.05
+  - original_str: kə́və́lɛ̀ðɔ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - kə́və̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - kə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLg-ventive-final_lowering-aɔ-left_h-perfective
+      - 0.05
+      1:
+      - kə̀və̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - kə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLg-ventive-final_lowering-aɔ-perfective
+      - 0.1
+      2:
+      - kə́və̀lɛ̀ðɔ́<ENDOFSENTENCE>
+      - kə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLg-ventive-aɔ-left_h-perfective
+      - 0.1
+      3:
+      - kə̀və̀lɛ̀ðɔ́<ENDOFSENTENCE>
+      - kə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLg-ventive-aɔ-perfective
+      - 0.15
+      4:
+      - kɛ́ və̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - k-ɛ́ və̀lɛ̀ð-ɔ́
+      - pull-aux-CLg-ventive-final_lowering-aɔ-3sg.obj-1sg.sbj-imperfective
+      - 0.6
+      5:
+      - ká və̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - k-á və̀lɛ̀ð-ɔ́
+      - pull-aux-CLg-ventive-final_lowering-aɔ-imperfective
+      - 0.6
+      6:
+      - ká və̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - k-á və̀lɛ̀ð-ɔ́
+      - pull-aux-CLg-ventive-final_lowering-aɔ-3sg.obj-2sg.sbj-imperfective
+      - 0.6
+      7:
+      - kɛ́ və̀lɛ̀ðɔ́<ENDOFSENTENCE>
+      - k-ɛ́ və̀lɛ̀ð-ɔ́
+      - pull-aux-CLg-ventive-aɔ-3sg.obj-1sg.sbj-imperfective
+      - 0.65
+      8:
+      - ká və̀lɛ̀ðɔ́<ENDOFSENTENCE>
+      - k-á və̀lɛ̀ð-ɔ́
+      - pull-aux-CLg-ventive-aɔ-imperfective
+      - 0.65
+      9:
+      - ká və̀lɛ̀ðɔ́<ENDOFSENTENCE>
+      - k-á və̀lɛ̀ð-ɔ́
+      - pull-aux-CLg-ventive-aɔ-3sg.obj-2sg.sbj-imperfective
+      - 0.65
+      10:
+      - ɲə́və̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - ɲə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLɲ-ventive-final_lowering-aɔ-left_h-perfective
+      - 1.05
+      11:
+      - lə́və̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - lə́-və̀lɛ̀ð-ɔ́
+      - pull-ventive-final_lowering-aɔ-1du.incl.sbj-perfective
+      - 1.05
+      12:
+      - lə́və̀lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - lə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLl-ventive-final_lowering-aɔ-left_h-perfective
+      - 1.05
+- sentence: ðə̀və̀lɛ̀ðɔ́ ɔ́ɟɔ̀
+  updated_sentence: ''
+  translation: Who pulled the sheep toward
+  split: train
+  index: '8'
+  checked_by_pi: false
+  words:
+  - original_str: ðə̀və̀lɛ̀ðɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðə̀və̀lɛ̀ðɔ́
+      - ðə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLð-ventive-aɔ-perfective
+      - 0.0
+      1:
+      - ðə́və̀lɛ̀ðɔ́
+      - ðə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLð-ventive-aɔ-left_h-perfective
+      - 0.05
+      2:
+      - ðɛ́ və̀lɛ̀ðɔ́
+      - ð-ɛ́ və̀lɛ̀ð-ɔ́
+      - pull-aux-CLð-ventive-aɔ-3sg.obj-1sg.sbj-imperfective
+      - 0.6
+      3:
+      - ðá və̀lɛ̀ðɔ́
+      - ð-á və̀lɛ̀ð-ɔ́
+      - pull-aux-CLð-ventive-aɔ-imperfective
+      - 0.6
+      4:
+      - ðá və̀lɛ̀ðɔ́
+      - ð-á və̀lɛ̀ð-ɔ́
+      - pull-aux-CLð-ventive-aɔ-3sg.obj-2sg.sbj-imperfective
+      - 0.6
+      5:
+      - t̪ə̀və̀lɛ̀ðɔ́
+      - t̪ə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLt̪-ventive-aɔ-perfective
+      - 1.0
+      6:
+      - lə̀və̀lɛ̀ðɔ́
+      - lə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLl-ventive-aɔ-perfective
+      - 1.0
+      7:
+      - nə̀və̀lɛ̀ðɔ́
+      - nə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLn-ventive-aɔ-perfective
+      - 1.0
+      8:
+      - kə̀və̀lɛ̀ðɔ́
+      - kə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLg-ventive-aɔ-perfective
+      - 1.0
+      9:
+      - ŋə̀və̀lɛ̀ðɔ́
+      - ŋə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLŋ-ventive-aɔ-perfective
+      - 1.0
+      10:
+      - rə̀və̀lɛ̀ðɔ́
+      - rə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLr-ventive-aɔ-perfective
+      - 1.0
+  - original_str: ɔ́ɟɔ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ɔ́ɾɔ̀<ENDOFSENTENCE>
+      - ɔ̀ɾ-ɔ́
+      - insult-ventive-final_lowering-ɔɔ-left_h-imperfective
+      - 1.0
+      1:
+      - ɔ́ɾɔ̀<ENDOFSENTENCE>
+      - ɔ̀ɾ-ɔ́
+      - insult-ventive-final_lowering-ɔɔ-left_h-imperative
+      - 1.0
+      2:
+      - ɔ́ɾɔ̀<ENDOFSENTENCE>
+      - ɔ́ɾ-ɔ̀
+      - insult-itive-ɔɔ-imperfective
+      - 1.0
+      3:
+      - ɔ́ɾɔ̀<ENDOFSENTENCE>
+      - ɔ́ɾ-ɔ́
+      - insult-itive-final_lowering-ɔɔ-left_h-imperative
+      - 1.0
+      4:
+      - ɔ́ðɔ̀<ENDOFSENTENCE>
+      - ɔ̀ð-ɔ́
+      - grind-ventive-final_lowering-aɔ-left_h-imperfective
+      - 1.0
+      5:
+      - ɔ́ðɔ̀<ENDOFSENTENCE>
+      - ɔ́ð-ɔ́
+      - grind-itive-final_lowering-aɔ-left_h-imperative
+      - 1.0
+      6:
+      - ɔ́dɔ̀<ENDOFSENTENCE>
+      - ɔ̀d-ɔ́
+      - build-ventive-final_lowering-aɔ-left_h-imperfective
+      - 1.0
+      7:
+      - ɔ́dɔ̀<ENDOFSENTENCE>
+      - ɔ́d-ɔ́
+      - build-itive-final_lowering-aɔ-left_h-imperative
+      - 1.0
+      8:
+      - ɔ́dɔ̀<ENDOFSENTENCE>
+      - ɔ̀d-ɔ́
+      - touch-ventive-final_lowering-ɔi-left_h-imperative
+      - 1.0
+      9:
+      - ɔ́dɔ̀<ENDOFSENTENCE>
+      - ɔ́d-ɔ̀
+      - touch-itive-ɔi-imperfective
+      - 1.0
+      10:
+      - ɔ́ɽɔ̀<ENDOFSENTENCE>
+      - ɔ̀ɽ-ɔ́
+      - run-ventive-final_lowering-aɔ-left_h-imperfective
+      - 1.0
+      11:
+      - ɔ́ɽɔ̀<ENDOFSENTENCE>
+      - ɔ́ɽ-ɔ́
+      - run-itive-final_lowering-aɔ-left_h-imperative
+      - 1.0
+      12:
+      - ɔ̀dɔ̀<ENDOFSENTENCE>
+      - ɔ̀d-ɔ́
+      - build-ventive-final_lowering-aɔ-imperfective
+      - 1.05
+      13:
+      - ɔ̀dɔ̀<ENDOFSENTENCE>
+      - ɔ́d-ɔ́
+      - build-itive-final_lowering-aɔ-imperative
+      - 1.05
+      14:
+      - ɔ̀dɔ̀<ENDOFSENTENCE>
+      - ɔ̀d-ɔ́
+      - touch-ventive-final_lowering-ɔi-imperative
+      - 1.05
+      15:
+      - ɔ̀ɽɔ̀<ENDOFSENTENCE>
+      - ɔ̀ɽ-ɔ́
+      - run-ventive-final_lowering-aɔ-imperfective
+      - 1.05
+      16:
+      - ɔ̀ɽɔ̀<ENDOFSENTENCE>
+      - ɔ́ɽ-ɔ́
+      - run-itive-final_lowering-aɔ-imperative
+      - 1.05
+      17:
+      - ɔ̀ðɔ̀<ENDOFSENTENCE>
+      - ɔ̀ð-ɔ́
+      - grind-ventive-final_lowering-aɔ-imperfective
+      - 1.05
+      18:
+      - ɔ̀ðɔ̀<ENDOFSENTENCE>
+      - ɔ́ð-ɔ́
+      - grind-itive-final_lowering-aɔ-imperative
+      - 1.05
+      19:
+      - ɔ̀ɾɔ̀<ENDOFSENTENCE>
+      - ɔ̀ɾ-ɔ́
+      - insult-ventive-final_lowering-ɔɔ-imperfective
+      - 1.05
+      20:
+      - ɔ̀ɾɔ̀<ENDOFSENTENCE>
+      - ɔ̀ɾ-ɔ́
+      - insult-ventive-final_lowering-ɔɔ-imperative
+      - 1.05
+      21:
+      - ɔ̀ɾɔ̀<ENDOFSENTENCE>
+      - ɔ́ɾ-ɔ́
+      - insult-itive-final_lowering-ɔɔ-imperative
+      - 1.05
+      22:
+      - ɔ́ðɔ́<ENDOFSENTENCE>
+      - ɔ̀ð-ɔ́
+      - grind-ventive-aɔ-left_h-imperfective
+      - 1.05
+      23:
+      - ɔ́ðɔ́<ENDOFSENTENCE>
+      - ɔ́ð-ɔ́
+      - grind-itive-aɔ-imperative
+      - 1.05
+      24:
+      - ɔ́ɽɔ́<ENDOFSENTENCE>
+      - ɔ̀ɽ-ɔ́
+      - run-ventive-aɔ-left_h-imperfective
+      - 1.05
+      25:
+      - ɔ́ɽɔ́<ENDOFSENTENCE>
+      - ɔ́ɽ-ɔ́
+      - run-itive-aɔ-imperative
+      - 1.05
+- sentence: ðɔ́ɟɔ́ və́lɛ̀ðɛ̀
+  updated_sentence: ''
+  translation: Who pulled it sheep away
+  split: train
+  index: '9'
+  checked_by_pi: false
+  words:
+  - original_str: ðɔ́ɟɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðɔ́ðɔ́
+      - ð-ɔ̀ð-ɔ́
+      - grind-CLð-ventive-aɔ-left_h-perfective
+      - 1.0
+      1:
+      - ðɔ́ɾɔ́
+      - ð-ɔ́ɾ-ɔ́
+      - insult-CLð-ɔɔ-infinitive
+      - 1.0
+      2:
+      - ðɔ́ɾɔ́
+      - ð-ɔ̀ɾ-ɔ́
+      - insult-CLð-ventive-ɔɔ-left_h-perfective
+      - 1.0
+      3:
+      - ðɔ́dɔ́
+      - ð-ɔ̀d-ɔ́
+      - build-CLð-ventive-aɔ-left_h-perfective
+      - 1.0
+      4:
+      - ðɔ́dɔ́
+      - ð-ɔ́d-ɔ́
+      - touch-CLð-ɔi-infinitive
+      - 1.0
+      5:
+      - ðɔ́ɽɔ́
+      - ð-ɔ̀ɽ-ɔ́
+      - run-CLð-ventive-aɔ-left_h-perfective
+      - 1.0
+      6:
+      - ðɔ̀ðɔ́
+      - ð-ɔ̀ð-ɔ́
+      - grind-CLð-ventive-aɔ-perfective
+      - 1.05
+      7:
+      - ðɔ́ɾɔ̀
+      - ð-ɔ̀ɾ-ɔ̀
+      - insult-CLð-ventive-ɔɔ-left_h-dependent
+      - 1.05
+      8:
+      - ðɔ̀ɽɔ́
+      - ð-ɔ̀ɽ-ɔ́
+      - run-CLð-ventive-aɔ-perfective
+      - 1.05
+      9:
+      - ðɔ́dɔ̀
+      - ð-ɔ̀d-ɔ̀
+      - touch-CLð-ventive-ɔi-left_h-dependent
+      - 1.05
+      10:
+      - ðɔ̀ɾɔ́
+      - ð-ɔ̀ɾ-ɔ́
+      - insult-CLð-ventive-ɔɔ-perfective
+      - 1.05
+      11:
+      - ðɔ̀dɔ́
+      - ð-ɔ̀d-ɔ́
+      - build-CLð-ventive-aɔ-perfective
+      - 1.05
+  - original_str: və́lɛ̀ðɛ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - və́lɛ̀ðɛ̀<ENDOFSENTENCE>
+      - və́lɛ̀ð-ɛ̀
+      - pull-itive-aɔ-perfective
+      - 0.0
+      1:
+      - və́lɛ̀ðà<ENDOFSENTENCE>
+      - və̀lɛ̀ð-á
+      - pull-ventive-final_lowering-aɔ-left_h-imperative
+      - 1.0
+      2:
+      - və́lɛ̀ðà<ENDOFSENTENCE>
+      - və́lɛ̀ð-à
+      - pull-itive-aɔ-imperfective
+      - 1.0
+      3:
+      - və́lɛ̀ðɛ̀
+      - və́lɛ̀ð-ɛ̀
+      - pull-itive-aɔ-perfective
+      - 1.0
+      4:
+      - və́lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - və̀lɛ̀ð-ɔ́
+      - pull-ventive-final_lowering-aɔ-left_h-imperfective
+      - 1.0
+      5:
+      - və́lɛ̀ðɔ̀<ENDOFSENTENCE>
+      - və́lɛ́ð-ɔ́
+      - pull-itive-final_lowering-aɔ-left_h-imperative
+      - 1.0
+      6:
+      - ɲílɛ̀ðɛ̀<ENDOFSENTENCE>
+      - ɲ-ìlɛ̀ð-ɛ̀
+      - buy/sell-CLɲ-itive-ɔɔ-left_h-dependent
+      - 1.05
+      7:
+      - ŋílɛ̀ðɛ̀<ENDOFSENTENCE>
+      - ŋ-ìlɛ̀ð-ɛ̀
+      - buy/sell-CLŋ-itive-ɔɔ-left_h-dependent
+      - 1.05
+      8:
+      - lílɛ̀ðɛ̀<ENDOFSENTENCE>
+      - l-ìlɛ̀ð-ɛ̀
+      - buy/sell-CLl-itive-ɔɔ-left_h-dependent
+      - 1.05
+      9:
+      - və́lɛ̀ðɛ̀r̀<ENDOFSENTENCE>
+      - və́lɛ̀ð-ɛ̀-ŕ
+      - pull-itive-final_lowering-aɔ-1pl.incl.sbj-perfective
+      - 1.05
+      10:
+      - və́lɛ̀ðɛ̀r̀<ENDOFSENTENCE>
+      - və́lɛ̀ð-ɛ̀-ŕ
+      - pull-itive-final_lowering-aɔ-1pl.incl.obj-perfective
+      - 1.05
+      11:
+      - t̪ílɛ̀ðɛ̀<ENDOFSENTENCE>
+      - t̪-ìlɛ̀ð-ɛ̀
+      - buy/sell-CLt̪-itive-ɔɔ-left_h-dependent
+      - 1.05
