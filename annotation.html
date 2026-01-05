@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tira Parse Annotator</title>
+    <!-- Dependencies -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        :root {
+            --primary: #4f46e5;
+            --primary-hover: #4338ca;
+            --bg: #f8fafc;
+            --surface: #ffffff;
+            --border: #e2e8f0;
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+            --success: #10b981;
+            --warning: #f59e0b;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
+            background: var(--bg); 
+            color: var(--text-main);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        header {
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 10;
+        }
+
+        .brand { display: flex; align-items: center; gap: 0.75rem; font-weight: 800; font-size: 1.1rem; }
+        .controls { display: flex; gap: 0.5rem; }
+
+        .container { display: flex; flex: 1; overflow: hidden; }
+
+        aside {
+            width: 320px;
+            background: var(--surface);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .sidebar-header { padding: 1rem; border-bottom: 1px solid var(--border); }
+        .search-box {
+            width: 100%;
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--border);
+            border-radius: 0.5rem;
+            background: #f1f5f9;
+            margin-bottom: 0.75rem;
+        }
+
+        #sentence-list { flex: 1; overflow-y: auto; }
+        .list-item {
+            width: 100%;
+            padding: 1rem;
+            text-align: left;
+            border: none;
+            background: transparent;
+            border-bottom: 1px solid #f1f5f9;
+            cursor: pointer;
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .list-item:hover { background: #f8fafc; }
+        .list-item.active { background: #eef2ff; border-left: 4px solid var(--primary); }
+        .status-dot { width: 8px; height: 8px; border-radius: 50%; margin-top: 4px; flex-shrink: 0; }
+        .status-pending { background: #cbd5e1; }
+        .status-completed { background: var(--success); }
+
+        main { flex: 1; overflow-y: auto; padding: 2rem; background: #f1f5f9; }
+        .editor-card {
+            max-width: 900px;
+            margin: 0 auto;
+            background: var(--surface);
+            border-radius: 1rem;
+            border: 1px solid var(--border);
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            min-height: 600px;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+            color: white;
+            padding: 2rem;
+        }
+
+        .sentence-display-group {
+            margin-top: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .sentence-row {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+
+        .sentence-label {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            font-weight: 800;
+            letter-spacing: 0.05em;
+            opacity: 0.7;
+        }
+
+        .sentence-text {
+            font-family: "Charis SIL";
+            font-size: 1.25rem;
+            opacity: 0.95;
+        }
+
+        .sentence-tokens {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 1.5rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .token {
+            padding: 0.4rem 0.6rem;
+            background: rgba(255,255,255,0.1);
+            border-radius: 0.5rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-family: "Charis SIL";
+            font-size: 1.2rem;
+            border: 2px solid transparent;
+        }
+
+        .token:hover { background: rgba(255,255,255,0.2); }
+        .token.active { background: white; color: var(--primary); border-color: var(--warning); }
+        .token.parsed { border-bottom: 3px solid var(--success); }
+
+        .content { padding: 2rem; flex: 1; }
+        .section-title { font-size: 0.8rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-bottom: 1rem; letter-spacing: 0.05em; }
+
+        .word-status-bar {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            background: #f8fafc;
+            padding: 1rem;
+            border-radius: 0.75rem;
+            margin-bottom: 1.5rem;
+            border: 1px solid var(--border);
+        }
+
+        .status-item { display: flex; flex-direction: column; }
+        .status-label { font-size: 0.6rem; font-weight: 800; color: var(--text-muted); text-transform: uppercase; }
+        .status-value { font-weight: 700; font-size: 0.95rem; margin-top: 2px; }
+
+        .parse-grid { display: grid; grid-template-columns: 1fr; gap: 0.75rem; }
+        .parse-option {
+            width: 100%;
+            padding: 1rem;
+            border: 2px solid var(--border);
+            border-radius: 0.75rem;
+            background: var(--surface);
+            text-align: left;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .parse-option:hover { border-color: var(--primary); }
+        .parse-option.selected { border-color: var(--primary); background: #f5f3ff; }
+        .parse-main { font-weight: 700; font-size: 1.1rem; }
+        .parse-sub { color: var(--text-muted); font-size: 0.85rem; margin-top: 0.1rem; font-family: monospace; }
+        
+        .weight-tag { font-size: 0.7rem; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-weight: 700; color: var(--text-muted); }
+
+        .manual-area {
+            margin-bottom: 2rem;
+            padding: 1.5rem;
+            background: #fffbeb;
+            border-radius: 1rem;
+            border: 1px solid #fde68a;
+        }
+
+        .field-group { display: flex; flex-direction: column; gap: 0.25rem; }
+        .field-label { font-size: 0.75rem; font-weight: 700; color: var(--text-main); }
+
+        textarea, input.text-input {
+            width: 100%; padding: 0.75rem; border-radius: 0.5rem; border: 1px solid #d1d5db;
+            font-family: inherit; resize: none; background: white;
+        }
+        
+        input.text-input { height: 40px; }
+
+        .btn {
+            padding: 0.6rem 1.2rem; border-radius: 0.5rem; font-weight: 600; cursor: pointer;
+            font-size: 0.875rem; display: flex; align-items: center; gap: 0.5rem; border: none;
+        }
+
+        .btn-primary { background: var(--primary); color: white; }
+        .btn-primary:hover { background: var(--primary-hover); }
+        .btn-outline { background: white; border: 1px solid var(--border); color: var(--text-main); }
+        .btn-warning { background: #d97706; color: white; }
+        .btn-warning:hover { background: #b45309; }
+
+        .hidden { display: none; }
+        .empty-state { height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; color: var(--text-muted); }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="brand"><i data-lucide="languages"></i> Tira Annotator</div>
+    <div class="controls">
+        <input type="file" id="fileInput" class="hidden" accept=".yaml,.yml">
+        <button class="btn btn-outline" onclick="document.getElementById('fileInput').click()"><i data-lucide="upload"></i> Load YAML</button>
+        <button class="btn btn-primary" onclick="exportFile()"><i data-lucide="download"></i> Download YAML</button>
+    </div>
+</header>
+
+<div class="container">
+    <aside>
+        <div class="sidebar-header">
+            <input type="text" id="searchInput" class="search-box" placeholder="Search sentences...">
+        </div>
+        <div id="sentence-list"></div>
+    </aside>
+
+    <main id="main-content">
+        <div class="empty-state">
+            <i data-lucide="file-text" style="width: 48px; height: 48px; margin-bottom: 1rem;"></i>
+            <h3>No corpus loaded</h3>
+            <p>Load a YAML file to begin linguistic annotation.</p>
+        </div>
+    </main>
+</div>
+
+<script>
+    let appData = [];
+    let currentIndex = -1;
+    let selectedWordIndex = 0;
+    let searchQuery = '';
+    let uploadedFileName = 'tira_annotated';
+
+    document.addEventListener('DOMContentLoaded', () => {
+        lucide.createIcons();
+        setupEventListeners();
+    });
+
+    function setupEventListeners() {
+        document.getElementById('fileInput').addEventListener('change', handleFileUpload);
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            searchQuery = e.target.value.toLowerCase();
+            renderSidebar();
+        });
+        
+        document.addEventListener('keydown', (e) => {
+            if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'INPUT') {
+                if (e.key === 'Enter' && !e.shiftKey && (e.target.id === 'man-norm' || e.target.id === 'man-gloss' || e.target.id === 'word-comment')) {
+                    e.preventDefault();
+                    saveWordData();
+                }
+                return;
+            }
+            
+            if (e.shiftKey) {
+                if (e.key === 'ArrowLeft') { e.preventDefault(); navigateSentence(-1); }
+                if (e.key === 'ArrowRight') { e.preventDefault(); navigateSentence(1); }
+                if (e.key === 's' || e.key === 'S') { e.preventDefault(); exportFile(); }
+                return;
+            }
+
+            if (e.key === 'ArrowLeft') { e.preventDefault(); navigateWord(-1); }
+            if (e.key === 'ArrowRight') { e.preventDefault(); navigateWord(1); }
+
+            if (e.key === 'ArrowUp') { e.preventDefault(); navigateParse(-1); }
+            if (e.key === 'ArrowDown') { e.preventDefault(); navigateParse(1); }
+
+            if (e.key === 'Escape') { e.preventDefault(); clearWordSelection(); }
+        });
+    }
+
+    async function handleFileUpload(e) {
+        const file = e.target.files[0];
+        if (!file) return;
+
+        uploadedFileName = file.name.replace(/\.[^/.]+$/, "");
+
+        const text = await file.text();
+        try {
+            const parsed = jsyaml.load(text);
+            appData = Array.isArray(parsed) ? parsed : [];
+            if (appData.length > 0) {
+                currentIndex = 0;
+                selectedWordIndex = 0;
+                render();
+            }
+        } catch (err) {
+            alert("YAML Error: " + err.message);
+        }
+    }
+
+    function exportFile() {
+        if (!appData.length) return;
+        const yamlStr = jsyaml.dump(appData);
+        const blob = new Blob([yamlStr], { type: 'text/yaml' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `${uploadedFileName}_${new Date().toISOString().slice(0,10)}.yaml`;
+        a.click();
+    }
+
+    // --- HELPER LOGIC ---
+
+    function getWordStatus(word) {
+        let updated = word.original_str;
+        let gloss = "(Unparsed)";
+        let method = "original";
+
+        if (word.updated_str || word.updated_gloss) {
+            updated = word.updated_str || word.original_str;
+            gloss = word.updated_gloss || "(No gloss)";
+            method = "manual";
+        } else if (word.chosen_parse !== null && word.parses[word.chosen_parse]) {
+            const p = word.parses[word.chosen_parse];
+            updated = p[0];
+            gloss = p[2];
+            method = "selection";
+        }
+
+        return { updated, gloss, method };
+    }
+
+    function getUpdatedSentenceString(sentence) {
+        return sentence.words.map(w => getWordStatus(w).updated).join(' ');
+    }
+
+    // --- RENDERING ---
+
+    function render() {
+        renderSidebar();
+        renderEditor();
+        lucide.createIcons();
+    }
+
+    function renderSidebar() {
+        const list = document.getElementById('sentence-list');
+        list.innerHTML = '';
+        appData.forEach((s, idx) => {
+            if (searchQuery && !s.sentence.toLowerCase().includes(searchQuery)) return;
+            
+            const btn = document.createElement('button');
+            btn.className = `list-item ${idx === currentIndex ? 'active' : ''}`;
+            const isDone = s.words.every(w => w.chosen_parse !== null || w.updated_str);
+            const updatedSent = getUpdatedSentenceString(s);
+            
+            btn.innerHTML = `
+                <div class="status-dot ${isDone ? 'status-completed' : 'status-pending'}"></div>
+                <div style="overflow: hidden;">
+                    <div style="font-size: 0.85rem; font-weight: 600; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
+                        ${s.sentence}
+                    </div>
+                    <div style="font-size: 0.7rem; color: var(--text-muted); font-style: italic; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                        ${updatedSent !== s.sentence ? updatedSent : s.translation}
+                    </div>
+                </div>
+            `;
+            btn.onclick = () => { currentIndex = idx; selectedWordIndex = 0; render(); };
+            list.appendChild(btn);
+        });
+    }
+
+    function renderEditor() {
+        const main = document.getElementById('main-content');
+        if (currentIndex < 0) return;
+        const s = appData[currentIndex];
+        const word = s.words[selectedWordIndex];
+        const wordStatus = getWordStatus(word);
+        const updatedSentence = getUpdatedSentenceString(s);
+
+        main.innerHTML = `
+            <div class="editor-card">
+                <div class="hero">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+                        <span style="font-size: 0.7rem; font-weight: 800; opacity: 0.8; text-transform: uppercase;">Sentence ${s.index} (${s.split})</span>
+                        <span style="font-family: Times New Roman, serif; font-size: 1.5rem; opacity: 0.9;">Translation: ${s.translation}</span>
+                    </div>
+                    
+                    <div class="sentence-display-group">
+                        <div class="sentence-row">
+                            <span class="sentence-label">Original Sentence</span>
+                            <div class="sentence-text">${s.sentence}</div>
+                        </div>
+                        ${updatedSentence !== s.sentence ? `
+                        <div class="sentence-row" style="color: #fbbf24;">
+                            <span class="sentence-label" style="color: #fbbf24;">Updated Sentence</span>
+                            <div class="sentence-text">${updatedSentence}</div>
+                        </div>
+                        ` : ''}
+                    </div>
+
+                    <div class="sentence-tokens">
+                        ${s.words.map((w, idx) => `
+                            <div class="token ${idx === selectedWordIndex ? 'active' : ''} ${w.chosen_parse !== null || w.updated_str ? 'parsed' : ''}" 
+                                 onclick="selectWord(${idx})">
+                                ${w.original_str}
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+
+                <div class="content">
+                    <div class="word-status-bar">
+                        <div class="status-item">
+                            <span class="status-label">Original Word</span>
+                            <span class="status-value">${word.original_str}</span>
+                        </div>
+                        <div class="status-item">
+                            <span class="status-label">Updated Form</span>
+                            <span class="status-value" style="color: var(--primary)">${wordStatus.updated}</span>
+                        </div>
+                        <div class="status-item">
+                            <span class="status-label">Current Gloss</span>
+                            <span class="status-value" style="font-family: monospace; font-size: 0.8rem;">${wordStatus.gloss}</span>
+                        </div>
+                    </div>
+
+                    <!-- Manual Override & Comments moved to top -->
+                    <div class="manual-area">
+                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                            <div class="section-title" style="color: #92400e; margin-bottom: 0;">Word Data & Manual Override</div>
+                            <button class="btn btn-warning" onclick="saveWordData()" style="padding: 0.4rem 1rem;">
+                                <i data-lucide="save"></i> Save Word Info
+                            </button>
+                        </div>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 1rem;">
+                            <div class="field-group">
+                                <label class="field-label">Corrected Norm</label>
+                                <input type="text" id="man-norm" class="text-input" placeholder="àpɾí..." value="${word.updated_str || ''}">
+                            </div>
+                            <div class="field-group">
+                                <label class="field-label">Manual Gloss</label>
+                                <input type="text" id="man-gloss" class="text-input" placeholder="boy-NOM-SG..." value="${word.updated_gloss || ''}">
+                            </div>
+                        </div>
+                        
+                        <div class="field-group" style="margin-top: 1rem;">
+                            <label class="field-label">Comment / Note</label>
+                            <textarea id="word-comment" placeholder="Add a comment about this word...">${word.comment || ''}</textarea>
+                        </div>
+                    </div>
+
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+                        <h3 class="section-title" style="margin-bottom: 0;">Hypotheses Selection</h3>
+                        <button class="btn btn-danger-outline" onclick="clearWordSelection()" style="padding: 0.3rem 0.75rem; font-size: 0.75rem;">
+                            <i data-lucide="trash-2" style="width: 14px; height: 14px;"></i> Clear Selection
+                        </button>
+                    </div>
+
+                    <div class="parse-grid">
+                        ${Object.entries(word.parses).map(([key, p]) => `
+                            <button class="parse-option ${word.chosen_parse == key ? 'selected' : ''}" onclick="setParse('${key}')">
+                                <div>
+                                    <div class="parse-main">${p[0]} <small style="font-weight: 400; color: var(--text-muted)">(${p[1]})</small></div>
+                                    <div class="parse-sub">${p[2]}</div>
+                                </div>
+                                <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 4px;">
+                                    <span class="weight-tag">W: ${p[3]}</span>
+                                    ${word.chosen_parse == key ? '<i data-lucide="check-circle" style="color: var(--primary); width: 18px;"></i>' : ''}
+                                </div>
+                            </button>
+                        `).join('')}
+                    </div>
+
+                    <div style="margin-top: 2rem; display: flex; justify-content: space-between;">
+                        <button class="btn btn-outline" onclick="navigateSentence(-1)"><i data-lucide="arrow-left"></i> Prev Sentence</button>
+                        <button class="btn btn-primary" style="padding-left: 3rem; padding-right: 3rem;" onclick="nextWordOrSentence()">
+                            Next Item <i data-lucide="chevron-right"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        `;
+    }
+
+    // --- ACTIONS ---
+
+    function saveWordData() {
+        const s = appData[currentIndex];
+        const word = s.words[selectedWordIndex];
+        const nInput = document.getElementById('man-norm');
+        const gInput = document.getElementById('man-gloss');
+        const cInput = document.getElementById('word-comment');
+        
+        word.updated_str = nInput.value.trim();
+        word.updated_gloss = gInput.value.trim();
+        word.comment = cInput.value.trim();
+        
+        if (word.updated_str || word.updated_gloss) {
+            word.chosen_parse = null;
+        }
+        
+        render();
+    }
+
+    function clearWordSelection() {
+        const s = appData[currentIndex];
+        const word = s.words[selectedWordIndex];
+        word.chosen_parse = null;
+        word.updated_str = '';
+        word.updated_gloss = '';
+        word.comment = '';
+        render();
+    }
+
+    function selectWord(idx) {
+        selectedWordIndex = idx;
+        render();
+    }
+
+    function navigateWord(delta) {
+        if (currentIndex < 0) return;
+        const s = appData[currentIndex];
+        const nextIdx = selectedWordIndex + delta;
+        if (nextIdx >= 0 && nextIdx < s.words.length) {
+            selectedWordIndex = nextIdx;
+            render();
+        }
+    }
+
+    function navigateSentence(delta) {
+        const next = currentIndex + delta;
+        if (next >= 0 && next < appData.length) {
+            currentIndex = next;
+            selectedWordIndex = 0;
+            render();
+        }
+    }
+
+    function navigateParse(delta) {
+        if (currentIndex < 0) return;
+        const word = appData[currentIndex].words[selectedWordIndex];
+        const parseKeys = Object.keys(word.parses);
+        if (parseKeys.length === 0) return;
+
+        let currentIdx = parseKeys.indexOf(String(word.chosen_parse));
+        if (currentIdx === -1) {
+            currentIdx = delta > 0 ? -1 : parseKeys.length;
+        }
+
+        const nextIdx = currentIdx + delta;
+        if (nextIdx >= 0 && nextIdx < parseKeys.length) {
+            setParse(parseKeys[nextIdx]);
+        }
+    }
+
+    function setParse(key) {
+        const word = appData[currentIndex].words[selectedWordIndex];
+        word.chosen_parse = key;
+        word.updated_str = '';
+        word.updated_gloss = '';
+        render();
+    }
+
+    function nextWordOrSentence() {
+        const s = appData[currentIndex];
+        if (selectedWordIndex < s.words.length - 1) {
+            selectedWordIndex++;
+            render();
+        } else {
+            navigateSentence(1);
+        }
+    }
+</script>
+
+</body>
+</html>
