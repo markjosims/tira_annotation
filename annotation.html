@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tira Parse Annotator</title>
     <!-- Dependencies -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
-    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="js/js-yaml.min.js"></script>
+    <script src="js/lucide.min.js"></script>
     <style>
         :root {
             --primary: #4f46e5;
@@ -285,6 +285,10 @@
             if (e.shiftKey) {
                 if (e.key === 'ArrowLeft') { e.preventDefault(); navigateSentence(-1); }
                 if (e.key === 'ArrowRight') { e.preventDefault(); navigateSentence(1); }
+                return;
+            }
+
+            if (e.ctrlKey || e.metaKey) {
                 if (e.key === 's' || e.key === 'S') { e.preventDefault(); exportFile(); }
                 return;
             }
