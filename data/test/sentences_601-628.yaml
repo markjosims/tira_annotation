@@ -1,0 +1,6971 @@
+- sentence: kúkù ŋgâpɔ́ ɛ́nàǎ
+  update_sentence: ''
+  translation: Kuku hunts (far)
+  split: test
+  index: '600'
+  checked_by_pi: false
+  words:
+  - original_str: kúkù
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - kúkù
+      - kúkù
+      - 1st born male child-NOM-SG
+      - 0.0
+      1:
+      - kúkù<ENDOFSENTENCE>
+      - kúkù
+      - 1st born male child-NOM-SG
+      - 1.0
+      2:
+      - kút̪ú
+      - k-ùt̪-ú
+      - choose-CLG-VENT-PFV-left_h
+      - 1.05
+      3:
+      - kúrú
+      - k-ùr-ú
+      - climb.down-CLG-VENT-PFV-left_h
+      - 1.05
+      4:
+      - kùt̪ú
+      - k-ùt̪-ú
+      - choose-CLG-VENT-PFV
+      - 1.1
+      5:
+      - kùrú
+      - k-ùr-ú
+      - climb.down-CLG-VENT-PFV
+      - 1.1
+      6:
+      - kúdó
+      - k-ùd-ó
+      - burn-CLG-VENT-PFV-left_h
+      - 1.1
+      7:
+      - kùdó
+      - k-ùd-ó
+      - burn-CLG-VENT-PFV
+      - 1.15
+      8:
+      - kúkùŋú
+      - kúkùŋú
+      - 1st born male child-ACC-SG
+      - 1.55
+      9:
+      - kə́t̪ú
+      - kə̀-t̪-ú
+      - be.lost-CLG-VENT-PFV-left_h
+      - 1.6
+  - original_str: ŋgâpɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ŋgápɔ́
+      - ŋg-àp-ɔ́
+      - carry-CLG-VENT-PFV-left_h
+      - 0.05
+      1:
+      - ŋgàpɔ́
+      - ŋg-àp-ɔ́
+      - carry-CLG-VENT-PFV
+      - 0.05
+      2:
+      - ŋgá pɔ́
+      - ŋg-á p-ɔ́
+      - hit-CLG-VENT-IPFV-aux
+      - 0.55
+      3:
+      - ŋgá pɔ́
+      - ŋg-á p-ɔ́
+      - hit-CLG-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.55
+      4:
+      - ŋgə̀pɔ́
+      - ŋgə̀-p-ɔ́
+      - hit-CLG-VENT-PFV
+      - 0.6
+      5:
+      - ŋgə́pɔ́
+      - ŋgə̀-p-ɔ́
+      - hit-CLG-VENT-PFV-left_h
+      - 0.6
+      6:
+      - ŋgá pɔ̀
+      - ŋg-á p-ɔ̀
+      - hit-CLG-IT-IPFV-aux
+      - 0.6
+      7:
+      - ŋgá pɔ̀
+      - ŋg-á p-ɔ̀
+      - hit-CLG-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.6
+      8:
+      - ŋgə́pɔ̀
+      - ŋgə̀-p-ɔ̀
+      - hit-CLG-VENT-DEP-left_h
+      - 0.65
+      9:
+      - ŋgə̀pɔ̀
+      - ŋgə̀-p-ɔ̀
+      - hit-CLG-VENT-DEP
+      - 0.65
+      10:
+      - ŋápɔ́
+      - ŋ-àp-ɔ́
+      - carry-CLŊ-VENT-PFV-left_h
+      - 1.05
+      11:
+      - ŋàpɔ́
+      - ŋ-àp-ɔ́
+      - carry-CLŊ-VENT-PFV
+      - 1.05
+  - original_str: ɛ́nàǎ
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - nà<ENDOFSENTENCE>
+      - n-à
+      - aux-CLN-IT-PFV
+      - 1.1
+      1:
+      - nà<ENDOFSENTENCE>
+      - n-à
+      - aux-CLN-IT-PFV-3SG.OBJ-2SG.SBJ
+      - 1.1
+      2:
+      - ǹà<ENDOFSENTENCE>
+      - ǹ-á
+      - listen-VENT-IMP-final_lowering
+      - 1.1
+      3:
+      - ǹá<ENDOFSENTENCE>
+      - ǹ-á
+      - listen-VENT-IMP
+      - 1.1
+      4:
+      - ńà<ENDOFSENTENCE>
+      - ǹ-á
+      - listen-VENT-IMP-final_lowering-left_h
+      - 1.15
+      5:
+      - ńà<ENDOFSENTENCE>
+      - ń-à
+      - listen-IT-IPFV
+      - 1.15
+      6:
+      - ná<ENDOFSENTENCE>
+      - n-á
+      - aux-CLN-IPFV
+      - 1.15
+      7:
+      - ná<ENDOFSENTENCE>
+      - n-á
+      - aux-CLN-IPFV-3SG.OBJ-2SG.SBJ
+      - 1.15
+      8:
+      - ńá<ENDOFSENTENCE>
+      - ǹ-á
+      - listen-VENT-IMP-left_h
+      - 1.15
+      9:
+      - nâ<ENDOFSENTENCE>
+      - n-á
+      - aux-CLN-IPFV-final_lowering
+      - 1.15
+      10:
+      - nâ<ENDOFSENTENCE>
+      - n-á
+      - aux-CLN-IPFV-3SG.OBJ-2SG.SBJ-final_lowering
+      - 1.15
+      11:
+      - nâ<ENDOFSENTENCE>
+      - n-à
+      - aux-CLN-IT-PFV-left_h
+      - 1.15
+      12:
+      - nâ<ENDOFSENTENCE>
+      - n-à
+      - aux-CLN-IT-PFV-3SG.OBJ-2SG.SBJ-left_h
+      - 1.15
+      13:
+      - ŋ́nà<ENDOFSENTENCE>
+      - ŋ̀ná
+      - hut-ACC-PL-final_lowering-left_h
+      - 1.55
+      14:
+      - ɛ́ŋnà<ENDOFSENTENCE>
+      - ɛ̀ŋná
+      - roof-ACC-SG-final_lowering-left_h
+      - 1.55
+      15:
+      - ɛ́là<ENDOFSENTENCE>
+      - ɛ̀là
+      - gourd.piece-NOM-SG-left_h
+      - 1.55
+      16:
+      - ɛ́là<ENDOFSENTENCE>
+      - ɛ̀là
+      - gourd.piece-ACC-SG-left_h
+      - 1.55
+      17:
+      - ɛ́là<ENDOFSENTENCE>
+      - ɛ̀là
+      - mushroom.sp.-NOM-SG-left_h
+      - 1.55
+      18:
+      - ɛ́là<ENDOFSENTENCE>
+      - ɛ̀là
+      - mushroom.sp.-ACC-SG-left_h
+      - 1.55
+- sentence: kə̀ɔ̀ɽɟɛ̀cíŋí ánó unɛɾɛ
+  update_sentence: ''
+  translation: I helped him yesterday.
+  split: test
+  index: '601'
+  checked_by_pi: false
+  words:
+  - original_str: kə̀ɔ̀ɽɟɛ̀cíŋí
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - kɔ̀ɽɟɛ̀cíŋí
+      - k-ɔ̀ɽɟɛ̀c-íŋí
+      - help-CLG-VENT-PFV-3SG.OBJ-1SG.SBJ
+      - 0.1
+      1:
+      - kɔ́ɽɟɛ̀cíŋí
+      - k-ɔ̀ɽɟɛ̀c-íŋí
+      - help-CLG-VENT-PFV-3SG.OBJ-1SG.SBJ-left_h
+      - 0.15
+      2:
+      - kɔ̀ɽɟɛ̀cíŋì
+      - k-ɔ̀ɽɟɛ̀c-íŋì
+      - help-CLG-VENT-PFV-1SG.OBJ
+      - 0.15
+      3:
+      - kɔ́ɽɟɛ̀cíŋì
+      - k-ɔ̀ɽɟɛ̀c-íŋì
+      - help-CLG-VENT-PFV-1SG.OBJ-left_h
+      - 0.2
+      4:
+      - kɔ̀ɽɟɛ̀cíŋ
+      - k-ɔ̀ɽɟɛ̀c-í-ŋ
+      - help-CLG-VENT-PFV-3SG.OBJ
+      - 0.65
+      5:
+      - kɔ̀ɽɟɛ̀cíŋ
+      - k-ɔ̀ɽɟɛ̀c-í-ŋ
+      - help-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ
+      - 0.65
+      6:
+      - kɔ́ɽɟɛ̀cíŋ
+      - k-ɔ̀ɽɟɛ̀c-í-ŋ
+      - help-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 0.7
+      7:
+      - kɔ́ɽɟɛ̀cíŋ
+      - k-ɔ̀ɽɟɛ̀c-í-ŋ
+      - help-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 0.7
+      8:
+      - ɲɔ̀ɽɟɛ̀cíŋí
+      - ɲ-ɔ̀ɽɟɛ̀c-íŋí
+      - help-CLƝ-VENT-PFV-3SG.OBJ-1SG.SBJ
+      - 1.1
+      9:
+      - lɔ̀ɽɟɛ̀cíŋí
+      - l-ɔ̀ɽɟɛ̀c-íŋí
+      - help-CLL-VENT-PFV-3SG.OBJ-1SG.SBJ
+      - 1.1
+      10:
+      - rɔ̀ɽɟɛ̀cíŋí
+      - r-ɔ̀ɽɟɛ̀c-íŋí
+      - help-CLR-VENT-PFV-3SG.OBJ-1SG.SBJ
+      - 1.1
+      11:
+      - t̪ɔ̀ɽɟɛ̀cíŋí
+      - t̪-ɔ̀ɽɟɛ̀c-íŋí
+      - help-CLT̪-VENT-PFV-3SG.OBJ-1SG.SBJ
+      - 1.1
+  - original_str: ánó
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - áǹɔ́
+      - á-ǹ-ɔ́
+      - listen-VENT-PFV-2SG.SBJ
+      - 0.1
+      1:
+      - àn
+      - àn
+      - FOC
+      - 0.6
+      2:
+      - ân
+      - àn
+      - FOC-left_h
+      - 0.6
+      3:
+      - ǹɔ́
+      - ǹ-ɔ́
+      - listen-VENT-IPFV
+      - 0.65
+      4:
+      - ńɔ́
+      - ǹ-ɔ́
+      - listen-VENT-IPFV-left_h
+      - 0.65
+      5:
+      - ńɔ́
+      - ń-ɔ́
+      - listen-IT-IMP
+      - 0.65
+      6:
+      - áwó
+      - àw-ó
+      - urinate-VENT-IPFV-left_h
+      - 1.0
+      7:
+      - áwó
+      - áw-ó
+      - urinate-IT-IMP
+      - 1.0
+      8:
+      - áɽó
+      - àɽ-ó
+      - put-VENT-IPFV-left_h
+      - 1.0
+      9:
+      - áɽó
+      - áɽ-ó
+      - put-IT-IMP
+      - 1.0
+      10:
+      - áðɔ́
+      - á-ð-ɔ́
+      - slice-VENT-PFV-2SG.SBJ
+      - 1.05
+      11:
+      - ájɔ́
+      - á-j-ɔ́
+      - eat-VENT-PFV-2SG.SBJ
+      - 1.05
+      12:
+      - àɽó
+      - àɽ-ó
+      - put-VENT-IPFV
+      - 1.05
+  - original_str: unɛɾɛ
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - únɛ́ɾɛ́<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-left_h
+      - 0.15
+      1:
+      - ùnɛ́ɾɛ́<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday
+      - 0.15
+      2:
+      - únɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-final_lowering-left_h
+      - 0.15
+      3:
+      - ùnɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-final_lowering
+      - 0.15
+      4:
+      - nɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL-final_lowering
+      - 0.6
+      5:
+      - nɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL-final_lowering
+      - 0.6
+      6:
+      - nɛ́ɾɛ́<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL
+      - 0.6
+      7:
+      - nɛ́ɾɛ́<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL
+      - 0.6
+      8:
+      - nɛ́ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL-final_lowering-left_h
+      - 0.6
+      9:
+      - nɛ́ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL-final_lowering-left_h
+      - 0.6
+      10:
+      - únɛ́ɾɛ́
+      - ùnɛ́ɾɛ́
+      - yesterday-left_h
+      - 1.1
+      11:
+      - ùnɛ́ɾɛ́
+      - ùnɛ́ɾɛ́
+      - yesterday
+      - 1.1
+      12:
+      - únɛ̀<ENDOFSENTENCE>
+      - únɛ́
+      - porcupine-ACC-SG-final_lowering-left_h
+      - 1.55
+- sentence: ŋɛ́n ŋǎjà ŋɛ̀ðìnɔ́ nd̪ɔ̀bà
+  update_sentence: ''
+  translation: the dog will eat rabbit tomorrow
+  split: test
+  index: '602'
+  checked_by_pi: false
+  words:
+  - original_str: ŋɛ́n
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ŋɛ́n
+      - ŋɛ́n
+      - dog-NOM-SG
+      - 0.0
+      1:
+      - ŋɛ́nɛ́
+      - ŋɛ́nɛ́
+      - dog-ACC-SG
+      - 0.55
+      2:
+      - ŋə́ná
+      - ŋə̀ná
+      - hut-NOM-PL-left_h
+      - 0.6
+      3:
+      - ŋə́ǹɛ̀
+      - ŋə̀-ǹ-ɛ̀
+      - listen-CLŊ-IT-DEP-left_h
+      - 0.65
+      4:
+      - ŋə́ǹà
+      - ŋə̀-ǹ-à
+      - listen-CLŊ-VENT-DEP-left_h
+      - 0.65
+      5:
+      - ŋə́ǹɔ́
+      - ŋə̀-ǹ-ɔ́
+      - listen-CLŊ-VENT-PFV-left_h
+      - 0.65
+      6:
+      - ŋə̀ná
+      - ŋə̀ná
+      - hut-NOM-PL
+      - 0.65
+      7:
+      - ŋə̀ǹɔ́
+      - ŋə̀-ǹ-ɔ́
+      - listen-CLŊ-VENT-PFV
+      - 0.7
+      8:
+      - ŋə̀ǹɛ̀
+      - ŋə̀-ǹ-ɛ̀
+      - listen-CLŊ-IT-DEP
+      - 0.7
+      9:
+      - ŋə̀ǹà
+      - ŋə̀-ǹ-à
+      - listen-CLŊ-VENT-DEP
+      - 0.7
+  - original_str: ŋǎjà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ŋájà
+      - ŋ-àj-à
+      - die-CLŊ-VENT-DEP-left_h
+      - 0.05
+      1:
+      - ŋàjà
+      - ŋ-àj-à
+      - die-CLŊ-VENT-DEP
+      - 0.05
+      2:
+      - ŋá jà
+      - ŋ-á j-à
+      - eat-CLŊ-IT-IPFV-aux
+      - 0.55
+      3:
+      - ŋá jà
+      - ŋ-á j-à
+      - eat-CLŊ-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.55
+      4:
+      - ŋə̀jà
+      - ŋə̀-j-à
+      - eat-CLŊ-VENT-DEP
+      - 0.6
+      5:
+      - ŋə́jà
+      - ŋə̀-j-à
+      - eat-CLŊ-VENT-DEP-left_h
+      - 0.6
+      6:
+      - ŋáɲà
+      - ŋàɲà
+      - grass-NOM-SG-left_h
+      - 1.05
+      7:
+      - ðájà
+      - ð-àj-à
+      - die-CLÐ-VENT-DEP-left_h
+      - 1.05
+      8:
+      - ŋìjà
+      - ŋ-ìj-à
+      - beat-CLŊ-VENT-DEP
+      - 1.05
+      9:
+      - ɲàjà
+      - ɲ-àj-à
+      - die-CLƝ-VENT-DEP
+      - 1.05
+      10:
+      - ŋàŋà
+      - ŋ-àŋ-à
+      - see-CLŊ-VENT-DEP
+      - 1.05
+  - original_str: ŋɛ̀ðìnɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ŋèðìnɔ́
+      - ŋ-èðìn-ɔ́
+      - happen-CLŊ-VENT-PFV
+      - 0.05
+      1:
+      - ŋə̀ðìnɔ́
+      - ŋə̀-ðìn-ɔ́
+      - slice-pass-CLŊ-VENT-PFV
+      - 0.05
+      2:
+      - ŋéðìnɔ́
+      - ŋ-èðìn-ɔ́
+      - happen-CLŊ-VENT-PFV-left_h
+      - 0.1
+      3:
+      - ŋə́ðìnɔ́
+      - ŋə̀-ðìn-ɔ́
+      - slice-pass-CLŊ-VENT-PFV-left_h
+      - 0.1
+      4:
+      - ŋèðìnɔ̀
+      - ŋ-èðìn-ɔ̀
+      - happen-CLŊ-VENT-DEP
+      - 0.1
+      5:
+      - ŋə̀ðìnɔ̀
+      - ŋə̀-ðìn-ɔ̀
+      - slice-pass-CLŊ-VENT-DEP
+      - 0.1
+      6:
+      - ŋéðìnɔ̀
+      - ŋ-èðìn-ɔ̀
+      - happen-CLŊ-VENT-DEP-left_h
+      - 0.15
+      7:
+      - ŋə́ðìnɔ̀
+      - ŋə̀-ðìn-ɔ̀
+      - slice-pass-CLŊ-VENT-DEP-left_h
+      - 0.15
+      8:
+      - ŋɛ́ ðìnɔ́
+      - ŋ-ɛ́ ðìn-ɔ́
+      - slice-pass-CLŊ-VENT-IPFV-3SG.OBJ-1SG.SBJ-aux
+      - 0.55
+      9:
+      - ŋɛ́ ðínɔ̀
+      - ŋ-ɛ́ ðín-ɔ̀
+      - slice-pass-CLŊ-IT-IPFV-3SG.OBJ-1SG.SBJ-aux
+      - 0.65
+  - original_str: nd̪ɔ̀bà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - nd̪ɔ̀bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 0.0
+      1:
+      - nd̪ɔ́bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 0.05
+      2:
+      - nd̪ɔ̀bà
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 1.0
+      3:
+      - nd̪ɔ́bà
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 1.05
+      4:
+      - nd̪ɔ̀bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      5:
+      - nd̪ɔ̀bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      6:
+      - nd̪ɔ́bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      7:
+      - nd̪ɔ́bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      8:
+      - nɔ̀là<ENDOFSENTENCE>
+      - n-ɔ̀là
+      - tall-CLN
+      - 2.0
+      9:
+      - nɔ̀dà<ENDOFSENTENCE>
+      - n-ɔ̀d-à
+      - build-CLN-VENT-DEP
+      - 2.0
+- sentence: lɛ́là ðáŋɔ̀ŋnìjɔ̀ kúkùŋù nd̪ɔ̀bà
+  update_sentence: ''
+  translation: They will go to help Kuku tomorrow
+  split: test
+  index: '603'
+  checked_by_pi: false
+  words:
+  - original_str: lɛ́là
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lɛ́l
+      - l-ɛ́-l
+      - aux-CLL-IPFV-LOCATIVE-3SG.OBJ-1SG.SBJ
+      - 0.55
+      1:
+      - lɛ́ĺ
+      - l-ɛ́-ĺ
+      - aux-CLL-IPFV-3PL.OBJ-1SG.SBJ
+      - 0.55
+      2:
+      - lɛ́ĺ
+      - l-ɛ̀-ĺ
+      - aux-CLL-IT-PFV-3PL.OBJ-1SG.SBJ-left_h
+      - 0.55
+      3:
+      - lɛ̀l
+      - l-ɛ̀-l
+      - aux-CLL-IT-PFV-LOCATIVE-3SG.OBJ-1SG.SBJ
+      - 0.6
+      4:
+      - lɛ̀ĺ
+      - l-ɛ̀-ĺ
+      - aux-CLL-IT-PFV-3PL.OBJ-1SG.SBJ
+      - 0.6
+      5:
+      - lɛ̂l
+      - l-ɛ̀-l
+      - aux-CLL-IT-PFV-LOCATIVE-3SG.OBJ-1SG.SBJ-left_h
+      - 0.6
+      6:
+      - ɛ́là
+      - ɛ̀là
+      - gourd.piece-NOM-SG-left_h
+      - 1.0
+      7:
+      - ɛ́là
+      - ɛ̀là
+      - gourd.piece-ACC-SG-left_h
+      - 1.0
+      8:
+      - ɛ́là
+      - ɛ̀là
+      - mushroom.sp.-NOM-SG-left_h
+      - 1.0
+      9:
+      - ɛ́là
+      - ɛ̀là
+      - mushroom.sp.-ACC-SG-left_h
+      - 1.0
+      10:
+      - nɛ́là
+      - nɛ̀là
+      - gourd.piece-NOM-PL-left_h
+      - 1.0
+      11:
+      - nɛ́là
+      - nɛ̀là
+      - gourd.piece-ACC-PL-left_h
+      - 1.0
+      12:
+      - nɛ́là
+      - nɛ̀là
+      - mushroom.sp.-NOM-PL-left_h
+      - 1.0
+      13:
+      - nɛ́là
+      - nɛ̀là
+      - mushroom.sp.-ACC-PL-left_h
+      - 1.0
+      14:
+      - lɔ́là
+      - l-ɔ̀là
+      - tall-CLL-left_h
+      - 1.0
+      15:
+      - lə́ðà
+      - lə̀-ð-à
+      - slice-CLL-VENT-DEP-left_h
+      - 1.05
+      16:
+      - lɛ́l<ENDOFSENTENCE>
+      - l-ɛ́-l
+      - aux-CLL-IPFV-LOCATIVE-3SG.OBJ-1SG.SBJ
+      - 1.05
+  - original_str: ðáŋɔ̀ŋnìjɔ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðádɔ̀ŋɔ̀nìjɔ̀
+      - ð-àdɔ̀ŋɔ̀nìj-ɔ̀
+      - hold-caus-CLÐ-VENT-DEP-left_h
+      - 1.55
+      1:
+      - ðɔ́ŋɔ̀ŋɔ̀nìjɔ̀
+      - ð-ɔ̀ŋɔ̀ŋɔ̀nìj-ɔ̀
+      - help-CLÐ-VENT-DEP-left_h
+      - 1.55
+      2:
+      - ðɔ́ŋɔ̀ŋɔ̀nìjɔ̀
+      - ð-ɔ̀ŋɔ̀ŋɔ̀nìj-ɔ̀
+      - rest-caus-CLÐ-VENT-DEP-left_h
+      - 1.55
+      3:
+      - ðá ɔ́ŋɔ̀ŋɔ̀nìjɔ̀
+      - ð-á ɔ́ŋɔ̀ŋɔ̀nìj-ɔ̀
+      - help-CLÐ-IT-IPFV-aux
+      - 1.6
+      4:
+      - ðá ɔ́ŋɔ̀ŋɔ̀nìjɔ̀
+      - ð-á ɔ́ŋɔ̀ŋɔ̀nìj-ɔ̀
+      - help-CLÐ-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.6
+      5:
+      - ðá ɔ́ŋɔ̀ŋɔ̀nìjɔ̀
+      - ð-á ɔ́ŋɔ̀ŋɔ̀nìj-ɔ̀
+      - rest-caus-CLÐ-IT-IPFV-aux
+      - 1.6
+      6:
+      - ðá ɔ́ŋɔ̀ŋɔ̀nìjɔ̀
+      - ð-á ɔ́ŋɔ̀ŋɔ̀nìj-ɔ̀
+      - rest-caus-CLÐ-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.6
+      7:
+      - ðáŋìnìjɔ̀
+      - ð-àŋìnìj-ɔ̀
+      - see-pass-caus-CLÐ-VENT-DEP-left_h
+      - 1.6
+      8:
+      - ðàdɔ̀ŋɔ̀nìjɔ̀
+      - ð-àdɔ̀ŋɔ̀nìj-ɔ̀
+      - hold-caus-CLÐ-VENT-DEP
+      - 1.6
+      9:
+      - ðɔ̀ŋɔ̀ŋɔ̀nìjɔ̀
+      - ð-ɔ̀ŋɔ̀ŋɔ̀nìj-ɔ̀
+      - help-CLÐ-VENT-DEP
+      - 1.6
+      10:
+      - ðɔ̀ŋɔ̀ŋɔ̀nìjɔ̀
+      - ð-ɔ̀ŋɔ̀ŋɔ̀nìj-ɔ̀
+      - rest-caus-CLÐ-VENT-DEP
+      - 1.6
+      11:
+      - ðàŋìnìjɔ̀
+      - ð-àŋìnìj-ɔ̀
+      - see-pass-caus-CLÐ-VENT-DEP
+      - 1.65
+      12:
+      - ðámɔ̀nìjɔ̀
+      - ð-àmɔ̀nìj-ɔ̀
+      - care-caus-CLÐ-VENT-DEP-left_h
+      - 2.0
+      13:
+      - ðáŋâ nìjɔ̀
+      - ð-á-ŋâ nìj-ɔ̀
+      - listen-caus-CLÐ-IT-IPFV-2SG.OBJ-aux
+      - 2.05
+      14:
+      - ðáŋɛ̂ nìjɔ̀
+      - ð-á-ŋɛ̂ nìj-ɔ̀
+      - listen-caus-CLÐ-IT-IPFV-1SG.OBJ-aux
+      - 2.05
+  - original_str: kúkùŋù
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - kúkùŋú
+      - kúkùŋú
+      - 1st born male child-ACC-SG
+      - 0.05
+      1:
+      - kúkùŋù<ENDOFSENTENCE>
+      - kúkùŋú
+      - 1st born male child-ACC-SG-final_lowering
+      - 1.0
+      2:
+      - kúkùŋú<ENDOFSENTENCE>
+      - kúkùŋú
+      - 1st born male child-ACC-SG
+      - 1.05
+      3:
+      - kút̪úŋú
+      - k-ùt̪-ú-ŋú
+      - choose-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 1.1
+      4:
+      - kút̪úŋú
+      - k-ùt̪-ú-ŋú
+      - choose-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 1.1
+      5:
+      - kúrúŋú
+      - k-ùr-ú-ŋú
+      - climb.down-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 1.1
+      6:
+      - kúrúŋú
+      - k-ùr-ú-ŋú
+      - climb.down-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 1.1
+      7:
+      - kúdóŋú
+      - k-ùd-ó-ŋú
+      - burn-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 1.15
+      8:
+      - kúdóŋú
+      - k-ùd-ó-ŋú
+      - burn-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 1.15
+      9:
+      - kút̪uŋ́ú
+      - k-ùt̪-u-ŋ́ú
+      - choose-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 1.15
+      10:
+      - kút̪uŋ́ú
+      - k-ùt̪-u-ŋ́ú
+      - choose-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 1.15
+      11:
+      - kùt̪úŋú
+      - k-ùt̪-ú-ŋú
+      - choose-CLG-VENT-PFV-3SG.OBJ
+      - 1.15
+      12:
+      - kùt̪úŋú
+      - k-ùt̪-ú-ŋú
+      - choose-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ
+      - 1.15
+      13:
+      - kùrúŋú
+      - k-ùr-ú-ŋú
+      - climb.down-CLG-VENT-PFV-3SG.OBJ
+      - 1.15
+      14:
+      - kùrúŋú
+      - k-ùr-ú-ŋú
+      - climb.down-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ
+      - 1.15
+      15:
+      - kúruŋ́ú
+      - k-ùr-u-ŋ́ú
+      - climb.down-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 1.15
+      16:
+      - kúruŋ́ú
+      - k-ùr-u-ŋ́ú
+      - climb.down-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 1.15
+  - original_str: nd̪ɔ̀bà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - nd̪ɔ̀bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 0.0
+      1:
+      - nd̪ɔ́bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 0.05
+      2:
+      - nd̪ɔ̀bà
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 1.0
+      3:
+      - nd̪ɔ́bà
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 1.05
+      4:
+      - nd̪ɔ̀bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      5:
+      - nd̪ɔ̀bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      6:
+      - nd̪ɔ́bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      7:
+      - nd̪ɔ́bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      8:
+      - nɔ̀là<ENDOFSENTENCE>
+      - n-ɔ̀là
+      - tall-CLN
+      - 2.0
+      9:
+      - nɔ̀dà<ENDOFSENTENCE>
+      - n-ɔ̀d-à
+      - build-CLN-VENT-DEP
+      - 2.0
+- sentence: ládɔ̀ŋðàt̪ɔ́ lə̀vàvrà dún nd̪ɔ̀bà
+  update_sentence: ''
+  translation: They will push the bicycle at home tomorrow (towards)
+  split: test
+  index: '604'
+  checked_by_pi: false
+  words:
+  - original_str: ládɔ̀ŋðàt̪ɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lá dɔ̀ŋðàt̪ɔ́
+      - l-á dɔ̀ŋðàt̪-ɔ́
+      - push-loc-CLL-VENT-IPFV-aux
+      - 0.5
+      1:
+      - lá dɔ̀ŋðàt̪ɔ́
+      - l-á dɔ̀ŋðàt̪-ɔ́
+      - push-loc-CLL-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.5
+      2:
+      - lə́dɔ̀ŋðàt̪ɔ́
+      - lə́-dɔ̀ŋðàt̪-ɔ́
+      - push-loc-VENT-PFV-1DU.INCL.SBJ
+      - 0.55
+      3:
+      - lə́dɔ̀ŋðàt̪ɔ́
+      - lə̀-dɔ̀ŋðàt̪-ɔ́
+      - push-loc-CLL-VENT-PFV-left_h
+      - 0.55
+      4:
+      - lə̀dɔ̀ŋðàt̪ɔ́
+      - lə̀-dɔ̀ŋðàt̪-ɔ́
+      - push-loc-CLL-VENT-PFV
+      - 0.6
+      5:
+      - ádɔ̀ŋðàt̪ɔ́
+      - á-dɔ̀ŋðàt̪-ɔ́
+      - push-loc-VENT-PFV-2SG.SBJ
+      - 1.0
+      6:
+      - ɲádɔ̀ŋðàt̪ɔ́
+      - ɲà-dɔ̀ŋðàt̪-ɔ́
+      - push-loc-VENT-PFV-1PL.EXCL.SBJ-left_h
+      - 1.0
+      7:
+      - ɲádɔ̀ŋðàt̪ɔ́
+      - ɲá-dɔ̀ŋðàt̪-ɔ́
+      - push-loc-VENT-PFV-2PL.SBJ
+      - 1.0
+      8:
+      - álá dɔ̀ŋðàt̪ɔ́
+      - á-l-á dɔ̀ŋðàt̪-ɔ́
+      - push-loc-CLL-VENT-IPFV-1DU.INCL.SBJ-aux
+      - 1.05
+      9:
+      - ɲàdɔ̀ŋðàt̪ɔ́
+      - ɲà-dɔ̀ŋðàt̪-ɔ́
+      - push-loc-VENT-PFV-1PL.EXCL.SBJ
+      - 1.05
+      10:
+      - lá dɔ̀ɽðàt̪ɔ́
+      - l-á dɔ̀ɽðàt̪-ɔ́
+      - fix-CLL-VENT-IPFV-aux
+      - 1.5
+      11:
+      - lá dɔ̀ɽðàt̪ɔ́
+      - l-á dɔ̀ɽðàt̪-ɔ́
+      - fix-CLL-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.5
+      12:
+      - ɲá dɔ̀ŋðàt̪ɔ́
+      - ɲ-á dɔ̀ŋðàt̪-ɔ́
+      - push-loc-CLƝ-VENT-IPFV-aux
+      - 1.5
+      13:
+      - ɲá dɔ̀ŋðàt̪ɔ́
+      - ɲ-á dɔ̀ŋðàt̪-ɔ́
+      - push-loc-CLƝ-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.5
+      14:
+      - lá dɔ̀ŋðàt̪ɔ́<ENDOFSENTENCE>
+      - l-á dɔ̀ŋðàt̪-ɔ́
+      - push-loc-CLL-VENT-IPFV-aux
+      - 1.5
+      15:
+      - lá dɔ̀ŋðàt̪ɔ́<ENDOFSENTENCE>
+      - l-á dɔ̀ŋðàt̪-ɔ́
+      - push-loc-CLL-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.5
+  - original_str: lə̀vàvrà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lə̀vàvɾà
+      - lə̀vàvɾà
+      - bicycle-ACC-SG
+      - 0.05
+      1:
+      - lə́vàvɾà
+      - lə̀vàvɾà
+      - bicycle-ACC-SG-left_h
+      - 0.1
+      2:
+      - lə̀vàrà
+      - lə̀-vàr-à
+      - run-CLL-VENT-DEP
+      - 1.0
+      3:
+      - lə̀vàrà
+      - lə̀vàrà
+      - stick-ACC-SG
+      - 1.0
+      4:
+      - lə̀vàɾà
+      - lə̀-vàɾ-à
+      - escape-CLL-VENT-DEP
+      - 1.05
+      5:
+      - lə̀vàvɾì
+      - lə̀vàvɾì
+      - bicycle-NOM-SG
+      - 1.05
+      6:
+      - lə̀vàvɾà<ENDOFSENTENCE>
+      - lə̀vàvɾà
+      - bicycle-ACC-SG
+      - 1.05
+      7:
+      - làvàrà
+      - làvàrà
+      - stick-NOM-SG
+      - 1.05
+      8:
+      - lə́vàrà
+      - lə̀-vàr-à
+      - run-CLL-VENT-DEP-left_h
+      - 1.05
+      9:
+      - lə́vàrà
+      - lə̀vàrà
+      - stick-ACC-SG-left_h
+      - 1.05
+      10:
+      - lə́vàɾà
+      - lə̀-vàɾ-à
+      - escape-CLL-VENT-DEP-left_h
+      - 1.1
+      11:
+      - lə́vàvɾì
+      - lə̀vàvɾì
+      - bicycle-NOM-SG-left_h
+      - 1.1
+  - original_str: dún
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - dún
+      - dún
+      - home-NOM-SG
+      - 0.0
+      1:
+      - dún<ENDOFSENTENCE>
+      - dún
+      - home-NOM-SG
+      - 1.0
+      2:
+      - dûn<ENDOFSENTENCE>
+      - dún
+      - home-NOM-SG-final_lowering
+      - 1.05
+      3:
+      - nùn
+      - nùn
+      - porcupine-NOM-PL
+      - 1.05
+      4:
+      - nûn
+      - nùn
+      - porcupine-NOM-PL-left_h
+      - 1.05
+      5:
+      - òn
+      - òn
+      - porcupine-NOM-SG
+      - 1.1
+      6:
+      - ôn
+      - òn
+      - porcupine-NOM-SG-left_h
+      - 1.1
+  - original_str: nd̪ɔ̀bà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - nd̪ɔ̀bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 0.0
+      1:
+      - nd̪ɔ́bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 0.05
+      2:
+      - nd̪ɔ̀bà
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 1.0
+      3:
+      - nd̪ɔ́bà
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 1.05
+      4:
+      - nd̪ɔ̀bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      5:
+      - nd̪ɔ̀bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      6:
+      - nd̪ɔ́bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      7:
+      - nd̪ɔ́bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      8:
+      - nɔ̀là<ENDOFSENTENCE>
+      - n-ɔ̀là
+      - tall-CLN
+      - 2.0
+      9:
+      - nɔ̀dà<ENDOFSENTENCE>
+      - n-ɔ̀d-à
+      - build-CLN-VENT-DEP
+      - 2.0
+- sentence: ɲàláɽə́ŋàt̪ǎ ŋávè
+  update_sentence: ''
+  translation: you all will fetch water
+  split: test
+  index: '605'
+  checked_by_pi: false
+  words:
+  - original_str: ɲàláɽə́ŋàt̪ǎ
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ɲál áɽə̀ŋàt̪à
+      - ɲ-á-l áɽə̀ŋàt̪-à
+      - fetch-CLƝ-IT-IPFV-3SG.OBJ-3SG.SBJ-aux
+      - 0.65
+      1:
+      - ɲál áɽə̀ŋàt̪à
+      - ɲ-á-l áɽə̀ŋàt̪-à
+      - fetch-CLƝ-IT-IPFV-3SG.OBJ-1DU.INCL.SBJ-aux
+      - 0.65
+      2:
+      - ɲál áɽə̀ŋàt̪à
+      - ɲ-á-l áɽə̀ŋàt̪-à
+      - fetch-CLƝ-IT-IPFV-3SG.OBJ-3PL.SBJ-aux
+      - 0.65
+      3:
+      - ɲáĺ áɽə̀ŋàt̪à
+      - ɲ-á-ĺ áɽə̀ŋàt̪-à
+      - fetch-CLƝ-IT-IPFV-3PL.OBJ-aux
+      - 0.7
+      4:
+      - ɲáĺ áɽə̀ŋàt̪à
+      - ɲ-á-ĺ áɽə̀ŋàt̪-à
+      - fetch-CLƝ-IT-IPFV-3PL.OBJ-2SG.SBJ-aux
+      - 0.7
+      5:
+      - ɲàlá áŋàt̪à
+      - ɲà-l-á áŋàt̪-à
+      - see-loc-CLL-IT-IPFV-1PL.EXCL.SBJ-aux
+      - 1.1
+      6:
+      - ɲá áɽə̀ŋàt̪à
+      - ɲ-á áɽə̀ŋàt̪-à
+      - fetch-CLƝ-IT-IPFV-aux
+      - 1.15
+      7:
+      - ɲá áɽə̀ŋàt̪à
+      - ɲ-á áɽə̀ŋàt̪-à
+      - fetch-CLƝ-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.15
+      8:
+      - ɲàlá áɽə̀ŋàt̪à
+      - ɲà-l-á áɽə̀ŋàt̪-à
+      - fetch-CLL-IT-IPFV-1PL.EXCL.SBJ-aux
+      - 1.15
+      9:
+      - ɲálá áŋàt̪à
+      - ɲà-l-á áŋàt̪-à
+      - see-loc-CLL-IT-IPFV-1PL.EXCL.SBJ-aux-left_h
+      - 1.15
+      10:
+      - ɲálá áŋàt̪à
+      - ɲá-l-á áŋàt̪-à
+      - see-loc-CLL-IT-IPFV-2PL.SBJ-aux
+      - 1.15
+      11:
+      - ɲàlá ŋát̪à
+      - ɲà-l-á ŋát̪-à
+      - taste-CLL-IT-IPFV-1PL.EXCL.SBJ-aux
+      - 1.2
+      12:
+      - ɲàlá lə́ŋàt̪à
+      - ɲà-l-á lə́ŋàt̪-à
+      - give.birth-loc-CLL-IT-IPFV-1PL.EXCL.SBJ-aux
+      - 1.55
+      13:
+      - ɲálá lə́ŋàt̪à
+      - ɲà-l-á lə́ŋàt̪-à
+      - give.birth-loc-CLL-IT-IPFV-1PL.EXCL.SBJ-aux-left_h
+      - 1.6
+      14:
+      - ɲálá lə́ŋàt̪à
+      - ɲá-l-á lə́ŋàt̪-à
+      - give.birth-loc-CLL-IT-IPFV-2PL.SBJ-aux
+      - 1.6
+      15:
+      - ɲàlá ɽót̪àt̪à
+      - ɲà-l-á ɽót̪àt̪-à
+      - cover-loc-CLL-IT-IPFV-1PL.EXCL.SBJ-aux
+      - 1.6
+  - original_str: ŋávè
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ŋávɛ̀<ENDOFSENTENCE>
+      - ŋávɛ́
+      - water-ACC-SG-final_lowering-left_h
+      - 0.05
+      1:
+      - ŋàvɛ̀<ENDOFSENTENCE>
+      - ŋávɛ́
+      - water-ACC-SG-final_lowering
+      - 0.1
+      2:
+      - ŋávɛ́<ENDOFSENTENCE>
+      - ŋávɛ́
+      - water-ACC-SG
+      - 0.1
+      3:
+      - ŋáŋɛ̀<ENDOFSENTENCE>
+      - ŋ-á-ŋɛ́
+      - aux-CLŊ-IPFV-CLASS-final_lowering-left_h
+      - 1.05
+      4:
+      - ŋáŋɛ̀<ENDOFSENTENCE>
+      - ŋ-á-ŋɛ́
+      - aux-CLŊ-IPFV-CLASS-3SG.OBJ-2SG.SBJ-final_lowering-left_h
+      - 1.05
+      5:
+      - ŋáŋɛ̀<ENDOFSENTENCE>
+      - ŋ-à-ŋɛ́
+      - aux-CLŊ-IT-PFV-CLASS-final_lowering-left_h
+      - 1.05
+      6:
+      - ŋáŋɛ̀<ENDOFSENTENCE>
+      - ŋ-à-ŋɛ́
+      - aux-CLŊ-IT-PFV-CLASS-3SG.OBJ-2SG.SBJ-final_lowering-left_h
+      - 1.05
+      7:
+      - ŋáŋɛ̀<ENDOFSENTENCE>
+      - ŋáŋ-ɛ̀
+      - scratch-IT-PFV
+      - 1.05
+      8:
+      - ŋátɛ̀<ENDOFSENTENCE>
+      - ŋ-á-tɛ́
+      - aux-CLŊ-IPFV-1DU.INCL.OBJ-final_lowering-left_h
+      - 1.05
+      9:
+      - ŋátɛ̀<ENDOFSENTENCE>
+      - ŋ-á-tɛ́
+      - aux-CLŊ-IPFV-1PL.INCL.OBJ-final_lowering-left_h
+      - 1.05
+      10:
+      - ŋátɛ̀<ENDOFSENTENCE>
+      - ŋ-á-tɛ́
+      - aux-CLŊ-IPFV-2PL.OBJ-final_lowering-left_h
+      - 1.05
+      11:
+      - ŋátɛ̀<ENDOFSENTENCE>
+      - ŋ-à-tɛ́
+      - aux-CLŊ-IT-PFV-1DU.INCL.OBJ-final_lowering-left_h
+      - 1.05
+      12:
+      - ŋátɛ̀<ENDOFSENTENCE>
+      - ŋ-à-tɛ́
+      - aux-CLŊ-IT-PFV-1PL.INCL.OBJ-final_lowering-left_h
+      - 1.05
+      13:
+      - ŋátɛ̀<ENDOFSENTENCE>
+      - ŋ-à-tɛ́
+      - aux-CLŊ-IT-PFV-2PL.OBJ-final_lowering-left_h
+      - 1.05
+      14:
+      - ŋát̪ɛ̀<ENDOFSENTENCE>
+      - ŋát̪-ɛ̀
+      - taste-IT-PFV
+      - 1.05
+      15:
+      - ŋávt̪ɛ̀<ENDOFSENTENCE>
+      - ŋ-àvt̪-ɛ̀
+      - set.down-CLŊ-IT-DEP-left_h
+      - 1.05
+      16:
+      - ŋápɛ̀<ENDOFSENTENCE>
+      - ŋ-àp-ɛ̀
+      - carry-CLŊ-IT-DEP-left_h
+      - 1.05
+      17:
+      - ŋáɾɛ̀<ENDOFSENTENCE>
+      - ŋ-àɾ-ɛ̀
+      - aɾ-CLŊ-IT-DEP-left_h
+      - 1.05
+      18:
+      - ŋàtɛ̀<ENDOFSENTENCE>
+      - ŋ-á-tɛ́
+      - aux-CLŊ-IPFV-1DU.INCL.OBJ-final_lowering
+      - 1.1
+      19:
+      - ŋàtɛ̀<ENDOFSENTENCE>
+      - ŋ-á-tɛ́
+      - aux-CLŊ-IPFV-1PL.INCL.OBJ-final_lowering
+      - 1.1
+      20:
+      - ŋàtɛ̀<ENDOFSENTENCE>
+      - ŋ-á-tɛ́
+      - aux-CLŊ-IPFV-2PL.OBJ-final_lowering
+      - 1.1
+      21:
+      - ŋàtɛ̀<ENDOFSENTENCE>
+      - ŋ-à-tɛ́
+      - aux-CLŊ-IT-PFV-1DU.INCL.OBJ-final_lowering
+      - 1.1
+      22:
+      - ŋàtɛ̀<ENDOFSENTENCE>
+      - ŋ-à-tɛ́
+      - aux-CLŊ-IT-PFV-1PL.INCL.OBJ-final_lowering
+      - 1.1
+      23:
+      - ŋàtɛ̀<ENDOFSENTENCE>
+      - ŋ-à-tɛ́
+      - aux-CLŊ-IT-PFV-2PL.OBJ-final_lowering
+      - 1.1
+- sentence: ŋàɾɛ́ ŋdə́màt̪è nɛ̀ɲù
+  update_sentence: ''
+  translation: and ran in front of him
+  split: test
+  index: '606'
+  checked_by_pi: false
+  words:
+  - original_str: ŋàɾɛ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ŋàɾɛ̀
+      - ŋ-àɾ-ɛ̀
+      - aɾ-CLŊ-IT-DEP
+      - 0.05
+      1:
+      - ŋáɾɛ̀
+      - ŋ-àɾ-ɛ̀
+      - aɾ-CLŊ-IT-DEP-left_h
+      - 0.1
+      2:
+      - ŋàŋɛ́
+      - ŋ-à-ŋɛ́
+      - aux-CLŊ-IT-PFV-CLASS
+      - 1.0
+      3:
+      - ŋàŋɛ́
+      - ŋ-à-ŋɛ́
+      - aux-CLŊ-IT-PFV-CLASS-3SG.OBJ-2SG.SBJ
+      - 1.0
+      4:
+      - ŋàɾɔ́
+      - ŋ-àɾ-ɔ́
+      - aɾ-CLŊ-VENT-PFV
+      - 1.0
+      5:
+      - ŋàtɛ́
+      - ŋ-à-tɛ́
+      - aux-CLŊ-IT-PFV-1DU.INCL.OBJ
+      - 1.0
+      6:
+      - ŋàtɛ́
+      - ŋ-à-tɛ́
+      - aux-CLŊ-IT-PFV-1PL.INCL.OBJ
+      - 1.0
+      7:
+      - ŋàtɛ́
+      - ŋ-à-tɛ́
+      - aux-CLŊ-IT-PFV-2PL.OBJ
+      - 1.0
+      8:
+      - nàɾɛ̀
+      - n-àɾ-ɛ̀
+      - aɾ-CLN-IT-DEP
+      - 1.05
+      9:
+      - jàɾɛ̀
+      - j-àɾ-ɛ̀
+      - aɾ-CLJ-IT-DEP
+      - 1.05
+      10:
+      - ðàɾɛ̀
+      - ð-àɾ-ɛ̀
+      - aɾ-CLÐ-IT-DEP
+      - 1.05
+      11:
+      - ŋátɛ́
+      - ŋ-á-tɛ́
+      - aux-CLŊ-IPFV-1DU.INCL.OBJ
+      - 1.05
+      12:
+      - ŋátɛ́
+      - ŋ-á-tɛ́
+      - aux-CLŊ-IPFV-1PL.INCL.OBJ
+      - 1.05
+      13:
+      - ŋátɛ́
+      - ŋ-á-tɛ́
+      - aux-CLŊ-IPFV-2PL.OBJ
+      - 1.05
+      14:
+      - ŋátɛ́
+      - ŋ-à-tɛ́
+      - aux-CLŊ-IT-PFV-1DU.INCL.OBJ-left_h
+      - 1.05
+      15:
+      - ŋátɛ́
+      - ŋ-à-tɛ́
+      - aux-CLŊ-IT-PFV-1PL.INCL.OBJ-left_h
+      - 1.05
+      16:
+      - ŋátɛ́
+      - ŋ-à-tɛ́
+      - aux-CLŊ-IT-PFV-2PL.OBJ-left_h
+      - 1.05
+      17:
+      - ɲàɾɛ̀
+      - ɲ-àɾ-ɛ̀
+      - aɾ-CLƝ-IT-DEP
+      - 1.05
+  - original_str: ŋdə́màt̪è
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ŋə́màt̪ɛ̀
+      - ŋə̀-màt̪-ɛ̀
+      - take-loc-CLŊ-IT-DEP-left_h
+      - 1.05
+      1:
+      - ŋgə́màt̪ɛ̀
+      - ŋgə̀-màt̪-ɛ̀
+      - take-loc-CLG-IT-DEP-left_h
+      - 1.05
+      2:
+      - ŋə̀màt̪ɛ̀
+      - ŋə̀-màt̪-ɛ̀
+      - take-loc-CLŊ-IT-DEP
+      - 1.1
+      3:
+      - ŋgə̀màt̪ɛ̀
+      - ŋgə̀-màt̪-ɛ̀
+      - take-loc-CLG-IT-DEP
+      - 1.1
+      4:
+      - ŋɛ́ mát̪ɛ̀
+      - ŋ-ɛ̀ mát̪-ɛ̀
+      - take-loc-CLŊ-IT-PFV-3SG.OBJ-1SG.SBJ-aux-left_h
+      - 1.65
+      5:
+      - ŋá mát̪ɛ̀
+      - ŋ-à mát̪-ɛ̀
+      - take-loc-CLŊ-IT-PFV-aux-left_h
+      - 1.65
+      6:
+      - ŋá mát̪ɛ̀
+      - ŋ-à mát̪-ɛ̀
+      - take-loc-CLŊ-IT-PFV-3SG.OBJ-2SG.SBJ-aux-left_h
+      - 1.65
+      7:
+      - ŋgɛ́ mát̪ɛ̀
+      - ŋg-ɛ̀ mát̪-ɛ̀
+      - take-loc-CLG-IT-PFV-3SG.OBJ-1SG.SBJ-aux-left_h
+      - 1.65
+      8:
+      - ŋgá mát̪ɛ̀
+      - ŋg-à mát̪-ɛ̀
+      - take-loc-CLG-IT-PFV-aux-left_h
+      - 1.65
+      9:
+      - ŋgá mát̪ɛ̀
+      - ŋg-à mát̪-ɛ̀
+      - take-loc-CLG-IT-PFV-3SG.OBJ-2SG.SBJ-aux-left_h
+      - 1.65
+      10:
+      - ŋə́màt̪à
+      - ŋə̀-màt̪-à
+      - take-loc-CLŊ-VENT-DEP-left_h
+      - 2.0
+      11:
+      - ŋgə́màt̪à
+      - ŋgə̀-màt̪-à
+      - take-loc-CLG-VENT-DEP-left_h
+      - 2.0
+  - original_str: nɛ̀ɲù
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - nɜ̀ɾù<ENDOFSENTENCE>
+      - nɜ́ɾú
+      - waterskin-NOM-PL-final_lowering
+      - 1.05
+      1:
+      - nə̀t̪ù<ENDOFSENTENCE>
+      - nə̀-t̪-ú
+      - be.lost-CLN-VENT-PFV-final_lowering
+      - 1.05
+      2:
+      - nɜ̀ðù<ENDOFSENTENCE>
+      - nɜ̀ðú
+      - breast-NOM-PL-final_lowering
+      - 1.05
+      3:
+      - nèɲà<ENDOFSENTENCE>
+      - n-éɲá
+      - aux-CLN-IPFV-3SG.OBJ-2PL.SBJ-final_lowering
+      - 1.05
+      4:
+      - nèɲà<ENDOFSENTENCE>
+      - n-éɲá
+      - aux-CLN-IT-PFV-3SG.OBJ-2PL.SBJ-final_lowering
+      - 1.05
+      5:
+      - nɜ̀rù<ENDOFSENTENCE>
+      - nɜ́rú
+      - spider.web-NOM-PL-final_lowering
+      - 1.05
+      6:
+      - nə̀t̪ú<ENDOFSENTENCE>
+      - nə̀-t̪-ú
+      - be.lost-CLN-VENT-PFV
+      - 1.1
+      7:
+      - nɜ̀ðú<ENDOFSENTENCE>
+      - nɜ̀ðú
+      - breast-NOM-PL
+      - 1.1
+      8:
+      - nə́t̪ù<ENDOFSENTENCE>
+      - nə̀-t̪-ú
+      - be.lost-CLN-VENT-PFV-final_lowering-left_h
+      - 1.1
+      9:
+      - néɲà<ENDOFSENTENCE>
+      - n-éɲá
+      - aux-CLN-IPFV-3SG.OBJ-2PL.SBJ-final_lowering-left_h
+      - 1.1
+      10:
+      - néɲà<ENDOFSENTENCE>
+      - n-éɲá
+      - aux-CLN-IT-PFV-3SG.OBJ-2PL.SBJ-final_lowering-left_h
+      - 1.1
+      11:
+      - nɜ́ɾù<ENDOFSENTENCE>
+      - nɜ́ɾú
+      - waterskin-NOM-PL-final_lowering-left_h
+      - 1.1
+- sentence: èmàɽðén kárŋìt̪ɔ̀ ðɔ́mɔ̀cà
+  update_sentence: ''
+  translation: woman waited for the man
+  split: test
+  index: '607'
+  checked_by_pi: false
+  words:
+  - original_str: èmàɽðén
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - èmàɽðɛ́n
+      - èmàɽðɛ́n
+      - woman-NOM-SG
+      - 0.05
+      1:
+      - émàɽðɛ́n
+      - èmàɽðɛ́n
+      - woman-NOM-SG-left_h
+      - 0.1
+      2:
+      - lɛ̀màɽðén
+      - lɛ̀màɽðén
+      - woman-NOM-PL
+      - 1.05
+      3:
+      - èmàɽðɛ́n<ENDOFSENTENCE>
+      - èmàɽðɛ́n
+      - woman-NOM-SG
+      - 1.05
+      4:
+      - émàɽðɛ́n<ENDOFSENTENCE>
+      - èmàɽðɛ́n
+      - woman-NOM-SG-left_h
+      - 1.1
+      5:
+      - èmàɽðɛ̀n<ENDOFSENTENCE>
+      - èmàɽðɛ́n
+      - woman-NOM-SG-final_lowering
+      - 1.1
+      6:
+      - lɛ́màɽðén
+      - lɛ̀màɽðén
+      - woman-NOM-PL-left_h
+      - 1.1
+      7:
+      - émàɽðɛ̀n<ENDOFSENTENCE>
+      - èmàɽðɛ́n
+      - woman-NOM-SG-final_lowering-left_h
+      - 1.15
+      8:
+      - ìmàɽðɛ́ná
+      - ìmàɽðɛ́ná
+      - woman-ACC-SG
+      - 1.6
+      9:
+      - ímàɽðɛ́ná
+      - ìmàɽðɛ́ná
+      - woman-ACC-SG-left_h
+      - 1.65
+  - original_str: kárŋìt̪ɔ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - káŋìt̪ɔ̀
+      - k-àŋìt̪-ɔ̀
+      - see-ben-CLG-VENT-DEP-left_h
+      - 1.0
+      1:
+      - káɾnìt̪ɔ̀
+      - káɾnìt̪-ɔ̀
+      - be.called-ben-IT-IPFV
+      - 1.05
+      2:
+      - ká rúŋìt̪ɔ̀
+      - k-á rúŋìt̪-ɔ̀
+      - wait-ben-CLG-IT-IPFV-aux
+      - 1.05
+      3:
+      - ká rúŋìt̪ɔ̀
+      - k-á rúŋìt̪-ɔ̀
+      - wait-ben-CLG-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.05
+      4:
+      - káɾìt̪ɔ̀
+      - k-àɾìt̪-ɔ̀
+      - aɾ-ben-CLG-VENT-DEP-left_h
+      - 1.05
+      5:
+      - káɾìt̪ɔ̀
+      - káɾìt̪-ɔ̀
+      - break-ben-IT-IPFV
+      - 1.05
+      6:
+      - káŋìt̪ɔ́
+      - k-àŋìt̪-ɔ́
+      - see-ben-CLG-VENT-PFV-left_h
+      - 1.05
+      7:
+      - káɾlìt̪ɔ̀
+      - k-àɾlìt̪-ɔ̀
+      - step.on-ben-CLG-VENT-DEP-left_h
+      - 1.05
+      8:
+      - káɾðìt̪ɔ̀
+      - k-àɾðìt̪-ɔ̀
+      - shave-ben-CLG-VENT-DEP-left_h
+      - 1.05
+      9:
+      - kàŋìt̪ɔ̀
+      - k-àŋìt̪-ɔ̀
+      - see-ben-CLG-VENT-DEP
+      - 1.05
+      10:
+      - káɾcìt̪ɔ̀
+      - káɾcìt̪-ɔ̀
+      - look.for-ben-IT-IPFV
+      - 1.05
+      11:
+      - káɾt̪ìt̪ɔ̀
+      - k-àɾt̪ìt̪-ɔ̀
+      - tell-ben-CLG-VENT-DEP-left_h
+      - 1.05
+  - original_str: ðɔ́mɔ̀cà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðɔ́mɔ̀cà<ENDOFSENTENCE>
+      - ðɔ̀mɔ̀cà
+      - man/male-ACC-SG-left_h
+      - 0.0
+      1:
+      - ðɔ̀mɔ̀cà<ENDOFSENTENCE>
+      - ðɔ̀mɔ̀cà
+      - man/male-ACC-SG
+      - 0.05
+      2:
+      - rɔ́mɔ̀cà<ENDOFSENTENCE>
+      - rɔ̀mɔ̀cà
+      - man/male-ACC-PL-left_h
+      - 1.0
+      3:
+      - ðɔ́mɔ̀cà
+      - ðɔ̀mɔ̀cà
+      - man/male-ACC-SG-left_h
+      - 1.0
+      4:
+      - ðɔ́mɔ̀cɔ̀<ENDOFSENTENCE>
+      - ðɔ̀mɔ̀cɔ̀
+      - man/male-NOM-SG-left_h
+      - 1.0
+      5:
+      - rɔ̀mɔ̀cà<ENDOFSENTENCE>
+      - rɔ̀mɔ̀cà
+      - man/male-ACC-PL
+      - 1.05
+      6:
+      - ðɔ̀mɔ̀cɔ̀<ENDOFSENTENCE>
+      - ðɔ̀mɔ̀cɔ̀
+      - man/male-NOM-SG
+      - 1.05
+      7:
+      - ðɔ̀mɔ̀cà
+      - ðɔ̀mɔ̀cà
+      - man/male-ACC-SG
+      - 1.05
+      8:
+      - ðɔ́mɔ̀cɔ̀
+      - ðɔ̀mɔ̀cɔ̀
+      - man/male-NOM-SG-left_h
+      - 1.6
+      9:
+      - ðɔ̀mɔ̀cɔ̀
+      - ðɔ̀mɔ̀cɔ̀
+      - man/male-NOM-SG
+      - 1.65
+- sentence: lɛ́là ðárðà ìɾɔ́ nd̪ɔ̀bà
+  update_sentence: ''
+  translation: They will go to shave hair tomorrow
+  split: test
+  index: '608'
+  checked_by_pi: false
+  words:
+  - original_str: lɛ́là
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lɛ́l
+      - l-ɛ́-l
+      - aux-CLL-IPFV-LOCATIVE-3SG.OBJ-1SG.SBJ
+      - 0.55
+      1:
+      - lɛ́ĺ
+      - l-ɛ́-ĺ
+      - aux-CLL-IPFV-3PL.OBJ-1SG.SBJ
+      - 0.55
+      2:
+      - lɛ́ĺ
+      - l-ɛ̀-ĺ
+      - aux-CLL-IT-PFV-3PL.OBJ-1SG.SBJ-left_h
+      - 0.55
+      3:
+      - lɛ̀l
+      - l-ɛ̀-l
+      - aux-CLL-IT-PFV-LOCATIVE-3SG.OBJ-1SG.SBJ
+      - 0.6
+      4:
+      - lɛ̀ĺ
+      - l-ɛ̀-ĺ
+      - aux-CLL-IT-PFV-3PL.OBJ-1SG.SBJ
+      - 0.6
+      5:
+      - lɛ̂l
+      - l-ɛ̀-l
+      - aux-CLL-IT-PFV-LOCATIVE-3SG.OBJ-1SG.SBJ-left_h
+      - 0.6
+      6:
+      - ɛ́là
+      - ɛ̀là
+      - gourd.piece-NOM-SG-left_h
+      - 1.0
+      7:
+      - ɛ́là
+      - ɛ̀là
+      - gourd.piece-ACC-SG-left_h
+      - 1.0
+      8:
+      - ɛ́là
+      - ɛ̀là
+      - mushroom.sp.-NOM-SG-left_h
+      - 1.0
+      9:
+      - ɛ́là
+      - ɛ̀là
+      - mushroom.sp.-ACC-SG-left_h
+      - 1.0
+      10:
+      - nɛ́là
+      - nɛ̀là
+      - gourd.piece-NOM-PL-left_h
+      - 1.0
+      11:
+      - nɛ́là
+      - nɛ̀là
+      - gourd.piece-ACC-PL-left_h
+      - 1.0
+      12:
+      - nɛ́là
+      - nɛ̀là
+      - mushroom.sp.-NOM-PL-left_h
+      - 1.0
+      13:
+      - nɛ́là
+      - nɛ̀là
+      - mushroom.sp.-ACC-PL-left_h
+      - 1.0
+      14:
+      - lɔ́là
+      - l-ɔ̀là
+      - tall-CLL-left_h
+      - 1.0
+      15:
+      - lə́ðà
+      - lə̀-ð-à
+      - slice-CLL-VENT-DEP-left_h
+      - 1.05
+      16:
+      - lɛ́l<ENDOFSENTENCE>
+      - l-ɛ́-l
+      - aux-CLL-IPFV-LOCATIVE-3SG.OBJ-1SG.SBJ
+      - 1.05
+  - original_str: ðárðà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðáɾðà
+      - ð-àɾð-à
+      - shave-CLÐ-VENT-DEP-left_h
+      - 0.05
+      1:
+      - ðàɾðà
+      - ð-àɾð-à
+      - shave-CLÐ-VENT-DEP
+      - 0.1
+      2:
+      - ðáɾðá
+      - ð-áɾð-á
+      - shave-CLÐ-INF
+      - 0.1
+      3:
+      - ðáɾìðà
+      - ð-àɾìð-à
+      - aɾ-antip-CLÐ-VENT-DEP-left_h
+      - 0.6
+      4:
+      - ðàɾìðà
+      - ð-àɾìð-à
+      - aɾ-antip-CLÐ-VENT-DEP
+      - 0.65
+      5:
+      - ðáɾíðá
+      - ð-áɾíð-á
+      - aɾ-antip-CLÐ-INF
+      - 0.65
+      6:
+      - ðá ðà
+      - ð-á ð-à
+      - slice-CLÐ-IT-IPFV-aux
+      - 1.0
+      7:
+      - ðá ðà
+      - ð-á ð-à
+      - slice-CLÐ-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.0
+      8:
+      - ŋárðà
+      - ŋárð-à
+      - tear-IT-IPFV
+      - 1.0
+      9:
+      - náɾðà
+      - n-àɾð-à
+      - shave-CLN-VENT-DEP-left_h
+      - 1.05
+      10:
+      - káɾðà
+      - k-àɾð-à
+      - shave-CLG-VENT-DEP-left_h
+      - 1.05
+  - original_str: ìɾɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ìjɔ́
+      - ìj-ɔ́
+      - beat-VENT-IPFV
+      - 1.0
+      1:
+      - ìbɔ́
+      - ìb-ɔ́
+      - marry-VENT-IMP
+      - 1.0
+      2:
+      - ìɾí
+      - ìɾí
+      - name-NOM-SG
+      - 1.0
+      3:
+      - ìɾɔ́v
+      - ìɾɔ́v
+      - sheaf/grass.bundle.for.roof-NOM-PL
+      - 1.0
+      4:
+      - ìdɔ́
+      - ìd-ɔ́
+      - fall-VENT-IMP
+      - 1.0
+      5:
+      - ìrɔ́
+      - ìrɔ́
+      - cow-NOM-PL
+      - 1.0
+      6:
+      - ìrɔ́
+      - ìrɔ́
+      - hair-NOM-PL
+      - 1.0
+      7:
+      - ɔ̀ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-VENT-IPFV
+      - 1.0
+      8:
+      - ɔ̀ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-VENT-IMP
+      - 1.0
+      9:
+      - àɾɔ́
+      - àɾ-ɔ́
+      - aɾ-VENT-IPFV
+      - 1.0
+      10:
+      - ɔ́ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-VENT-IPFV-left_h
+      - 1.05
+      11:
+      - ɔ́ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-VENT-IMP-left_h
+      - 1.05
+      12:
+      - ɔ́ɾɔ́
+      - ɔ́ɾ-ɔ́
+      - insult-IT-IMP
+      - 1.05
+      13:
+      - ìjɔ̀
+      - ìjɔ̀
+      - letter -NOM-PL
+      - 1.05
+      14:
+      - ìjɔ̀
+      - ìjɔ̀
+      - shepherd-NOM-SG
+      - 1.05
+  - original_str: nd̪ɔ̀bà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - nd̪ɔ̀bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 0.0
+      1:
+      - nd̪ɔ́bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 0.05
+      2:
+      - nd̪ɔ̀bà
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 1.0
+      3:
+      - nd̪ɔ́bà
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 1.05
+      4:
+      - nd̪ɔ̀bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      5:
+      - nd̪ɔ̀bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      6:
+      - nd̪ɔ́bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      7:
+      - nd̪ɔ́bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      8:
+      - nɔ̀là<ENDOFSENTENCE>
+      - n-ɔ̀là
+      - tall-CLN
+      - 2.0
+      9:
+      - nɔ̀dà<ENDOFSENTENCE>
+      - n-ɔ̀d-à
+      - build-CLN-VENT-DEP
+      - 2.0
+- sentence: t̪ə́vɔ́ ðár t̪ɔ́wə̀nì
+  update_sentence: ''
+  translation: cut the rope now!
+  split: test
+  index: '609'
+  checked_by_pi: false
+  words:
+  - original_str: t̪ə́vɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - t̪ə́vɔ́
+      - t̪ə̀v-ɔ́
+      - slice-VENT-IPFV-left_h
+      - 0.0
+      1:
+      - t̪ə́vɔ́
+      - t̪ə́v-ɔ́
+      - slice-IT-IMP
+      - 0.0
+      2:
+      - t̪ə̀vɔ́
+      - t̪ə̀v-ɔ́
+      - slice-VENT-IPFV
+      - 0.05
+      3:
+      - át̪ə̀vɔ́
+      - á-t̪ə̀v-ɔ́
+      - slice-VENT-PFV-2SG.SBJ
+      - 0.6
+      4:
+      - t̪ə́ðɔ́
+      - t̪ə̀-ð-ɔ́
+      - slice-CLT̪-VENT-PFV-left_h
+      - 1.0
+      5:
+      - t̪ə́vá
+      - t̪ə̀v-á
+      - slice-VENT-IMP-left_h
+      - 1.0
+      6:
+      - t̪ə́jɔ́
+      - t̪ə̀-j-ɔ́
+      - eat-CLT̪-VENT-PFV-left_h
+      - 1.0
+      7:
+      - t̪ə́pɔ́
+      - t̪ə̀-p-ɔ́
+      - hit-CLT̪-VENT-PFV-left_h
+      - 1.0
+      8:
+      - t̪ə́vɔ́<ENDOFSENTENCE>
+      - t̪ə̀v-ɔ́
+      - slice-VENT-IPFV-left_h
+      - 1.0
+      9:
+      - t̪ə́vɔ́<ENDOFSENTENCE>
+      - t̪ə́v-ɔ́
+      - slice-IT-IMP
+      - 1.0
+      10:
+      - t̪ə́t̪ɔ́
+      - t̪ə̀-t̪-ɔ́
+      - drink-CLT̪-VENT-PFV-left_h
+      - 1.0
+  - original_str: ðár
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðár
+      - ðár
+      - rope-NOM-SG
+      - 0.0
+      1:
+      - ðáŕ
+      - ð-à-ŕ
+      - slice-IT-IPFV-1PL.INCL.SBJ-left_h
+      - 0.05
+      2:
+      - ðáŕ
+      - ð-à-ŕ
+      - slice-IT-IPFV-1PL.INCL.OBJ-left_h
+      - 0.05
+      3:
+      - ðàŕ
+      - ð-à-ŕ
+      - slice-IT-IPFV-1PL.INCL.SBJ
+      - 0.1
+      4:
+      - ðàŕ
+      - ð-à-ŕ
+      - slice-IT-IPFV-1PL.INCL.OBJ
+      - 0.1
+      5:
+      - ðáɾà
+      - ð-àɾ-à
+      - aɾ-CLÐ-VENT-DEP-left_h
+      - 0.6
+      6:
+      - ðáɾɛ̀
+      - ð-àɾ-ɛ̀
+      - aɾ-CLÐ-IT-DEP-left_h
+      - 0.6
+      7:
+      - ðáɾá
+      - ð-áɾ-á
+      - aɾ-CLÐ-INF
+      - 0.6
+      8:
+      - ðáɾɔ́
+      - ð-àɾ-ɔ́
+      - aɾ-CLÐ-VENT-PFV-left_h
+      - 0.6
+      9:
+      - ðàɾɔ́
+      - ð-àɾ-ɔ́
+      - aɾ-CLÐ-VENT-PFV
+      - 0.65
+      10:
+      - ðàɾà
+      - ð-àɾ-à
+      - aɾ-CLÐ-VENT-DEP
+      - 0.65
+      11:
+      - ɔ́ðàŕ
+      - ɔ́ð-à-ŕ
+      - grind-IT-IPFV-1PL.INCL.SBJ
+      - 0.65
+      12:
+      - ɔ́ðàŕ
+      - ɔ́ð-à-ŕ
+      - grind-IT-IPFV-1PL.INCL.OBJ
+      - 0.65
+  - original_str: t̪ɔ́wə̀nì
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - t̪ɔ́wɜ̀nì<ENDOFSENTENCE>
+      - t̪ɔ́wɜ̀nì
+      - now
+      - 0.05
+      1:
+      - t̪ɔ́wɜ̀nì
+      - t̪ɔ́wɜ̀nì
+      - now
+      - 1.05
+      2:
+      - t̪ə́mànì<ENDOFSENTENCE>
+      - t̪ə̀-màn-ì
+      - boil-CLT̪-IT-DEP-left_h
+      - 1.6
+      3:
+      - t̪ə́wàjì<ENDOFSENTENCE>
+      - t̪ə̀-wàj-í
+      - wash-CLT̪-VENT-PFV-final_lowering-left_h
+      - 1.6
+      4:
+      - t̪ə́wàjì<ENDOFSENTENCE>
+      - t̪ə̀-wàj-ì
+      - wash-CLT̪-IT-DEP-left_h
+      - 1.6
+      5:
+      - t̪ə́wàjí<ENDOFSENTENCE>
+      - t̪ə̀-wàj-í
+      - wash-CLT̪-VENT-PFV-left_h
+      - 1.65
+      6:
+      - t̪ə̀mànì<ENDOFSENTENCE>
+      - t̪ə̀-màn-ì
+      - boil-CLT̪-IT-DEP
+      - 1.65
+      7:
+      - t̪ə̀wàjì<ENDOFSENTENCE>
+      - t̪ə̀-wàj-í
+      - wash-CLT̪-VENT-PFV-final_lowering
+      - 1.65
+      8:
+      - t̪ə̀wàjì<ENDOFSENTENCE>
+      - t̪ə̀-wàj-ì
+      - wash-CLT̪-IT-DEP
+      - 1.65
+      9:
+      - t̪ɔ́ɽìjì<ENDOFSENTENCE>
+      - t̪-ɔ̀ɽìj-í
+      - run-caus-CLT̪-VENT-PFV-final_lowering-left_h
+      - 2.05
+      10:
+      - t̪ɔ́ɽìjì<ENDOFSENTENCE>
+      - t̪-ɔ̀ɽìj-ì
+      - run-caus-CLT̪-IT-DEP-left_h
+      - 2.05
+      11:
+      - t̪ɔ́ɽìjì<ENDOFSENTENCE>
+      - t̪ɔ̀ɽìj-í
+      - write-caus-VENT-IPFV-final_lowering-left_h
+      - 2.05
+      12:
+      - t̪ɔ́ɽìjì<ENDOFSENTENCE>
+      - t̪ɔ́ɽìj-ì
+      - write-caus-IT-PFV
+      - 2.05
+      13:
+      - t̪ɔ́ɽìjì<ENDOFSENTENCE>
+      - t̪ɔ́ɽíj-í
+      - write-caus-IT-IMP-final_lowering-left_h
+      - 2.05
+      14:
+      - t̪ɔ́dɛ̀ŋì<ENDOFSENTENCE>
+      - t̪-ɔ̀d-ɛ́ŋí
+      - build-CLT̪-VENT-PFV-3SG.OBJ-1SG.SBJ-final_lowering-left_h
+      - 2.05
+      15:
+      - t̪ɔ́ðɛ̀ŋì<ENDOFSENTENCE>
+      - t̪-ɔ̀ð-ɛ́ŋí
+      - grind-CLT̪-VENT-PFV-3SG.OBJ-1SG.SBJ-final_lowering-left_h
+      - 2.05
+- sentence: lɔ́ɽɔ́ ŋárt̪á ŋɛ́nɛ̀
+  update_sentence: ''
+  translation: Say something!
+  split: test
+  index: '610'
+  checked_by_pi: false
+  words:
+  - original_str: lɔ́ɽɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lɔ́ɽɔ́
+      - l-ɔ̀ɽ-ɔ́
+      - run-CLL-VENT-PFV-left_h
+      - 0.0
+      1:
+      - lɔ́ɽɔ́
+      - lɔ̀ɽ-ɔ́
+      - speak-VENT-IPFV-left_h
+      - 0.0
+      2:
+      - lɔ́ɽɔ́
+      - lɔ́ɽ-ɔ́
+      - speak-IT-IMP
+      - 0.0
+      3:
+      - lɔ̀ɽɔ́
+      - l-ɔ̀ɽ-ɔ́
+      - run-CLL-VENT-PFV
+      - 0.05
+      4:
+      - lɔ̀ɽɔ́
+      - lɔ̀ɽ-ɔ́
+      - speak-VENT-IPFV
+      - 0.05
+      5:
+      - lə́ɔ̀ɽɔ́
+      - lə́-ɔ̀ɽ-ɔ́
+      - run-VENT-PFV-1DU.INCL.SBJ
+      - 0.15
+      6:
+      - álɔ̀ɽɔ́
+      - á-lɔ̀ɽ-ɔ́
+      - speak-VENT-PFV-2SG.SBJ
+      - 0.6
+      7:
+      - lɔ́rɔ́
+      - lɔ́rɔ́
+      - back-NOM-SG
+      - 1.0
+      8:
+      - kɔ́ɽɔ́
+      - k-ɔ̀ɽ-ɔ́
+      - run-CLG-VENT-PFV-left_h
+      - 1.0
+      9:
+      - t̪ɔ́ɽɔ́
+      - t̪-ɔ̀ɽ-ɔ́
+      - run-CLT̪-VENT-PFV-left_h
+      - 1.0
+      10:
+      - t̪ɔ́ɽɔ́
+      - t̪ɔ̀ɽ-ɔ́
+      - write-VENT-IPFV-left_h
+      - 1.0
+      11:
+      - t̪ɔ́ɽɔ́
+      - t̪ɔ́ɽ-ɔ́
+      - write-IT-IMP
+      - 1.0
+      12:
+      - vɔ́ɽɔ́
+      - vɔ̀ɽ-ɔ́
+      - return(transitive)-VENT-IMP-left_h
+      - 1.0
+      13:
+      - lɔ́ɾɔ́
+      - l-ɔ̀ɾ-ɔ́
+      - insult-CLL-VENT-PFV-left_h
+      - 1.0
+  - original_str: ŋárt̪á
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ŋə́rt̪á
+      - ŋə́rt̪á
+      - word-NOM-SG
+      - 0.55
+      1:
+      - ŋə́rt̪á
+      - ŋə̀rt̪á
+      - word-ACC-SG-left_h
+      - 0.55
+      2:
+      - ŋə̀rt̪á
+      - ŋə̀rt̪á
+      - word-ACC-SG
+      - 0.6
+      3:
+      - ŋáɾàt̪à
+      - ŋ-àɾàt̪-à
+      - aɾ-loc-CLŊ-VENT-DEP-left_h
+      - 0.65
+      4:
+      - ŋàɾàt̪à
+      - ŋ-àɾàt̪-à
+      - aɾ-loc-CLŊ-VENT-DEP
+      - 0.7
+      5:
+      - ŋát̪á
+      - ŋàt̪-á
+      - taste-VENT-IMP-left_h
+      - 1.0
+      6:
+      - ŋárðá
+      - ŋàrð-á
+      - tear-VENT-IMP-left_h
+      - 1.0
+      7:
+      - ŋát̪à
+      - ŋát̪-à
+      - taste-IT-IPFV
+      - 1.05
+      8:
+      - ŋàrðá
+      - ŋàrð-á
+      - tear-VENT-IMP
+      - 1.05
+      9:
+      - ŋàt̪á
+      - ŋàt̪-á
+      - taste-VENT-IMP
+      - 1.05
+      10:
+      - ŋávt̪à
+      - ŋ-àvt̪-à
+      - set.down-CLŊ-VENT-DEP-left_h
+      - 1.05
+  - original_str: ŋɛ́nɛ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ŋɛ́nɛ̀<ENDOFSENTENCE>
+      - ŋɛ́nɛ́
+      - dog-ACC-SG-final_lowering-left_h
+      - 0.0
+      1:
+      - ŋɛ̀nɛ̀<ENDOFSENTENCE>
+      - ŋɛ́nɛ́
+      - dog-ACC-SG-final_lowering
+      - 0.05
+      2:
+      - ŋɛ́nɛ́<ENDOFSENTENCE>
+      - ŋɛ́nɛ́
+      - dog-ACC-SG
+      - 0.05
+      3:
+      - ŋə́ǹɛ̀<ENDOFSENTENCE>
+      - ŋə̀-ǹ-ɛ̀
+      - listen-CLŊ-IT-DEP-left_h
+      - 0.1
+      4:
+      - ŋə̀ǹɛ̀<ENDOFSENTENCE>
+      - ŋə̀-ǹ-ɛ̀
+      - listen-CLŊ-IT-DEP
+      - 0.15
+      5:
+      - ŋɛ́n<ENDOFSENTENCE>
+      - ŋɛ́n
+      - dog-NOM-SG
+      - 0.55
+      6:
+      - ŋɛ́ ńɛ̀<ENDOFSENTENCE>
+      - ŋ-ɛ̀ ń-ɛ̀
+      - listen-CLŊ-IT-PFV-3SG.OBJ-1SG.SBJ-aux-left_h
+      - 0.55
+      7:
+      - ŋɛ̂n<ENDOFSENTENCE>
+      - ŋɛ́n
+      - dog-NOM-SG-final_lowering
+      - 0.6
+      8:
+      - ŋɛ̀ ńɛ̀<ENDOFSENTENCE>
+      - ŋ-ɛ̀ ń-ɛ̀
+      - listen-CLŊ-IT-PFV-3SG.OBJ-1SG.SBJ-aux
+      - 0.6
+      9:
+      - ŋɛ́ŋɛ̀<ENDOFSENTENCE>
+      - ŋ-ɛ́-ŋɛ́
+      - aux-CLŊ-IPFV-CLASS-3SG.OBJ-1SG.SBJ-final_lowering-left_h
+      - 1.0
+      10:
+      - ŋɛ́ŋɛ̀<ENDOFSENTENCE>
+      - ŋ-ɛ̀-ŋɛ́
+      - aux-CLŊ-IT-PFV-CLASS-3SG.OBJ-1SG.SBJ-final_lowering-left_h
+      - 1.0
+- sentence: íŋgánɔ́nà lə̀və́rá nd̪ɔ̀bà
+  update_sentence: ''
+  translation: I will see the field tomorrow
+  split: test
+  index: '611'
+  checked_by_pi: false
+  words:
+  - original_str: íŋgánɔ́nà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - íŋgá nɔ́nà
+      - íŋ-g-á nɔ́n-à
+      - look-CLG-IT-IPFV-1SG.SBJ-aux
+      - 0.5
+      1:
+      - ŋgá nɔ́nà
+      - ŋg-á nɔ́n-à
+      - look-CLG-IT-IPFV-aux
+      - 1.05
+      2:
+      - ŋgá nɔ́nà
+      - ŋg-á nɔ́n-à
+      - look-CLG-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.05
+      3:
+      - ŋgə́nɔ̀nà
+      - ŋgə̀-nɔ̀n-à
+      - look-CLG-VENT-DEP-left_h
+      - 1.15
+      4:
+      - íŋgá nɔ́nà<ENDOFSENTENCE>
+      - íŋ-g-á nɔ́n-à
+      - look-CLG-IT-IPFV-1SG.SBJ-aux
+      - 1.5
+      5:
+      - íŋgáĺ nɔ́nà
+      - íŋ-g-á-ĺ nɔ́n-à
+      - look-CLG-IT-IPFV-3PL.OBJ-1SG.SBJ-aux
+      - 1.55
+      6:
+      - íŋgà nɔ́nɛ̀
+      - íŋ-g-à nɔ́n-ɛ̀
+      - look-CLG-IT-PFV-1SG.SBJ-aux
+      - 1.55
+      7:
+      - íŋgá nɔ̀nɔ́
+      - íŋ-g-á nɔ̀n-ɔ́
+      - look-CLG-VENT-IPFV-1SG.SBJ-aux
+      - 1.6
+      8:
+      - íŋgá ńà
+      - íŋ-g-á ń-à
+      - listen-CLG-IT-IPFV-1SG.SBJ-aux
+      - 1.6
+      9:
+      - íŋgáló ńà
+      - íŋ-g-á-ló ń-à
+      - listen-CLG-IT-IPFV-3PL.OBJ-1SG.SBJ-aux
+      - 1.6
+      10:
+      - ŋgə̀nɔ̀nà
+      - ŋgə̀-nɔ̀n-à
+      - look-CLG-VENT-DEP
+      - 1.65
+  - original_str: lə̀və́rá
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lə̀və́rá
+      - lə̀və́rá
+      - field-ACC-SG
+      - 0.0
+      1:
+      - lə́və́rá
+      - lə̀və́rá
+      - field-ACC-SG-left_h
+      - 0.05
+      2:
+      - lə̀vàrà
+      - lə̀-vàr-à
+      - run-CLL-VENT-DEP
+      - 0.15
+      3:
+      - lə̀vàrà
+      - lə̀vàrà
+      - stick-ACC-SG
+      - 0.15
+      4:
+      - làvàrà
+      - làvàrà
+      - stick-NOM-SG
+      - 0.2
+      5:
+      - lə́vàrà
+      - lə̀-vàr-à
+      - run-CLL-VENT-DEP-left_h
+      - 0.2
+      6:
+      - lə́vàrà
+      - lə̀vàrà
+      - stick-ACC-SG-left_h
+      - 0.2
+      7:
+      - lə̀vàɾà
+      - lə̀-vàɾ-à
+      - escape-CLL-VENT-DEP
+      - 0.2
+      8:
+      - lávàrà
+      - làvàrà
+      - stick-NOM-SG-left_h
+      - 0.25
+      9:
+      - lə́vàɾà
+      - lə̀-vàɾ-à
+      - escape-CLL-VENT-DEP-left_h
+      - 0.25
+      10:
+      - lə̀və́r
+      - lə̀və́r
+      - field-NOM-SG
+      - 0.55
+      11:
+      - lə́və́r
+      - lə̀və́r
+      - field-NOM-SG-left_h
+      - 0.6
+  - original_str: nd̪ɔ̀bà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - nd̪ɔ̀bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 0.0
+      1:
+      - nd̪ɔ́bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 0.05
+      2:
+      - nd̪ɔ̀bà
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 1.0
+      3:
+      - nd̪ɔ́bà
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 1.05
+      4:
+      - nd̪ɔ̀bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      5:
+      - nd̪ɔ̀bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      6:
+      - nd̪ɔ́bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      7:
+      - nd̪ɔ́bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      8:
+      - nɔ̀là<ENDOFSENTENCE>
+      - n-ɔ̀là
+      - tall-CLN
+      - 2.0
+      9:
+      - nɔ̀dà<ENDOFSENTENCE>
+      - n-ɔ̀d-à
+      - build-CLN-VENT-DEP
+      - 2.0
+- sentence: íŋgánɔ́nà ŋə̀və́rá nd̪ɔ̀bà
+  update_sentence: ''
+  translation: I will see the fields tomorrow
+  split: test
+  index: '612'
+  checked_by_pi: false
+  words:
+  - original_str: íŋgánɔ́nà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - íŋgá nɔ́nà
+      - íŋ-g-á nɔ́n-à
+      - look-CLG-IT-IPFV-1SG.SBJ-aux
+      - 0.5
+      1:
+      - ŋgá nɔ́nà
+      - ŋg-á nɔ́n-à
+      - look-CLG-IT-IPFV-aux
+      - 1.05
+      2:
+      - ŋgá nɔ́nà
+      - ŋg-á nɔ́n-à
+      - look-CLG-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.05
+      3:
+      - ŋgə́nɔ̀nà
+      - ŋgə̀-nɔ̀n-à
+      - look-CLG-VENT-DEP-left_h
+      - 1.15
+      4:
+      - íŋgá nɔ́nà<ENDOFSENTENCE>
+      - íŋ-g-á nɔ́n-à
+      - look-CLG-IT-IPFV-1SG.SBJ-aux
+      - 1.5
+      5:
+      - íŋgáĺ nɔ́nà
+      - íŋ-g-á-ĺ nɔ́n-à
+      - look-CLG-IT-IPFV-3PL.OBJ-1SG.SBJ-aux
+      - 1.55
+      6:
+      - íŋgà nɔ́nɛ̀
+      - íŋ-g-à nɔ́n-ɛ̀
+      - look-CLG-IT-PFV-1SG.SBJ-aux
+      - 1.55
+      7:
+      - íŋgá nɔ̀nɔ́
+      - íŋ-g-á nɔ̀n-ɔ́
+      - look-CLG-VENT-IPFV-1SG.SBJ-aux
+      - 1.6
+      8:
+      - íŋgá ńà
+      - íŋ-g-á ń-à
+      - listen-CLG-IT-IPFV-1SG.SBJ-aux
+      - 1.6
+      9:
+      - íŋgáló ńà
+      - íŋ-g-á-ló ń-à
+      - listen-CLG-IT-IPFV-3PL.OBJ-1SG.SBJ-aux
+      - 1.6
+      10:
+      - ŋgə̀nɔ̀nà
+      - ŋgə̀-nɔ̀n-à
+      - look-CLG-VENT-DEP
+      - 1.65
+  - original_str: ŋə̀və́rá
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ŋə̀və́rá
+      - ŋə̀və́rá
+      - field-ACC-PL
+      - 0.0
+      1:
+      - ŋə́və́rá
+      - ŋə̀və́rá
+      - field-ACC-PL-left_h
+      - 0.05
+      2:
+      - ŋə̀vàrà
+      - ŋə̀-vàr-à
+      - run-CLŊ-VENT-DEP
+      - 0.15
+      3:
+      - ŋə̀vàrà
+      - ŋə̀vàrà
+      - stick-ACC-PL
+      - 0.15
+      4:
+      - ŋàvàrà
+      - ŋàvàrà
+      - stick-NOM-PL
+      - 0.2
+      5:
+      - ŋə́vàrà
+      - ŋə̀-vàr-à
+      - run-CLŊ-VENT-DEP-left_h
+      - 0.2
+      6:
+      - ŋə́vàrà
+      - ŋə̀vàrà
+      - stick-ACC-PL-left_h
+      - 0.2
+      7:
+      - ŋə̀vàɾà
+      - ŋə̀-vàɾ-à
+      - escape-CLŊ-VENT-DEP
+      - 0.2
+      8:
+      - ŋávàrà
+      - ŋàvàrà
+      - stick-NOM-PL-left_h
+      - 0.25
+      9:
+      - ŋə́vàɾà
+      - ŋə̀-vàɾ-à
+      - escape-CLŊ-VENT-DEP-left_h
+      - 0.25
+      10:
+      - ŋə̀və́r
+      - ŋə̀və́r
+      - field-NOM-PL
+      - 0.55
+      11:
+      - ŋə́və́r
+      - ŋə̀və́r
+      - field-NOM-PL-left_h
+      - 0.6
+  - original_str: nd̪ɔ̀bà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - nd̪ɔ̀bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 0.0
+      1:
+      - nd̪ɔ́bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 0.05
+      2:
+      - nd̪ɔ̀bà
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 1.0
+      3:
+      - nd̪ɔ́bà
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 1.05
+      4:
+      - nd̪ɔ̀bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      5:
+      - nd̪ɔ̀bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      6:
+      - nd̪ɔ́bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      7:
+      - nd̪ɔ́bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      8:
+      - nɔ̀là<ENDOFSENTENCE>
+      - n-ɔ̀là
+      - tall-CLN
+      - 2.0
+      9:
+      - nɔ̀dà<ENDOFSENTENCE>
+      - n-ɔ̀d-à
+      - build-CLN-VENT-DEP
+      - 2.0
+- sentence: kà ɔ́ɽɟɛ̀cì ánó unɛɾɛ
+  update_sentence: ''
+  translation: You helped him yesterday and left.
+  split: test
+  index: '613'
+  checked_by_pi: false
+  words:
+  - original_str: kà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - kà
+      - k-à
+      - aux-CLG-IT-PFV
+      - 0.0
+      1:
+      - kà
+      - k-à
+      - aux-CLG-IT-PFV-3SG.OBJ-2SG.SBJ
+      - 0.0
+      2:
+      - kâ
+      - k-à
+      - aux-CLG-IT-PFV-left_h
+      - 0.05
+      3:
+      - kâ
+      - k-à
+      - aux-CLG-IT-PFV-3SG.OBJ-2SG.SBJ-left_h
+      - 0.05
+      4:
+      - ká
+      - k-á
+      - aux-CLG-IPFV
+      - 0.05
+      5:
+      - ká
+      - k-á
+      - aux-CLG-IPFV-3SG.OBJ-2SG.SBJ
+      - 0.05
+      6:
+      - ágà
+      - á-g-à
+      - aux-CLG-IT-PFV-2SG.SBJ
+      - 0.6
+      7:
+      - ágá
+      - á-g-á
+      - aux-CLG-IPFV-2SG.SBJ
+      - 0.65
+      8:
+      - rà
+      - r-à
+      - aux-CLR-IT-PFV
+      - 1.0
+      9:
+      - rà
+      - r-à
+      - aux-CLR-IT-PFV-3SG.OBJ-2SG.SBJ
+      - 1.0
+      10:
+      - kàl
+      - k-à-l
+      - aux-CLG-IT-PFV-LOCATIVE
+      - 1.0
+      11:
+      - kàl
+      - k-à-l
+      - aux-CLG-IT-PFV-LOCATIVE-3SG.OBJ-2SG.SBJ
+      - 1.0
+      12:
+      - kàl
+      - k-à-l
+      - aux-CLG-IT-PFV-3SG.OBJ-3SG.SBJ
+      - 1.0
+      13:
+      - kàl
+      - k-à-l
+      - aux-CLG-IT-PFV-3SG.OBJ-3PL.SBJ
+      - 1.0
+      14:
+      - kà<ENDOFSENTENCE>
+      - k-à
+      - aux-CLG-IT-PFV
+      - 1.0
+      15:
+      - kà<ENDOFSENTENCE>
+      - k-à
+      - aux-CLG-IT-PFV-3SG.OBJ-2SG.SBJ
+      - 1.0
+      16:
+      - ɲà
+      - ɲ-à
+      - aux-CLƝ-IT-PFV
+      - 1.0
+      17:
+      - ɲà
+      - ɲ-à
+      - aux-CLƝ-IT-PFV-3SG.OBJ-2SG.SBJ
+      - 1.0
+      18:
+      - t̪à
+      - t̪-à
+      - aux-CLT̪-IT-PFV
+      - 1.0
+      19:
+      - t̪à
+      - t̪-à
+      - aux-CLT̪-IT-PFV-3SG.OBJ-2SG.SBJ
+      - 1.0
+      20:
+      - t̪à
+      - t̪-à
+      - be.lost-IT-IPFV
+      - 1.0
+  - original_str: ɔ́ɽɟɛ̀cì
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ɔ́ɽɟɛ̀cì
+      - ɔ́ɽɟɛ̀c-ì
+      - help-IT-PFV
+      - 0.0
+      1:
+      - ɔ́ɽɟɛ̀cí
+      - ɔ̀ɽɟɛ̀c-í
+      - help-VENT-IPFV-left_h
+      - 0.05
+      2:
+      - ɔ̀ɽɟɛ̀cí
+      - ɔ̀ɽɟɛ̀c-í
+      - help-VENT-IPFV
+      - 0.1
+      3:
+      - ɔ́ɽɟɛ́cí
+      - ɔ́ɽɟɛ́c-í
+      - help-IT-IMP
+      - 0.1
+      4:
+      - áɔ̀ɽɟɛ̀cí
+      - á-ɔ̀ɽɟɛ̀c-í
+      - help-VENT-PFV-2SG.SBJ
+      - 0.65
+      5:
+      - rɔ́ɽɟɛ̀cì
+      - r-ɔ̀ɽɟɛ̀c-ì
+      - help-CLR-IT-DEP-left_h
+      - 1.0
+      6:
+      - lɔ́ɽɟɛ̀cì
+      - l-ɔ̀ɽɟɛ̀c-ì
+      - help-CLL-IT-DEP-left_h
+      - 1.0
+      7:
+      - ɔ́ɽɟɛ̀cì<ENDOFSENTENCE>
+      - ɔ̀ɽɟɛ̀c-í
+      - help-VENT-IPFV-final_lowering-left_h
+      - 1.0
+      8:
+      - ɔ́ɽɟɛ̀cì<ENDOFSENTENCE>
+      - ɔ́ɽɟɛ̀c-ì
+      - help-IT-PFV
+      - 1.0
+      9:
+      - ɔ́ɽɟɛ̀cì<ENDOFSENTENCE>
+      - ɔ́ɽɟɛ́c-í
+      - help-IT-IMP-final_lowering-left_h
+      - 1.0
+      10:
+      - ɔ́ɽɟɛ̀cà
+      - ɔ́ɽɟɛ̀c-à
+      - help-IT-IPFV
+      - 1.0
+  - original_str: ánó
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - áǹɔ́
+      - á-ǹ-ɔ́
+      - listen-VENT-PFV-2SG.SBJ
+      - 0.1
+      1:
+      - àn
+      - àn
+      - FOC
+      - 0.6
+      2:
+      - ân
+      - àn
+      - FOC-left_h
+      - 0.6
+      3:
+      - ǹɔ́
+      - ǹ-ɔ́
+      - listen-VENT-IPFV
+      - 0.65
+      4:
+      - ńɔ́
+      - ǹ-ɔ́
+      - listen-VENT-IPFV-left_h
+      - 0.65
+      5:
+      - ńɔ́
+      - ń-ɔ́
+      - listen-IT-IMP
+      - 0.65
+      6:
+      - áwó
+      - àw-ó
+      - urinate-VENT-IPFV-left_h
+      - 1.0
+      7:
+      - áwó
+      - áw-ó
+      - urinate-IT-IMP
+      - 1.0
+      8:
+      - áɽó
+      - àɽ-ó
+      - put-VENT-IPFV-left_h
+      - 1.0
+      9:
+      - áɽó
+      - áɽ-ó
+      - put-IT-IMP
+      - 1.0
+      10:
+      - áðɔ́
+      - á-ð-ɔ́
+      - slice-VENT-PFV-2SG.SBJ
+      - 1.05
+      11:
+      - ájɔ́
+      - á-j-ɔ́
+      - eat-VENT-PFV-2SG.SBJ
+      - 1.05
+      12:
+      - àɽó
+      - àɽ-ó
+      - put-VENT-IPFV
+      - 1.05
+  - original_str: unɛɾɛ
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - únɛ́ɾɛ́<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-left_h
+      - 0.15
+      1:
+      - ùnɛ́ɾɛ́<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday
+      - 0.15
+      2:
+      - únɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-final_lowering-left_h
+      - 0.15
+      3:
+      - ùnɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-final_lowering
+      - 0.15
+      4:
+      - nɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL-final_lowering
+      - 0.6
+      5:
+      - nɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL-final_lowering
+      - 0.6
+      6:
+      - nɛ́ɾɛ́<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL
+      - 0.6
+      7:
+      - nɛ́ɾɛ́<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL
+      - 0.6
+      8:
+      - nɛ́ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL-final_lowering-left_h
+      - 0.6
+      9:
+      - nɛ́ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL-final_lowering-left_h
+      - 0.6
+      10:
+      - únɛ́ɾɛ́
+      - ùnɛ́ɾɛ́
+      - yesterday-left_h
+      - 1.1
+      11:
+      - ùnɛ́ɾɛ́
+      - ùnɛ́ɾɛ́
+      - yesterday
+      - 1.1
+      12:
+      - únɛ̀<ENDOFSENTENCE>
+      - únɛ́
+      - porcupine-ACC-SG-final_lowering-left_h
+      - 1.55
+- sentence: kə̀ɔ̀ɽɟɛ̀cíŋ unɛɾɛ
+  update_sentence: ''
+  translation: 'Intended: He helped him yesterday'
+  split: test
+  index: '614'
+  checked_by_pi: false
+  words:
+  - original_str: kə̀ɔ̀ɽɟɛ̀cíŋ
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - kɔ̀ɽɟɛ̀cíŋ
+      - k-ɔ̀ɽɟɛ̀c-í-ŋ
+      - help-CLG-VENT-PFV-3SG.OBJ
+      - 0.1
+      1:
+      - kɔ̀ɽɟɛ̀cíŋ
+      - k-ɔ̀ɽɟɛ̀c-í-ŋ
+      - help-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ
+      - 0.1
+      2:
+      - kɔ́ɽɟɛ̀cíŋ
+      - k-ɔ̀ɽɟɛ̀c-í-ŋ
+      - help-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 0.15
+      3:
+      - kɔ́ɽɟɛ̀cíŋ
+      - k-ɔ̀ɽɟɛ̀c-í-ŋ
+      - help-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 0.15
+      4:
+      - kɔ̀ɽɟɛ̀cíŋì
+      - k-ɔ̀ɽɟɛ̀c-íŋì
+      - help-CLG-VENT-PFV-1SG.OBJ
+      - 0.65
+      5:
+      - kɔ̀ɽɟɛ̀cíŋí
+      - k-ɔ̀ɽɟɛ̀c-íŋí
+      - help-CLG-VENT-PFV-3SG.OBJ-1SG.SBJ
+      - 0.65
+      6:
+      - kɔ̀ɽɟɛ̀cíŋú
+      - k-ɔ̀ɽɟɛ̀c-í-ŋú
+      - help-CLG-VENT-PFV-3SG.OBJ
+      - 0.65
+      7:
+      - kɔ̀ɽɟɛ̀cíŋú
+      - k-ɔ̀ɽɟɛ̀c-í-ŋú
+      - help-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ
+      - 0.65
+      8:
+      - kɔ́ɽɟɛ̀cíŋì
+      - k-ɔ̀ɽɟɛ̀c-íŋì
+      - help-CLG-VENT-PFV-1SG.OBJ-left_h
+      - 0.7
+      9:
+      - kɔ́ɽɟɛ̀cíŋí
+      - k-ɔ̀ɽɟɛ̀c-íŋí
+      - help-CLG-VENT-PFV-3SG.OBJ-1SG.SBJ-left_h
+      - 0.7
+      10:
+      - kɔ́ɽɟɛ̀cíŋú
+      - k-ɔ̀ɽɟɛ̀c-í-ŋú
+      - help-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 0.7
+      11:
+      - kɔ́ɽɟɛ̀cíŋú
+      - k-ɔ̀ɽɟɛ̀c-í-ŋú
+      - help-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 0.7
+      12:
+      - lə́ɔ̀ɽɟɛ̀cíŋ
+      - lə́-ɔ̀ɽɟɛ̀c-í-ŋ
+      - help-VENT-PFV-3SG.OBJ-1DU.INCL.SBJ
+      - 1.05
+      13:
+      - ɲàɔ̀ɽɟɛ̀cíŋ
+      - ɲà-ɔ̀ɽɟɛ̀c-í-ŋ
+      - help-VENT-PFV-3SG.OBJ-1PL.EXCL.SBJ
+      - 1.05
+  - original_str: unɛɾɛ
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - únɛ́ɾɛ́<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-left_h
+      - 0.15
+      1:
+      - ùnɛ́ɾɛ́<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday
+      - 0.15
+      2:
+      - únɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-final_lowering-left_h
+      - 0.15
+      3:
+      - ùnɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-final_lowering
+      - 0.15
+      4:
+      - nɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL-final_lowering
+      - 0.6
+      5:
+      - nɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL-final_lowering
+      - 0.6
+      6:
+      - nɛ́ɾɛ́<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL
+      - 0.6
+      7:
+      - nɛ́ɾɛ́<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL
+      - 0.6
+      8:
+      - nɛ́ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL-final_lowering-left_h
+      - 0.6
+      9:
+      - nɛ́ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL-final_lowering-left_h
+      - 0.6
+      10:
+      - únɛ́ɾɛ́
+      - ùnɛ́ɾɛ́
+      - yesterday-left_h
+      - 1.1
+      11:
+      - ùnɛ́ɾɛ́
+      - ùnɛ́ɾɛ́
+      - yesterday
+      - 1.1
+      12:
+      - únɛ̀<ENDOFSENTENCE>
+      - únɛ́
+      - porcupine-ACC-SG-final_lowering-left_h
+      - 1.55
+- sentence: lávŕðɔ̀ álɛ́ ndɔ̀bà
+  update_sentence: ''
+  translation: They will throw stone away tomorrow
+  split: test
+  index: '615'
+  checked_by_pi: false
+  words:
+  - original_str: lávŕðɔ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lá vŕðɔ̀
+      - l-á vŕð-ɔ̀
+      - throw-CLL-IT-IPFV-aux
+      - 0.5
+      1:
+      - lá vŕðɔ̀
+      - l-á vŕð-ɔ̀
+      - throw-CLL-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.5
+      2:
+      - lə́vr̀ðɔ̀
+      - lə̀-vr̀ð-ɔ̀
+      - throw-CLL-VENT-DEP-left_h
+      - 0.6
+      3:
+      - lá vr̀ðɔ́
+      - l-á vr̀ð-ɔ́
+      - throw-CLL-VENT-IPFV-aux
+      - 0.6
+      4:
+      - lá vr̀ðɔ́
+      - l-á vr̀ð-ɔ́
+      - throw-CLL-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.6
+      5:
+      - lə̀vr̀ðɔ̀
+      - lə̀-vr̀ð-ɔ̀
+      - throw-CLL-VENT-DEP
+      - 0.65
+      6:
+      - lə́vr̀ðɔ́
+      - lə́-vr̀ð-ɔ́
+      - throw-VENT-PFV-1DU.INCL.SBJ
+      - 0.65
+      7:
+      - lə́vr̀ðɔ́
+      - lə̀-vr̀ð-ɔ́
+      - throw-CLL-VENT-PFV-left_h
+      - 0.65
+      8:
+      - lə̀vr̀ðɔ́
+      - lə̀-vr̀ð-ɔ́
+      - throw-CLL-VENT-PFV
+      - 0.7
+      9:
+      - álá vŕðɔ̀
+      - á-l-á vŕð-ɔ̀
+      - throw-CLL-IT-IPFV-1DU.INCL.SBJ-aux
+      - 1.05
+      10:
+      - ávr̀ðɔ́
+      - á-vr̀ð-ɔ́
+      - throw-VENT-PFV-2SG.SBJ
+      - 1.1
+      11:
+      - ɲávr̀ðɔ́
+      - ɲà-vr̀ð-ɔ́
+      - throw-VENT-PFV-1PL.EXCL.SBJ-left_h
+      - 1.1
+      12:
+      - ɲávr̀ðɔ́
+      - ɲá-vr̀ð-ɔ́
+      - throw-VENT-PFV-2PL.SBJ
+      - 1.1
+      13:
+      - ɲàvr̀ðɔ́
+      - ɲà-vr̀ð-ɔ́
+      - throw-VENT-PFV-1PL.EXCL.SBJ
+      - 1.15
+  - original_str: álɛ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - álɛ́
+      - álɛ́
+      - stone-ACC-SG
+      - 0.0
+      1:
+      - lɛ́
+      - l-ɛ́
+      - aux-CLL-IPFV-3SG.OBJ-1SG.SBJ
+      - 0.55
+      2:
+      - ál̀
+      - ál̀
+      - stone-NOM-SG
+      - 0.55
+      3:
+      - lɛ̀
+      - l-ɛ̀
+      - aux-CLL-IT-PFV-3SG.OBJ-1SG.SBJ
+      - 0.6
+      4:
+      - lɛ̂
+      - l-ɛ̀
+      - aux-CLL-IT-PFV-3SG.OBJ-1SG.SBJ-left_h
+      - 0.6
+      5:
+      - âl
+      - âl
+      - stone-NOM-SG
+      - 0.6
+      6:
+      - nálɛ́
+      - nálɛ́
+      - stone-ACC-PL
+      - 1.0
+      7:
+      - álá
+      - á-l-á
+      - aux-CLL-IPFV-1DU.INCL.SBJ
+      - 1.0
+      8:
+      - álá
+      - á-l-á
+      - aux-CLL-IPFV-1PL.INCL.SBJ
+      - 1.0
+      9:
+      - álɛ́<ENDOFSENTENCE>
+      - álɛ́
+      - stone-ACC-SG
+      - 1.0
+      10:
+      - álú
+      - àlú
+      - place-NOM-SG-left_h
+      - 1.0
+  - original_str: ndɔ̀bà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - nd̪ɔ̀bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 0.05
+      1:
+      - nd̪ɔ́bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 0.1
+      2:
+      - nd̪ɔ̀bà
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 1.05
+      3:
+      - nd̪ɔ́bà
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 1.1
+      4:
+      - nɔ́dɔ̀t̪à<ENDOFSENTENCE>
+      - n-ɔ̀dɔ̀t̪-à
+      - build-loc-CLN-VENT-DEP-left_h
+      - 1.55
+      5:
+      - nɔ̀dɔ̀t̪à<ENDOFSENTENCE>
+      - n-ɔ̀dɔ̀t̪-à
+      - build-loc-CLN-VENT-DEP
+      - 1.55
+      6:
+      - ńdòr̀<ENDOFSENTENCE>
+      - ǹd-ó-ŕ
+      - sleep-VENT-IPFV-1PL.INCL.SBJ-final_lowering-left_h
+      - 1.6
+      7:
+      - ńdòr̀<ENDOFSENTENCE>
+      - ǹd-ó-ŕ
+      - sleep-VENT-IPFV-1PL.INCL.OBJ-final_lowering-left_h
+      - 1.6
+      8:
+      - ǹdòr̀<ENDOFSENTENCE>
+      - ǹd-ó-ŕ
+      - sleep-VENT-IPFV-1PL.INCL.SBJ-final_lowering
+      - 1.6
+      9:
+      - ǹdòr̀<ENDOFSENTENCE>
+      - ǹd-ó-ŕ
+      - sleep-VENT-IPFV-1PL.INCL.OBJ-final_lowering
+      - 1.6
+      10:
+      - nd̪ɔ̀bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.6
+      11:
+      - nd̪ɔ̀bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.6
+- sentence: mùðǔ ŋ̀gáɽíɲînɔ̀ làvràlè dè
+  update_sentence: ''
+  translation: Leopard cannot be killed with a stick.
+  split: test
+  index: '616'
+  checked_by_pi: false
+  words:
+  - original_str: mùðǔ
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - mùðù
+      - mùðù
+      - leopard-NOM-SG
+      - 0.05
+      1:
+      - mùðù
+      - mùðù
+      - leopard-NOM-PL
+      - 0.05
+      2:
+      - múðù
+      - mùðù
+      - leopard-NOM-SG-left_h
+      - 0.1
+      3:
+      - múðù
+      - mùðù
+      - leopard-NOM-PL-left_h
+      - 0.1
+      4:
+      - tùðú
+      - tùð-ú
+      - rise-VENT-IPFV
+      - 1.05
+      5:
+      - mùðù<ENDOFSENTENCE>
+      - mùðù
+      - leopard-NOM-SG
+      - 1.05
+      6:
+      - mùðù<ENDOFSENTENCE>
+      - mùðù
+      - leopard-NOM-PL
+      - 1.05
+      7:
+      - muðɔ
+      - muðɔ
+      - leopard-ACC-SG
+      - 1.1
+      8:
+      - muðɔ
+      - muðɔ
+      - leopard-ACC-SG-left_h
+      - 1.1
+      9:
+      - múðù<ENDOFSENTENCE>
+      - mùðù
+      - leopard-NOM-SG-left_h
+      - 1.1
+      10:
+      - múðù<ENDOFSENTENCE>
+      - mùðù
+      - leopard-NOM-PL-left_h
+      - 1.1
+      11:
+      - túðú
+      - tùð-ú
+      - rise-VENT-IPFV-left_h
+      - 1.1
+      12:
+      - túðú
+      - túð-ú
+      - rise-IT-IMP
+      - 1.1
+      13:
+      - mìðó
+      - mìð-ó
+      - take-antip-VENT-IPFV
+      - 1.1
+      14:
+      - míðó
+      - mìð-ó
+      - take-antip-VENT-IPFV-left_h
+      - 1.15
+      15:
+      - míðó
+      - míð-ó
+      - take-antip-IT-IMP
+      - 1.15
+      16:
+      - ɜ̀ðú
+      - ɜ̀ðú
+      - breast-NOM-SG
+      - 1.55
+  - original_str: ŋ̀gáɽíɲînɔ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ŋgá ɽíɲìnɔ̀
+      - ŋg-á ɽíɲìn-ɔ̀
+      - kill-pass-CLG-IT-IPFV-aux
+      - 0.6
+      1:
+      - ŋgá ɽíɲìnɔ̀
+      - ŋg-á ɽíɲìn-ɔ̀
+      - kill-pass-CLG-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.6
+      2:
+      - ŋgə́ɽìɲìnɔ̀
+      - ŋgə̀-ɽìɲìn-ɔ̀
+      - kill-pass-CLG-VENT-DEP-left_h
+      - 0.7
+      3:
+      - ŋgá ɽìɲìnɔ́
+      - ŋg-á ɽìɲìn-ɔ́
+      - kill-pass-CLG-VENT-IPFV-aux
+      - 0.7
+      4:
+      - ŋgá ɽìɲìnɔ́
+      - ŋg-á ɽìɲìn-ɔ́
+      - kill-pass-CLG-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.7
+      5:
+      - ŋgámìɲìnɔ̀
+      - ŋg-àmìɲìn-ɔ̀
+      - love-pass-CLG-VENT-DEP-left_h
+      - 1.15
+      6:
+      - ŋgáɽìðìnɔ̀
+      - ŋg-àɽìðìn-ɔ̀
+      - put-antip-pass-CLG-VENT-DEP-left_h
+      - 1.15
+      7:
+      - ŋgáɽìðìnɔ̀
+      - ŋg-àɽìðìn-ɔ̀
+      - form-pass-CLG-VENT-DEP-left_h
+      - 1.15
+      8:
+      - ŋgáɽìjìnɔ̀
+      - ŋg-àɽìjìn-ɔ̀
+      - put-caus-pass-CLG-VENT-DEP-left_h
+      - 1.15
+      9:
+      - ŋgáɽìt̪ìnɔ̀
+      - ŋg-àɽìt̪ìn-ɔ̀
+      - put-ben-pass-CLG-VENT-DEP-left_h
+      - 1.15
+      10:
+      - íŋgá ɽíɲìnɔ̀
+      - íŋ-g-á ɽíɲìn-ɔ̀
+      - kill-pass-CLG-IT-IPFV-1SG.SBJ-aux
+      - 1.15
+      11:
+      - ŋgàɽìt̪ìnɔ̀
+      - ŋg-àɽìt̪ìn-ɔ̀
+      - put-ben-pass-CLG-VENT-DEP
+      - 1.2
+      12:
+      - ŋgàɽìjìnɔ̀
+      - ŋg-àɽìjìn-ɔ̀
+      - put-caus-pass-CLG-VENT-DEP
+      - 1.2
+  - original_str: làvràlè
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - làvə̀lɛ̀
+      - l-àvə̀l-ɛ̀
+      - lift-CLL-IT-DEP
+      - 1.55
+      1:
+      - lávə̀lɛ̀
+      - l-àvə̀l-ɛ̀
+      - lift-CLL-IT-DEP-left_h
+      - 1.6
+      2:
+      - lə̀vɾàðɛ̀
+      - lə̀-vɾàð-ɛ̀
+      - sweep-CLL-IT-DEP
+      - 1.65
+      3:
+      - là vɾáðɛ̀
+      - l-à vɾáð-ɛ̀
+      - sweep-CLL-IT-PFV-aux
+      - 1.65
+      4:
+      - là vɾáðɛ̀
+      - l-à vɾáð-ɛ̀
+      - sweep-CLL-IT-PFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.65
+      5:
+      - làvt̪ɜ́l
+      - l-àvt̪-ɜ́l
+      - set.down-CLL-VENT-PFV-3SG.OBJ-3PL.SBJ
+      - 1.65
+      6:
+      - làvt̪àt̪ɛ̀
+      - l-àvt̪àt̪-ɛ̀
+      - set.down-loc-CLL-IT-DEP
+      - 2.05
+      7:
+      - làbràt̪ɛ̀
+      - l-àbràt̪-ɛ̀
+      - jump-loc-CLL-IT-DEP
+      - 2.05
+      8:
+      - là vŕðɛ̀
+      - l-à vŕð-ɛ̀
+      - throw-CLL-IT-PFV-aux
+      - 2.1
+      9:
+      - là vŕðɛ̀
+      - l-à vŕð-ɛ̀
+      - throw-CLL-IT-PFV-3SG.OBJ-2SG.SBJ-aux
+      - 2.1
+      10:
+      - lə̀vr̀ðɛ̀
+      - lə̀-vr̀ð-ɛ̀
+      - throw-CLL-IT-DEP
+      - 2.1
+      11:
+      - lábràt̪ɛ̀
+      - l-àbràt̪-ɛ̀
+      - jump-loc-CLL-IT-DEP-left_h
+      - 2.1
+  - original_str: dè
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - dɛ̀<ENDOFSENTENCE>
+      - dɛ̀
+      - NEG
+      - 0.05
+      1:
+      - dɛ̂<ENDOFSENTENCE>
+      - dɛ̀
+      - NEG-left_h
+      - 0.1
+      2:
+      - ɔ́dɛ̀<ENDOFSENTENCE>
+      - ɔ́d-ɛ̀
+      - build-IT-PFV
+      - 0.6
+      3:
+      - úd̪ɛ̀<ENDOFSENTENCE>
+      - úd̪-ɛ̀
+      - kindle-IT-PFV
+      - 0.65
+      4:
+      - ðé<ENDOFSENTENCE>
+      - ðé
+      - hand-NOM-SG
+      - 1.05
+      5:
+      - ré<ENDOFSENTENCE>
+      - ré
+      - hand-NOM-PL
+      - 1.05
+      6:
+      - dɛ̀
+      - dɛ̀
+      - NEG
+      - 1.05
+      7:
+      - nɛ̀<ENDOFSENTENCE>
+      - n-ɛ̀
+      - aux-CLN-IT-PFV-3SG.OBJ-1SG.SBJ
+      - 1.05
+      8:
+      - nɛ̀<ENDOFSENTENCE>
+      - nɛ̀(1)
+      - in
+      - 1.05
+      9:
+      - nɛ̀<ENDOFSENTENCE>
+      - nɛ̀(2)
+      - and
+      - 1.05
+      10:
+      - ðɛ̀<ENDOFSENTENCE>
+      - ð-ɛ̀
+      - aux-CLÐ-IT-PFV-3SG.OBJ-1SG.SBJ
+      - 1.05
+      11:
+      - ðɛ̀<ENDOFSENTENCE>
+      - ð-ɛ̀
+      - slice-IT-PFV
+      - 1.05
+      12:
+      - pɛ̀<ENDOFSENTENCE>
+      - p-ɛ̀
+      - hit-IT-PFV
+      - 1.05
+- sentence: mùðù ŋ̀gáɽíɲînɔ̀ làvràlè dè
+  update_sentence: ''
+  translation: Leopard cannot be killed with a stick.
+  split: test
+  index: '617'
+  checked_by_pi: false
+  words:
+  - original_str: mùðù
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - mùðù
+      - mùðù
+      - leopard-NOM-SG
+      - 0.0
+      1:
+      - mùðù
+      - mùðù
+      - leopard-NOM-PL
+      - 0.0
+      2:
+      - múðù
+      - mùðù
+      - leopard-NOM-SG-left_h
+      - 0.05
+      3:
+      - múðù
+      - mùðù
+      - leopard-NOM-PL-left_h
+      - 0.05
+      4:
+      - mùðù<ENDOFSENTENCE>
+      - mùðù
+      - leopard-NOM-SG
+      - 1.0
+      5:
+      - mùðù<ENDOFSENTENCE>
+      - mùðù
+      - leopard-NOM-PL
+      - 1.0
+      6:
+      - múðù<ENDOFSENTENCE>
+      - mùðù
+      - leopard-NOM-SG-left_h
+      - 1.05
+      7:
+      - múðù<ENDOFSENTENCE>
+      - mùðù
+      - leopard-NOM-PL-left_h
+      - 1.05
+      8:
+      - tùðú
+      - tùð-ú
+      - rise-VENT-IPFV
+      - 1.05
+      9:
+      - muðɔ
+      - muðɔ
+      - leopard-ACC-SG
+      - 1.1
+      10:
+      - muðɔ
+      - muðɔ
+      - leopard-ACC-SG-left_h
+      - 1.1
+      11:
+      - túðú
+      - tùð-ú
+      - rise-VENT-IPFV-left_h
+      - 1.1
+      12:
+      - túðú
+      - túð-ú
+      - rise-IT-IMP
+      - 1.1
+      13:
+      - mìðó
+      - mìð-ó
+      - take-antip-VENT-IPFV
+      - 1.1
+      14:
+      - míðó
+      - mìð-ó
+      - take-antip-VENT-IPFV-left_h
+      - 1.15
+      15:
+      - míðó
+      - míð-ó
+      - take-antip-IT-IMP
+      - 1.15
+      16:
+      - ðù
+      - ðù
+      - heart-NOM-SG
+      - 1.55
+  - original_str: ŋ̀gáɽíɲînɔ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ŋgá ɽíɲìnɔ̀
+      - ŋg-á ɽíɲìn-ɔ̀
+      - kill-pass-CLG-IT-IPFV-aux
+      - 0.6
+      1:
+      - ŋgá ɽíɲìnɔ̀
+      - ŋg-á ɽíɲìn-ɔ̀
+      - kill-pass-CLG-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.6
+      2:
+      - ŋgə́ɽìɲìnɔ̀
+      - ŋgə̀-ɽìɲìn-ɔ̀
+      - kill-pass-CLG-VENT-DEP-left_h
+      - 0.7
+      3:
+      - ŋgá ɽìɲìnɔ́
+      - ŋg-á ɽìɲìn-ɔ́
+      - kill-pass-CLG-VENT-IPFV-aux
+      - 0.7
+      4:
+      - ŋgá ɽìɲìnɔ́
+      - ŋg-á ɽìɲìn-ɔ́
+      - kill-pass-CLG-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.7
+      5:
+      - ŋgámìɲìnɔ̀
+      - ŋg-àmìɲìn-ɔ̀
+      - love-pass-CLG-VENT-DEP-left_h
+      - 1.15
+      6:
+      - ŋgáɽìðìnɔ̀
+      - ŋg-àɽìðìn-ɔ̀
+      - put-antip-pass-CLG-VENT-DEP-left_h
+      - 1.15
+      7:
+      - ŋgáɽìðìnɔ̀
+      - ŋg-àɽìðìn-ɔ̀
+      - form-pass-CLG-VENT-DEP-left_h
+      - 1.15
+      8:
+      - ŋgáɽìjìnɔ̀
+      - ŋg-àɽìjìn-ɔ̀
+      - put-caus-pass-CLG-VENT-DEP-left_h
+      - 1.15
+      9:
+      - ŋgáɽìt̪ìnɔ̀
+      - ŋg-àɽìt̪ìn-ɔ̀
+      - put-ben-pass-CLG-VENT-DEP-left_h
+      - 1.15
+      10:
+      - íŋgá ɽíɲìnɔ̀
+      - íŋ-g-á ɽíɲìn-ɔ̀
+      - kill-pass-CLG-IT-IPFV-1SG.SBJ-aux
+      - 1.15
+      11:
+      - ŋgàɽìt̪ìnɔ̀
+      - ŋg-àɽìt̪ìn-ɔ̀
+      - put-ben-pass-CLG-VENT-DEP
+      - 1.2
+      12:
+      - ŋgàɽìjìnɔ̀
+      - ŋg-àɽìjìn-ɔ̀
+      - put-caus-pass-CLG-VENT-DEP
+      - 1.2
+  - original_str: làvràlè
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - làvə̀lɛ̀
+      - l-àvə̀l-ɛ̀
+      - lift-CLL-IT-DEP
+      - 1.55
+      1:
+      - lávə̀lɛ̀
+      - l-àvə̀l-ɛ̀
+      - lift-CLL-IT-DEP-left_h
+      - 1.6
+      2:
+      - lə̀vɾàðɛ̀
+      - lə̀-vɾàð-ɛ̀
+      - sweep-CLL-IT-DEP
+      - 1.65
+      3:
+      - là vɾáðɛ̀
+      - l-à vɾáð-ɛ̀
+      - sweep-CLL-IT-PFV-aux
+      - 1.65
+      4:
+      - là vɾáðɛ̀
+      - l-à vɾáð-ɛ̀
+      - sweep-CLL-IT-PFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.65
+      5:
+      - làvt̪ɜ́l
+      - l-àvt̪-ɜ́l
+      - set.down-CLL-VENT-PFV-3SG.OBJ-3PL.SBJ
+      - 1.65
+      6:
+      - làvt̪àt̪ɛ̀
+      - l-àvt̪àt̪-ɛ̀
+      - set.down-loc-CLL-IT-DEP
+      - 2.05
+      7:
+      - làbràt̪ɛ̀
+      - l-àbràt̪-ɛ̀
+      - jump-loc-CLL-IT-DEP
+      - 2.05
+      8:
+      - là vŕðɛ̀
+      - l-à vŕð-ɛ̀
+      - throw-CLL-IT-PFV-aux
+      - 2.1
+      9:
+      - là vŕðɛ̀
+      - l-à vŕð-ɛ̀
+      - throw-CLL-IT-PFV-3SG.OBJ-2SG.SBJ-aux
+      - 2.1
+      10:
+      - lə̀vr̀ðɛ̀
+      - lə̀-vr̀ð-ɛ̀
+      - throw-CLL-IT-DEP
+      - 2.1
+      11:
+      - lábràt̪ɛ̀
+      - l-àbràt̪-ɛ̀
+      - jump-loc-CLL-IT-DEP-left_h
+      - 2.1
+  - original_str: dè
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - dɛ̀<ENDOFSENTENCE>
+      - dɛ̀
+      - NEG
+      - 0.05
+      1:
+      - dɛ̂<ENDOFSENTENCE>
+      - dɛ̀
+      - NEG-left_h
+      - 0.1
+      2:
+      - ɔ́dɛ̀<ENDOFSENTENCE>
+      - ɔ́d-ɛ̀
+      - build-IT-PFV
+      - 0.6
+      3:
+      - úd̪ɛ̀<ENDOFSENTENCE>
+      - úd̪-ɛ̀
+      - kindle-IT-PFV
+      - 0.65
+      4:
+      - ðé<ENDOFSENTENCE>
+      - ðé
+      - hand-NOM-SG
+      - 1.05
+      5:
+      - ré<ENDOFSENTENCE>
+      - ré
+      - hand-NOM-PL
+      - 1.05
+      6:
+      - dɛ̀
+      - dɛ̀
+      - NEG
+      - 1.05
+      7:
+      - nɛ̀<ENDOFSENTENCE>
+      - n-ɛ̀
+      - aux-CLN-IT-PFV-3SG.OBJ-1SG.SBJ
+      - 1.05
+      8:
+      - nɛ̀<ENDOFSENTENCE>
+      - nɛ̀(1)
+      - in
+      - 1.05
+      9:
+      - nɛ̀<ENDOFSENTENCE>
+      - nɛ̀(2)
+      - and
+      - 1.05
+      10:
+      - ðɛ̀<ENDOFSENTENCE>
+      - ð-ɛ̀
+      - aux-CLÐ-IT-PFV-3SG.OBJ-1SG.SBJ
+      - 1.05
+      11:
+      - ðɛ̀<ENDOFSENTENCE>
+      - ð-ɛ̀
+      - slice-IT-PFV
+      - 1.05
+      12:
+      - pɛ̀<ENDOFSENTENCE>
+      - p-ɛ̀
+      - hit-IT-PFV
+      - 1.05
+- sentence: làmìɲí ládɔ̀ŋðɔ́ lə́vàvrà
+  update_sentence: ''
+  translation: They like to push bicycles (towards)
+  split: test
+  index: '618'
+  checked_by_pi: false
+  words:
+  - original_str: làmìɲí
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - làmìɲí
+      - l-àmìɲ-í
+      - love-CLL-VENT-PFV
+      - 0.0
+      1:
+      - lámìɲí
+      - l-àmìɲ-í
+      - love-CLL-VENT-PFV-left_h
+      - 0.05
+      2:
+      - làmìɲì
+      - l-àmìɲ-ì
+      - love-CLL-IT-DEP
+      - 0.05
+      3:
+      - lə́àmìɲí
+      - lə́-àmìɲ-í
+      - love-VENT-PFV-1DU.INCL.SBJ
+      - 0.1
+      4:
+      - lámìɲì
+      - l-àmìɲ-ì
+      - love-CLL-IT-DEP-left_h
+      - 0.1
+      5:
+      - ɲàmìɲí
+      - ɲ-àmìɲ-í
+      - love-CLƝ-VENT-PFV
+      - 1.0
+      6:
+      - nàmìɲí
+      - n-àmìɲ-í
+      - love-CLN-VENT-PFV
+      - 1.0
+      7:
+      - ràmìɲí
+      - r-àmìɲ-í
+      - love-CLR-VENT-PFV
+      - 1.0
+      8:
+      - ŋàmìɲí
+      - ŋ-àmìɲ-í
+      - love-CLŊ-VENT-PFV
+      - 1.0
+      9:
+      - àmìɲí
+      - àmìɲ-í
+      - love-VENT-IPFV
+      - 1.0
+  - original_str: ládɔ̀ŋðɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lá dɔ̀ŋðɔ́
+      - l-á dɔ̀ŋð-ɔ́
+      - push-CLL-VENT-IPFV-aux
+      - 0.5
+      1:
+      - lá dɔ̀ŋðɔ́
+      - l-á dɔ̀ŋð-ɔ́
+      - push-CLL-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.5
+      2:
+      - lə́dɔ̀ŋðɔ́
+      - lə́-dɔ̀ŋð-ɔ́
+      - push-VENT-PFV-1DU.INCL.SBJ
+      - 0.55
+      3:
+      - lə́dɔ̀ŋðɔ́
+      - lə̀-dɔ̀ŋð-ɔ́
+      - push-CLL-VENT-PFV-left_h
+      - 0.55
+      4:
+      - lə̀dɔ̀ŋðɔ́
+      - lə̀-dɔ̀ŋð-ɔ́
+      - push-CLL-VENT-PFV
+      - 0.6
+      5:
+      - ádɔ̀ŋðɔ́
+      - á-dɔ̀ŋð-ɔ́
+      - push-VENT-PFV-2SG.SBJ
+      - 1.0
+      6:
+      - ɲádɔ̀ŋðɔ́
+      - ɲà-dɔ̀ŋð-ɔ́
+      - push-VENT-PFV-1PL.EXCL.SBJ-left_h
+      - 1.0
+      7:
+      - ɲádɔ̀ŋðɔ́
+      - ɲá-dɔ̀ŋð-ɔ́
+      - push-VENT-PFV-2PL.SBJ
+      - 1.0
+      8:
+      - álá dɔ̀ŋðɔ́
+      - á-l-á dɔ̀ŋð-ɔ́
+      - push-CLL-VENT-IPFV-1DU.INCL.SBJ-aux
+      - 1.05
+      9:
+      - ɲàdɔ̀ŋðɔ́
+      - ɲà-dɔ̀ŋð-ɔ́
+      - push-VENT-PFV-1PL.EXCL.SBJ
+      - 1.05
+      10:
+      - rá dɔ̀ŋðɔ́
+      - r-á dɔ̀ŋð-ɔ́
+      - push-CLR-VENT-IPFV-aux
+      - 1.5
+      11:
+      - rá dɔ̀ŋðɔ́
+      - r-á dɔ̀ŋð-ɔ́
+      - push-CLR-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.5
+      12:
+      - ðá dɔ̀ŋðɔ́
+      - ð-á dɔ̀ŋð-ɔ́
+      - push-CLÐ-VENT-IPFV-aux
+      - 1.5
+      13:
+      - ðá dɔ̀ŋðɔ́
+      - ð-á dɔ̀ŋð-ɔ́
+      - push-CLÐ-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.5
+      14:
+      - ɲá dɔ̀ŋðɔ́
+      - ɲ-á dɔ̀ŋð-ɔ́
+      - push-CLƝ-VENT-IPFV-aux
+      - 1.5
+      15:
+      - ɲá dɔ̀ŋðɔ́
+      - ɲ-á dɔ̀ŋð-ɔ́
+      - push-CLƝ-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.5
+  - original_str: lə́vàvrà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lə́vàvɾà<ENDOFSENTENCE>
+      - lə̀vàvɾà
+      - bicycle-ACC-SG-left_h
+      - 0.05
+      1:
+      - lə̀vàvɾà<ENDOFSENTENCE>
+      - lə̀vàvɾà
+      - bicycle-ACC-SG
+      - 0.1
+      2:
+      - lə́vàrà<ENDOFSENTENCE>
+      - lə̀-vàr-à
+      - run-CLL-VENT-DEP-left_h
+      - 1.0
+      3:
+      - lə́vàrà<ENDOFSENTENCE>
+      - lə̀vàrà
+      - stick-ACC-SG-left_h
+      - 1.0
+      4:
+      - lə́vàvɾì<ENDOFSENTENCE>
+      - lə̀vàvɾì
+      - bicycle-NOM-SG-left_h
+      - 1.05
+      5:
+      - lə́vàvɾà
+      - lə̀vàvɾà
+      - bicycle-ACC-SG-left_h
+      - 1.05
+      6:
+      - lə́vàɾà<ENDOFSENTENCE>
+      - lə̀-vàɾ-à
+      - escape-CLL-VENT-DEP-left_h
+      - 1.05
+      7:
+      - lávàrà<ENDOFSENTENCE>
+      - làvàrà
+      - stick-NOM-SG-left_h
+      - 1.05
+      8:
+      - lə̀vàrà<ENDOFSENTENCE>
+      - lə̀-vàr-à
+      - run-CLL-VENT-DEP
+      - 1.05
+      9:
+      - lə̀vàrà<ENDOFSENTENCE>
+      - lə̀vàrà
+      - stick-ACC-SG
+      - 1.05
+      10:
+      - lə̀vàɾà<ENDOFSENTENCE>
+      - lə̀-vàɾ-à
+      - escape-CLL-VENT-DEP
+      - 1.1
+      11:
+      - lə̀vàvɾà
+      - lə̀vàvɾà
+      - bicycle-ACC-SG
+      - 1.1
+- sentence: lá ɔ̀ɽcàcí lɛ̀ŋgɛ́n ánó nd̪ɔ̀bà
+  update_sentence: ''
+  translation: they will help mom tomorrow (far)
+  split: test
+  index: '619'
+  checked_by_pi: false
+  words:
+  - original_str: lá
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lá
+      - l-á
+      - aux-CLL-IPFV
+      - 0.0
+      1:
+      - lá
+      - l-á
+      - aux-CLL-IPFV-3SG.OBJ-2SG.SBJ
+      - 0.0
+      2:
+      - lâ
+      - l-à
+      - aux-CLL-IT-PFV-left_h
+      - 0.05
+      3:
+      - lâ
+      - l-à
+      - aux-CLL-IT-PFV-3SG.OBJ-2SG.SBJ-left_h
+      - 0.05
+      4:
+      - là
+      - l-à
+      - aux-CLL-IT-PFV
+      - 0.05
+      5:
+      - là
+      - l-à
+      - aux-CLL-IT-PFV-3SG.OBJ-2SG.SBJ
+      - 0.05
+      6:
+      - òlá
+      - òlá
+      - sieve-ACC-SG
+      - 0.55
+      7:
+      - ɔ́lá
+      - ɔ́lá
+      - domestic.animal/body.hair-NOM-PL
+      - 0.55
+      8:
+      - ɔ́lá
+      - ɔ́lá
+      - flour/pollen-NOM-PL
+      - 0.55
+      9:
+      - álá
+      - á-l-á
+      - aux-CLL-IPFV-1DU.INCL.SBJ
+      - 0.55
+      10:
+      - álá
+      - á-l-á
+      - aux-CLL-IPFV-1PL.INCL.SBJ
+      - 0.55
+      11:
+      - ólá
+      - òlá
+      - sieve-ACC-SG-left_h
+      - 0.55
+      12:
+      - ɛ̀là
+      - ɛ̀là
+      - gourd.piece-NOM-SG
+      - 0.6
+      13:
+      - ɛ̀là
+      - ɛ̀là
+      - gourd.piece-ACC-SG
+      - 0.6
+      14:
+      - ɛ̀là
+      - ɛ̀là
+      - mushroom.sp.-NOM-SG
+      - 0.6
+      15:
+      - ɛ̀là
+      - ɛ̀là
+      - mushroom.sp.-ACC-SG
+      - 0.6
+      16:
+      - ɛ́là
+      - ɛ̀là
+      - gourd.piece-NOM-SG-left_h
+      - 0.6
+      17:
+      - ɛ́là
+      - ɛ̀là
+      - gourd.piece-ACC-SG-left_h
+      - 0.6
+      18:
+      - ɛ́là
+      - ɛ̀là
+      - mushroom.sp.-NOM-SG-left_h
+      - 0.6
+      19:
+      - ɛ́là
+      - ɛ̀là
+      - mushroom.sp.-ACC-SG-left_h
+      - 0.6
+  - original_str: ɔ̀ɽcàcí
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ùɽcàcí
+      - ùɽcàc-í
+      - jump-loc-VENT-IPFV
+      - 1.0
+      1:
+      - úɽcàcí
+      - ùɽcàc-í
+      - jump-loc-VENT-IPFV-left_h
+      - 1.05
+      2:
+      - úɽcàcì
+      - úɽcàc-ì
+      - jump-loc-IT-PFV
+      - 1.1
+      3:
+      - úɽcácí
+      - úɽcác-í
+      - jump-loc-IT-IMP
+      - 1.1
+      4:
+      - nùɽcàcí
+      - n-ùɽcàc-í
+      - jump-loc-CLN-VENT-PFV
+      - 1.5
+      5:
+      - ɲùɽcàcí
+      - ɲ-ùɽcàc-í
+      - jump-loc-CLƝ-VENT-PFV
+      - 1.5
+      6:
+      - rùɽcàcí
+      - r-ùɽcàc-í
+      - jump-loc-CLR-VENT-PFV
+      - 1.5
+      7:
+      - ŋùɽcàcí
+      - ŋ-ùɽcàc-í
+      - jump-loc-CLŊ-VENT-PFV
+      - 1.5
+      8:
+      - lùɽcàcí
+      - l-ùɽcàc-í
+      - jump-loc-CLL-VENT-PFV
+      - 1.5
+      9:
+      - ðùɽcàcí
+      - ð-ùɽcàc-í
+      - jump-loc-CLÐ-VENT-PFV
+      - 1.5
+  - original_str: lɛ̀ŋgɛ́n
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - líŋgɛ́n
+      - líŋgɛ́n
+      - mother-ACC-SG
+      - 1.05
+      1:
+      - lɛŋg
+      - lɛŋg
+      - mother-NOM-SG
+      - 1.6
+      2:
+      - lɛŋg
+      - lɛŋg
+      - mother-NOM-SG-left_h
+      - 1.6
+      3:
+      - lɛŋg<ENDOFSENTENCE>
+      - lɛŋg
+      - mother-NOM-SG
+      - 1.6
+      4:
+      - lɛŋg<ENDOFSENTENCE>
+      - lɛŋg
+      - mother-NOM-SG-left_h
+      - 1.6
+      5:
+      - lɛŋg<ENDOFSENTENCE>
+      - lɛŋg
+      - mother-NOM-SG-final_lowering
+      - 1.6
+      6:
+      - lɛŋg<ENDOFSENTENCE>
+      - lɛŋg
+      - mother-NOM-SG-final_lowering-left_h
+      - 1.6
+      7:
+      - ðɛ́ŋɛ́n
+      - ðɛ́ŋɛ́n
+      - sound-NOM-SG
+      - 2.05
+      8:
+      - líŋgɛ́n<ENDOFSENTENCE>
+      - líŋgɛ́n
+      - mother-ACC-SG
+      - 2.05
+      9:
+      - lìŋgɛ̀n<ENDOFSENTENCE>
+      - líŋgɛ́n
+      - mother-ACC-SG-final_lowering
+      - 2.05
+      10:
+      - líŋgɛ̀n<ENDOFSENTENCE>
+      - líŋgɛ́n
+      - mother-ACC-SG-final_lowering-left_h
+      - 2.1
+  - original_str: ánó
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - áǹɔ́
+      - á-ǹ-ɔ́
+      - listen-VENT-PFV-2SG.SBJ
+      - 0.1
+      1:
+      - àn
+      - àn
+      - FOC
+      - 0.6
+      2:
+      - ân
+      - àn
+      - FOC-left_h
+      - 0.6
+      3:
+      - ǹɔ́
+      - ǹ-ɔ́
+      - listen-VENT-IPFV
+      - 0.65
+      4:
+      - ńɔ́
+      - ǹ-ɔ́
+      - listen-VENT-IPFV-left_h
+      - 0.65
+      5:
+      - ńɔ́
+      - ń-ɔ́
+      - listen-IT-IMP
+      - 0.65
+      6:
+      - áwó
+      - àw-ó
+      - urinate-VENT-IPFV-left_h
+      - 1.0
+      7:
+      - áwó
+      - áw-ó
+      - urinate-IT-IMP
+      - 1.0
+      8:
+      - áɽó
+      - àɽ-ó
+      - put-VENT-IPFV-left_h
+      - 1.0
+      9:
+      - áɽó
+      - áɽ-ó
+      - put-IT-IMP
+      - 1.0
+      10:
+      - áðɔ́
+      - á-ð-ɔ́
+      - slice-VENT-PFV-2SG.SBJ
+      - 1.05
+      11:
+      - ájɔ́
+      - á-j-ɔ́
+      - eat-VENT-PFV-2SG.SBJ
+      - 1.05
+      12:
+      - àɽó
+      - àɽ-ó
+      - put-VENT-IPFV
+      - 1.05
+  - original_str: nd̪ɔ̀bà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - nd̪ɔ̀bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 0.0
+      1:
+      - nd̪ɔ́bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 0.05
+      2:
+      - nd̪ɔ̀bà
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 1.0
+      3:
+      - nd̪ɔ́bà
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 1.05
+      4:
+      - nd̪ɔ̀bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      5:
+      - nd̪ɔ̀bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      6:
+      - nd̪ɔ́bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      7:
+      - nd̪ɔ́bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      8:
+      - nɔ̀là<ENDOFSENTENCE>
+      - n-ɔ̀là
+      - tall-CLN
+      - 2.0
+      9:
+      - nɔ̀dà<ENDOFSENTENCE>
+      - n-ɔ̀d-à
+      - build-CLN-VENT-DEP
+      - 2.0
+- sentence: lɔ̀mɔ̀ lá kúɽùɔ̀ kárè
+  update_sentence: ''
+  translation: The food is inside the bird
+  split: test
+  index: '620'
+  checked_by_pi: false
+  words:
+  - original_str: lɔ̀mɔ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lɔ̀mɔ̀
+      - lɔ̀mɔ̀
+      - food/bread-NOM-SG
+      - 0.0
+      1:
+      - lɔ́mɔ̀
+      - lɔ̀mɔ̀
+      - food/bread-NOM-SG-left_h
+      - 0.05
+      2:
+      - lə̀m̀ɔ́
+      - lə̀-m̀-ɔ́
+      - take-CLL-VENT-PFV
+      - 0.65
+      3:
+      - lə́m̀ɔ́
+      - lə́-m̀-ɔ́
+      - take-VENT-PFV-1DU.INCL.SBJ
+      - 0.7
+      4:
+      - lə́m̀ɔ́
+      - lə̀-m̀-ɔ́
+      - take-CLL-VENT-PFV-left_h
+      - 0.7
+      5:
+      - ŋɔ̀mɔ̀
+      - ŋɔ̀mɔ̀
+      - food/bread-NOM-PL
+      - 1.0
+      6:
+      - lɔ̀ɲɔ̀
+      - lɔ̀ɲɔ̀
+      - top-NOM-SG
+      - 1.0
+      7:
+      - lɔ̀ɲɔ̀
+      - lɔ̀ɲɔ̀
+      - mouth-NOM-SG
+      - 1.0
+      8:
+      - lɔ̀ɾɔ̀
+      - l-ɔ̀ɾ-ɔ̀
+      - insult-CLL-VENT-DEP
+      - 1.0
+      9:
+      - lɔ̀mɔ̀<ENDOFSENTENCE>
+      - lɔ̀mɔ̀
+      - food/bread-NOM-SG
+      - 1.0
+      10:
+      - lùmɔ̀
+      - l-ùm-ɔ̀
+      - hurt-CLL-VENT-DEP
+      - 1.0
+      11:
+      - lɔ̀dɔ̀
+      - l-ɔ̀d-ɔ̀
+      - touch-CLL-VENT-DEP
+      - 1.0
+  - original_str: lá
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lá
+      - l-á
+      - aux-CLL-IPFV
+      - 0.0
+      1:
+      - lá
+      - l-á
+      - aux-CLL-IPFV-3SG.OBJ-2SG.SBJ
+      - 0.0
+      2:
+      - lâ
+      - l-à
+      - aux-CLL-IT-PFV-left_h
+      - 0.05
+      3:
+      - lâ
+      - l-à
+      - aux-CLL-IT-PFV-3SG.OBJ-2SG.SBJ-left_h
+      - 0.05
+      4:
+      - là
+      - l-à
+      - aux-CLL-IT-PFV
+      - 0.05
+      5:
+      - là
+      - l-à
+      - aux-CLL-IT-PFV-3SG.OBJ-2SG.SBJ
+      - 0.05
+      6:
+      - òlá
+      - òlá
+      - sieve-ACC-SG
+      - 0.55
+      7:
+      - ɔ́lá
+      - ɔ́lá
+      - domestic.animal/body.hair-NOM-PL
+      - 0.55
+      8:
+      - ɔ́lá
+      - ɔ́lá
+      - flour/pollen-NOM-PL
+      - 0.55
+      9:
+      - álá
+      - á-l-á
+      - aux-CLL-IPFV-1DU.INCL.SBJ
+      - 0.55
+      10:
+      - álá
+      - á-l-á
+      - aux-CLL-IPFV-1PL.INCL.SBJ
+      - 0.55
+      11:
+      - ólá
+      - òlá
+      - sieve-ACC-SG-left_h
+      - 0.55
+      12:
+      - ɛ̀là
+      - ɛ̀là
+      - gourd.piece-NOM-SG
+      - 0.6
+      13:
+      - ɛ̀là
+      - ɛ̀là
+      - gourd.piece-ACC-SG
+      - 0.6
+      14:
+      - ɛ̀là
+      - ɛ̀là
+      - mushroom.sp.-NOM-SG
+      - 0.6
+      15:
+      - ɛ̀là
+      - ɛ̀là
+      - mushroom.sp.-ACC-SG
+      - 0.6
+      16:
+      - ɛ́là
+      - ɛ̀là
+      - gourd.piece-NOM-SG-left_h
+      - 0.6
+      17:
+      - ɛ́là
+      - ɛ̀là
+      - gourd.piece-ACC-SG-left_h
+      - 0.6
+      18:
+      - ɛ́là
+      - ɛ̀là
+      - mushroom.sp.-NOM-SG-left_h
+      - 0.6
+      19:
+      - ɛ́là
+      - ɛ̀là
+      - mushroom.sp.-ACC-SG-left_h
+      - 0.6
+  - original_str: kúɽùɔ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - kúrɔ̀
+      - k-ùr-ɔ̀
+      - climb.down-CLG-VENT-DEP-left_h
+      - 1.55
+      1:
+      - kúd̪ɔ̀
+      - k-ùd̪-ɔ̀
+      - kindle-CLG-VENT-DEP-left_h
+      - 1.55
+      2:
+      - kúmɔ̀
+      - k-ùm-ɔ̀
+      - hurt-CLG-VENT-DEP-left_h
+      - 1.55
+      3:
+      - kúɽì
+      - kúɽì
+      - forest-NOM-SG
+      - 1.55
+      4:
+      - kúkù
+      - kúkù
+      - 1st born male child-NOM-SG
+      - 1.55
+      5:
+      - kút̪ú
+      - k-ùt̪-ú
+      - choose-CLG-VENT-PFV-left_h
+      - 1.6
+      6:
+      - kúrú
+      - k-ùr-ú
+      - climb.down-CLG-VENT-PFV-left_h
+      - 1.6
+      7:
+      - kúd̪ɔ́
+      - k-ùd̪-ɔ́
+      - kindle-CLG-VENT-PFV-left_h
+      - 1.6
+      8:
+      - kúmɔ́
+      - k-ùm-ɔ́
+      - hurt-CLG-VENT-PFV-left_h
+      - 1.6
+      9:
+      - kùd̪ɔ̀
+      - k-ùd̪-ɔ̀
+      - kindle-CLG-VENT-DEP
+      - 1.6
+  - original_str: kárè
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - káɾɛ̀<ENDOFSENTENCE>
+      - k-àɾ-ɛ̀
+      - aɾ-CLG-IT-DEP-left_h
+      - 0.1
+      1:
+      - kàɾɛ̀<ENDOFSENTENCE>
+      - k-àɾ-ɛ̀
+      - aɾ-CLG-IT-DEP
+      - 0.15
+      2:
+      - ká ŕɛ̀<ENDOFSENTENCE>
+      - k-à ŕ-ɛ̀
+      - stab-CLG-IT-PFV-aux-left_h
+      - 0.6
+      3:
+      - ká ŕɛ̀<ENDOFSENTENCE>
+      - k-à ŕ-ɛ̀
+      - stab-CLG-IT-PFV-3SG.OBJ-2SG.SBJ-aux-left_h
+      - 0.6
+      4:
+      - kə́r̀ɛ̀<ENDOFSENTENCE>
+      - kə̀-r̀-ɛ̀
+      - stab-CLG-IT-DEP-left_h
+      - 0.65
+      5:
+      - kà ŕɛ̀<ENDOFSENTENCE>
+      - k-à ŕ-ɛ̀
+      - stab-CLG-IT-PFV-aux
+      - 0.65
+      6:
+      - kà ŕɛ̀<ENDOFSENTENCE>
+      - k-à ŕ-ɛ̀
+      - stab-CLG-IT-PFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.65
+      7:
+      - kə̀r̀ɛ̀<ENDOFSENTENCE>
+      - kə̀-r̀-ɛ̀
+      - stab-CLG-IT-DEP
+      - 0.7
+      8:
+      - árè<ENDOFSENTENCE>
+      - àré
+      - table-NOM-SG-final_lowering-left_h
+      - 1.0
+      9:
+      - nárè<ENDOFSENTENCE>
+      - nàré
+      - table-NOM-PL-final_lowering-left_h
+      - 1.0
+      10:
+      - àrè<ENDOFSENTENCE>
+      - àré
+      - table-NOM-SG-final_lowering
+      - 1.05
+- sentence: àn ɔ́ɟɔ́ kə́ðíɲɔ́ múðɔ̀
+  update_sentence: ''
+  translation: Who is afraid of the leopard?
+  split: test
+  index: '621'
+  checked_by_pi: false
+  words:
+  - original_str: àn
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - àn
+      - àn
+      - FOC
+      - 0.0
+      1:
+      - ân
+      - àn
+      - FOC-left_h
+      - 0.05
+      2:
+      - ɜ̀nì
+      - ɜ̀nì
+      - ear/leaf-NOM-SG
+      - 0.6
+      3:
+      - ɜ́nì
+      - ɜ̀nì
+      - ear/leaf-NOM-SG-left_h
+      - 0.65
+      4:
+      - áǹɔ́
+      - á-ǹ-ɔ́
+      - listen-VENT-PFV-2SG.SBJ
+      - 0.65
+      5:
+      - òn
+      - òn
+      - porcupine-NOM-SG
+      - 1.0
+      6:
+      - àn<ENDOFSENTENCE>
+      - àn
+      - FOC
+      - 1.0
+      7:
+      - âl
+      - âl
+      - stone-NOM-SG
+      - 1.05
+  - original_str: ɔ́ɟɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ɔ́ɽɔ́
+      - ɔ̀ɽ-ɔ́
+      - run-VENT-IPFV-left_h
+      - 1.0
+      1:
+      - ɔ́ɽɔ́
+      - ɔ́ɽ-ɔ́
+      - run-IT-IMP
+      - 1.0
+      2:
+      - ɔ́ðɔ́
+      - ɔ̀ð-ɔ́
+      - grind-VENT-IPFV-left_h
+      - 1.0
+      3:
+      - ɔ́ðɔ́
+      - ɔ́ð-ɔ́
+      - grind-IT-IMP
+      - 1.0
+      4:
+      - ɔ́dɔ́
+      - ɔ̀d-ɔ́
+      - build-VENT-IPFV-left_h
+      - 1.0
+      5:
+      - ɔ́dɔ́
+      - ɔ́d-ɔ́
+      - build-IT-IMP
+      - 1.0
+      6:
+      - ɔ́dɔ́
+      - ɔ̀d-ɔ́
+      - touch-VENT-IMP-left_h
+      - 1.0
+      7:
+      - ɔ́ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-VENT-IPFV-left_h
+      - 1.0
+      8:
+      - ɔ́ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-VENT-IMP-left_h
+      - 1.0
+      9:
+      - ɔ́ɾɔ́
+      - ɔ́ɾ-ɔ́
+      - insult-IT-IMP
+      - 1.0
+      10:
+      - ɔ̀ðɔ́
+      - ɔ̀ð-ɔ́
+      - grind-VENT-IPFV
+      - 1.05
+      11:
+      - ɔ́ɾɔ̀
+      - ɔ́ɾ-ɔ̀
+      - insult-IT-IPFV
+      - 1.05
+      12:
+      - ɔ́dɔ̀
+      - ɔ́d-ɔ̀
+      - touch-IT-IPFV
+      - 1.05
+      13:
+      - ɔ̀ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-VENT-IPFV
+      - 1.05
+      14:
+      - ɔ̀ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-VENT-IMP
+      - 1.05
+      15:
+      - ɔ̀dɔ́
+      - ɔ̀d-ɔ́
+      - build-VENT-IPFV
+      - 1.05
+      16:
+      - ɔ̀dɔ́
+      - ɔ̀d-ɔ́
+      - touch-VENT-IMP
+      - 1.05
+      17:
+      - ɔ̀ɽɔ́
+      - ɔ̀ɽ-ɔ́
+      - run-VENT-IPFV
+      - 1.05
+  - original_str: kə́ðíɲɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - kə́ðìɲɔ́
+      - kə̀-ðìɲ-ɔ́
+      - fear-CLG-VENT-PFV-left_h
+      - 0.05
+      1:
+      - kə̀ðìɲɔ́
+      - kə̀-ðìɲ-ɔ́
+      - fear-CLG-VENT-PFV
+      - 0.1
+      2:
+      - kə́ðìɲɔ̀
+      - kə̀-ðìɲ-ɔ̀
+      - fear-CLG-VENT-DEP-left_h
+      - 0.1
+      3:
+      - kə́ðìɲɔ̀
+      - kə̀-ðìɲ-ɔ̀
+      - scare-CLG-VENT-DEP-left_h
+      - 0.1
+      4:
+      - kə̀ðìɲɔ̀
+      - kə̀-ðìɲ-ɔ̀
+      - fear-CLG-VENT-DEP
+      - 0.15
+      5:
+      - kə̀ðìɲɔ̀
+      - kə̀-ðìɲ-ɔ̀
+      - scare-CLG-VENT-DEP
+      - 0.15
+      6:
+      - ðə́ðíɲɔ́
+      - ðə́-ðíɲ-ɔ́
+      - fear-CLÐ-INF
+      - 1.0
+      7:
+      - ðə́ðíɲɔ́
+      - ðə́-ðíɲ-ɔ́
+      - scare-CLÐ-INF
+      - 1.0
+      8:
+      - kíðít̪ɔ́
+      - kíðít̪-ɔ́
+      - open-ben-IT-IMP
+      - 1.05
+      9:
+      - ŋə́ðìɲɔ́
+      - ŋə̀-ðìɲ-ɔ́
+      - fear-CLŊ-VENT-PFV-left_h
+      - 1.05
+      10:
+      - jə́ðìɲɔ́
+      - jə̀-ðìɲ-ɔ́
+      - fear-CLJ-VENT-PFV-left_h
+      - 1.05
+      11:
+      - nə́ðìɲɔ́
+      - nə̀-ðìɲ-ɔ́
+      - fear-CLN-VENT-PFV-left_h
+      - 1.05
+      12:
+      - rə́ðìɲɔ́
+      - rə̀-ðìɲ-ɔ́
+      - fear-CLR-VENT-PFV-left_h
+      - 1.05
+  - original_str: múðɔ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - muðɔ<ENDOFSENTENCE>
+      - muðɔ
+      - leopard-ACC-SG
+      - 0.1
+      1:
+      - muðɔ<ENDOFSENTENCE>
+      - muðɔ
+      - leopard-ACC-SG-left_h
+      - 0.1
+      2:
+      - muðɔ<ENDOFSENTENCE>
+      - muðɔ
+      - leopard-ACC-SG-final_lowering
+      - 0.1
+      3:
+      - muðɔ<ENDOFSENTENCE>
+      - muðɔ
+      - leopard-ACC-SG-final_lowering-left_h
+      - 0.1
+      4:
+      - úðɔ̀<ENDOFSENTENCE>
+      - úðɔ́
+      - breath-NOM-SG-final_lowering-left_h
+      - 1.0
+      5:
+      - úðɔ̀<ENDOFSENTENCE>
+      - úðɔ́
+      - worm-NOM-SG-final_lowering-left_h
+      - 1.0
+      6:
+      - múðù<ENDOFSENTENCE>
+      - mùðù
+      - leopard-NOM-SG-left_h
+      - 1.0
+      7:
+      - múðù<ENDOFSENTENCE>
+      - mùðù
+      - leopard-NOM-PL-left_h
+      - 1.0
+      8:
+      - rúðɔ̀<ENDOFSENTENCE>
+      - rùð-ɔ́
+      - sharpen-VENT-IPFV-final_lowering-left_h
+      - 1.0
+      9:
+      - rúðɔ̀<ENDOFSENTENCE>
+      - rùð-ɔ́
+      - sharpen-VENT-IMP-final_lowering-left_h
+      - 1.0
+      10:
+      - rúðɔ̀<ENDOFSENTENCE>
+      - rúð-ɔ̀
+      - sharpen-IT-IPFV
+      - 1.0
+      11:
+      - rúðɔ̀<ENDOFSENTENCE>
+      - rúð-ɔ́
+      - sharpen-IT-IMP-final_lowering-left_h
+      - 1.0
+      12:
+      - mút̪ɔ̀<ENDOFSENTENCE>
+      - mùt̪-ɔ́
+      - sip-VENT-IPFV-final_lowering-left_h
+      - 1.0
+      13:
+      - mút̪ɔ̀<ENDOFSENTENCE>
+      - mùt̪-ɔ́
+      - sip-VENT-IMP-final_lowering-left_h
+      - 1.0
+      14:
+      - mút̪ɔ̀<ENDOFSENTENCE>
+      - mút̪-ɔ̀
+      - sip-IT-IPFV
+      - 1.0
+      15:
+      - mút̪ɔ̀<ENDOFSENTENCE>
+      - mút̪-ɔ́
+      - sip-IT-IMP-final_lowering-left_h
+      - 1.0
+      16:
+      - mɛ́ðɔ̀<ENDOFSENTENCE>
+      - mɛ̀ð-ɔ́
+      - plait-VENT-IPFV-final_lowering-left_h
+      - 1.0
+      17:
+      - mɛ́ðɔ̀<ENDOFSENTENCE>
+      - mɛ́ð-ɔ́
+      - plait-IT-IMP-final_lowering-left_h
+      - 1.0
+      18:
+      - úðɔ́<ENDOFSENTENCE>
+      - úðɔ́
+      - breath-NOM-SG
+      - 1.05
+      19:
+      - úðɔ́<ENDOFSENTENCE>
+      - ùðɔ́
+      - worm-NOM-SG-left_h
+      - 1.05
+      20:
+      - míðò<ENDOFSENTENCE>
+      - mìð-ó
+      - take-antip-VENT-IPFV-final_lowering-left_h
+      - 1.05
+      21:
+      - míðò<ENDOFSENTENCE>
+      - míð-ó
+      - take-antip-IT-IMP-final_lowering-left_h
+      - 1.05
+      22:
+      - mút̪ɔ́<ENDOFSENTENCE>
+      - mùt̪-ɔ́
+      - sip-VENT-IPFV-left_h
+      - 1.05
+      23:
+      - mút̪ɔ́<ENDOFSENTENCE>
+      - mùt̪-ɔ́
+      - sip-VENT-IMP-left_h
+      - 1.05
+      24:
+      - mút̪ɔ́<ENDOFSENTENCE>
+      - mút̪-ɔ́
+      - sip-IT-IMP
+      - 1.05
+      25:
+      - rúðɔ́<ENDOFSENTENCE>
+      - rùð-ɔ́
+      - sharpen-VENT-IPFV-left_h
+      - 1.05
+      26:
+      - rúðɔ́<ENDOFSENTENCE>
+      - rùð-ɔ́
+      - sharpen-VENT-IMP-left_h
+      - 1.05
+      27:
+      - rúðɔ́<ENDOFSENTENCE>
+      - rúð-ɔ́
+      - sharpen-IT-IMP
+      - 1.05
+- sentence: lə̀kɔ̀t̪ɔ̀t̪ɔ́ ɔ́ɾà ìɾɔ́ ɛ̀ɽɛ̀
+  update_sentence: ''
+  translation: they braided each other's hair in the house
+  split: test
+  index: '622'
+  checked_by_pi: false
+  words:
+  - original_str: lə̀kɔ̀t̪ɔ̀t̪ɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lə̀kɔ̀t̪ɔ̀t̪ɔ́
+      - lə̀-kɔ̀t̪ɔ̀t̪-ɔ́
+      - braid-loc-CLL-VENT-PFV
+      - 0.0
+      1:
+      - lə́kɔ̀t̪ɔ̀t̪ɔ́
+      - lə́-kɔ̀t̪ɔ̀t̪-ɔ́
+      - braid-loc-VENT-PFV-1DU.INCL.SBJ
+      - 0.05
+      2:
+      - lə́kɔ̀t̪ɔ̀t̪ɔ́
+      - lə̀-kɔ̀t̪ɔ̀t̪-ɔ́
+      - braid-loc-CLL-VENT-PFV-left_h
+      - 0.05
+      3:
+      - lɛ́ kɔ̀t̪ɔ̀t̪ɔ́
+      - l-ɛ́ kɔ̀t̪ɔ̀t̪-ɔ́
+      - braid-loc-CLL-VENT-IPFV-3SG.OBJ-1SG.SBJ-aux
+      - 0.6
+      4:
+      - lá kɔ̀t̪ɔ̀t̪ɔ́
+      - l-á kɔ̀t̪ɔ̀t̪-ɔ́
+      - braid-loc-CLL-VENT-IPFV-aux
+      - 0.6
+      5:
+      - lá kɔ̀t̪ɔ̀t̪ɔ́
+      - l-á kɔ̀t̪ɔ̀t̪-ɔ́
+      - braid-loc-CLL-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.6
+      6:
+      - lə̀kɔ̀t̪àt̪ɔ́
+      - lə̀-kɔ̀t̪àt̪-ɔ́
+      - braid-loc-CLL-VENT-PFV
+      - 1.0
+      7:
+      - kə̀kɔ̀t̪ɔ̀t̪ɔ́
+      - kə̀-kɔ̀t̪ɔ̀t̪-ɔ́
+      - braid-loc-CLG-VENT-PFV
+      - 1.0
+      8:
+      - ðə̀kɔ̀t̪ɔ̀t̪ɔ́
+      - ðə̀-kɔ̀t̪ɔ̀t̪-ɔ́
+      - braid-loc-CLÐ-VENT-PFV
+      - 1.0
+      9:
+      - lə̀t̪ɔ̀t̪ɔ̀t̪ɔ́
+      - lə̀-t̪ɔ̀t̪ɔ̀t̪-ɔ́
+      - throw-loc-CLL-VENT-PFV
+      - 1.0
+      10:
+      - t̪ə̀kɔ̀t̪ɔ̀t̪ɔ́
+      - t̪ə̀-kɔ̀t̪ɔ̀t̪-ɔ́
+      - braid-loc-CLT̪-VENT-PFV
+      - 1.0
+      11:
+      - jə̀kɔ̀t̪ɔ̀t̪ɔ́
+      - jə̀-kɔ̀t̪ɔ̀t̪-ɔ́
+      - braid-loc-CLJ-VENT-PFV
+      - 1.0
+  - original_str: ɔ́ɾà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - óɾà
+      - òɾà
+      - sibling-ACC-SG-left_h
+      - 0.05
+      1:
+      - òɾà
+      - òɾà
+      - sibling-ACC-SG
+      - 0.1
+      2:
+      - ɔ́dà
+      - ɔ́d-à
+      - build-IT-IPFV
+      - 1.0
+      3:
+      - ɔ́ɾɛ̀
+      - ɔ́ɾ-ɛ̀
+      - insult-IT-PFV
+      - 1.0
+      4:
+      - áɾà
+      - áɾ-à
+      - aɾ-IT-IPFV
+      - 1.0
+      5:
+      - ɔ́ɾì
+      - ɔ̀ɾì
+      - body.of.water-NOM-SG-left_h
+      - 1.0
+      6:
+      - ɔ́ɾì
+      - ɔ̀ɾì
+      - body.of.water-ACC-SG-left_h
+      - 1.0
+      7:
+      - ɔ́ɽà
+      - ɔ́ɽ-à
+      - run-IT-IPFV
+      - 1.0
+      8:
+      - ɔ́ɾɔ̀
+      - ɔ́ɾ-ɔ̀
+      - insult-IT-IPFV
+      - 1.0
+      9:
+      - ɔ́ðà
+      - ɔ́ð-à
+      - grind-IT-IPFV
+      - 1.0
+  - original_str: ìɾɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ìjɔ́
+      - ìj-ɔ́
+      - beat-VENT-IPFV
+      - 1.0
+      1:
+      - ìbɔ́
+      - ìb-ɔ́
+      - marry-VENT-IMP
+      - 1.0
+      2:
+      - ìɾí
+      - ìɾí
+      - name-NOM-SG
+      - 1.0
+      3:
+      - ìɾɔ́v
+      - ìɾɔ́v
+      - sheaf/grass.bundle.for.roof-NOM-PL
+      - 1.0
+      4:
+      - ìdɔ́
+      - ìd-ɔ́
+      - fall-VENT-IMP
+      - 1.0
+      5:
+      - ìrɔ́
+      - ìrɔ́
+      - cow-NOM-PL
+      - 1.0
+      6:
+      - ìrɔ́
+      - ìrɔ́
+      - hair-NOM-PL
+      - 1.0
+      7:
+      - ɔ̀ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-VENT-IPFV
+      - 1.0
+      8:
+      - ɔ̀ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-VENT-IMP
+      - 1.0
+      9:
+      - àɾɔ́
+      - àɾ-ɔ́
+      - aɾ-VENT-IPFV
+      - 1.0
+      10:
+      - ɔ́ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-VENT-IPFV-left_h
+      - 1.05
+      11:
+      - ɔ́ɾɔ́
+      - ɔ̀ɾ-ɔ́
+      - insult-VENT-IMP-left_h
+      - 1.05
+      12:
+      - ɔ́ɾɔ́
+      - ɔ́ɾ-ɔ́
+      - insult-IT-IMP
+      - 1.05
+      13:
+      - ìjɔ̀
+      - ìjɔ̀
+      - letter -NOM-PL
+      - 1.05
+      14:
+      - ìjɔ̀
+      - ìjɔ̀
+      - shepherd-NOM-SG
+      - 1.05
+  - original_str: ɛ̀ɽɛ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ɛ̀ɽɛ̀<ENDOFSENTENCE>
+      - ɛ́ɽɛ́
+      - inside.house-NOM-SG-final_lowering
+      - 0.0
+      1:
+      - ɛ́ɽɛ̀<ENDOFSENTENCE>
+      - ɛ́ɽɛ́
+      - inside.house-NOM-SG-final_lowering-left_h
+      - 0.05
+      2:
+      - ɛ́ɽɛ́<ENDOFSENTENCE>
+      - ɛ́ɽɛ́
+      - inside.house-NOM-SG
+      - 0.1
+      3:
+      - ɛ̀bɛ̀<ENDOFSENTENCE>
+      - ɛ̀bɛ̀
+      - bamboo.gate-NOM-SG
+      - 1.0
+      4:
+      - ɛ̀ðɛ̀<ENDOFSENTENCE>
+      - ɛ̀ðɛ̀
+      - meat/vegetable/prey-NOM-PL
+      - 1.0
+      5:
+      - ɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - ɛ́ɾɛ́
+      - fence-NOM-SG-final_lowering
+      - 1.0
+      6:
+      - ɛ̀lɛ̀<ENDOFSENTENCE>
+      - ɛ̀lɛ̀
+      - gourd.piece-ACC-SG
+      - 1.0
+      7:
+      - ɛ̀lɛ̀<ENDOFSENTENCE>
+      - ɛ̀lɛ̀
+      - mushroom.sp.-ACC-SG
+      - 1.0
+      8:
+      - ɛ̀rɛ̀<ENDOFSENTENCE>
+      - ɛ́rɛ́
+      - waterskin-ACC-SG-final_lowering
+      - 1.0
+      9:
+      - ɛ́ðɛ̀<ENDOFSENTENCE>
+      - ɛ̀ðɛ̀
+      - meat/vegetable/prey-NOM-PL-left_h
+      - 1.05
+      10:
+      - ɛ́bɛ̀<ENDOFSENTENCE>
+      - ɛ̀bɛ̀
+      - bamboo.gate-NOM-SG-left_h
+      - 1.05
+- sentence: ɛ̀làɽà kə̀ðìɲɔ́ bácómɛ́ ùnɛ̀rɛ̀
+  update_sentence: ''
+  translation: farmer feared the fox yesterday
+  split: test
+  index: '623'
+  checked_by_pi: false
+  words:
+  - original_str: ɛ̀làɽà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ɛ̀làɽà
+      - ɛ̀làɽà
+      - farmer-NOM-SG
+      - 0.0
+      1:
+      - ɛ́làɽà
+      - ɛ̀làɽà
+      - farmer-NOM-SG-left_h
+      - 0.05
+      2:
+      - làɽà
+      - l-àɽ-à
+      - put-CLL-VENT-DEP
+      - 0.55
+      3:
+      - làɽà
+      - làɽà
+      - candle/gum-NOM-SG
+      - 0.55
+      4:
+      - láɽà
+      - l-àɽ-à
+      - put-CLL-VENT-DEP-left_h
+      - 0.6
+      5:
+      - láɽà
+      - láɽ-à
+      - plough-IT-IPFV
+      - 0.6
+      6:
+      - láɽà
+      - làɽà
+      - candle/gum-NOM-SG-left_h
+      - 0.6
+      7:
+      - làɽá
+      - làɽ-á
+      - plough-VENT-IMP
+      - 0.6
+      8:
+      - láɽá
+      - làɽ-á
+      - plough-VENT-IMP-left_h
+      - 0.65
+      9:
+      - nɛ̀làɽà
+      - nɛ̀làɽà
+      - farmer-NOM-PL
+      - 1.0
+      10:
+      - ɛ̀làɽà<ENDOFSENTENCE>
+      - ɛ̀làɽà
+      - farmer-NOM-SG
+      - 1.0
+      11:
+      - t̪ə̀làɽà
+      - t̪ə̀-làɽ-à
+      - plough-CLT̪-VENT-DEP
+      - 1.05
+      12:
+      - kə̀làɽà
+      - kə̀-làɽ-à
+      - plough-CLG-VENT-DEP
+      - 1.05
+  - original_str: kə̀ðìɲɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - kə̀ðìɲɔ́
+      - kə̀-ðìɲ-ɔ́
+      - fear-CLG-VENT-PFV
+      - 0.0
+      1:
+      - kə́ðìɲɔ́
+      - kə̀-ðìɲ-ɔ́
+      - fear-CLG-VENT-PFV-left_h
+      - 0.05
+      2:
+      - kə̀ðìɲɔ̀
+      - kə̀-ðìɲ-ɔ̀
+      - fear-CLG-VENT-DEP
+      - 0.05
+      3:
+      - kə̀ðìɲɔ̀
+      - kə̀-ðìɲ-ɔ̀
+      - scare-CLG-VENT-DEP
+      - 0.05
+      4:
+      - kə́ðìɲɔ̀
+      - kə̀-ðìɲ-ɔ̀
+      - fear-CLG-VENT-DEP-left_h
+      - 0.1
+      5:
+      - kə́ðìɲɔ̀
+      - kə̀-ðìɲ-ɔ̀
+      - scare-CLG-VENT-DEP-left_h
+      - 0.1
+      6:
+      - ðə̀ðìɲɔ́
+      - ðə̀-ðìɲ-ɔ́
+      - fear-CLÐ-VENT-PFV
+      - 1.0
+      7:
+      - jə̀ðìɲɔ́
+      - jə̀-ðìɲ-ɔ́
+      - fear-CLJ-VENT-PFV
+      - 1.0
+      8:
+      - nə̀ðìɲɔ́
+      - nə̀-ðìɲ-ɔ́
+      - fear-CLN-VENT-PFV
+      - 1.0
+      9:
+      - lə̀ðìɲɔ́
+      - lə̀-ðìɲ-ɔ́
+      - fear-CLL-VENT-PFV
+      - 1.0
+      10:
+      - rə̀ðìɲɔ́
+      - rə̀-ðìɲ-ɔ́
+      - fear-CLR-VENT-PFV
+      - 1.0
+      11:
+      - ŋə̀ðìɲɔ́
+      - ŋə̀-ðìɲ-ɔ́
+      - fear-CLŊ-VENT-PFV
+      - 1.0
+  - original_str: bácómɛ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - bácʊ́mɛ́
+      - bàcʊ́mɛ́
+      - fox-ACC-SG-left_h
+      - 0.05
+      1:
+      - bàcʊ́mɛ́
+      - bàcʊ́mɛ́
+      - fox-ACC-SG
+      - 0.1
+      2:
+      - bácʊ̂m
+      - bàcʊ̂m
+      - fox-NOM-SG-left_h
+      - 0.65
+      3:
+      - bàcʊ̂m
+      - bàcʊ̂m
+      - fox-NOM-SG
+      - 0.7
+      4:
+      - bácʊ́mɛ́<ENDOFSENTENCE>
+      - bàcʊ́mɛ́
+      - fox-ACC-SG-left_h
+      - 1.05
+      5:
+      - bàcʊ́mɛ́<ENDOFSENTENCE>
+      - bàcʊ́mɛ́
+      - fox-ACC-SG
+      - 1.1
+      6:
+      - bácʊ̂m<ENDOFSENTENCE>
+      - bàcʊ̂m
+      - fox-NOM-SG-left_h
+      - 1.15
+      7:
+      - bácʊ̀mɛ̀<ENDOFSENTENCE>
+      - bàcʊ́mɛ́
+      - fox-ACC-SG-final_lowering-left_h
+      - 1.15
+      8:
+      - bàcʊ̂m<ENDOFSENTENCE>
+      - bàcʊ̂m
+      - fox-NOM-SG
+      - 1.2
+      9:
+      - bàcʊ̀mɛ̀<ENDOFSENTENCE>
+      - bàcʊ́mɛ́
+      - fox-ACC-SG-final_lowering
+      - 1.2
+  - original_str: ùnɛ̀rɛ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ùnɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-final_lowering
+      - 0.05
+      1:
+      - únɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-final_lowering-left_h
+      - 0.1
+      2:
+      - ùnɛ́ɾɛ́<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday
+      - 0.15
+      3:
+      - únɛ́ɾɛ́<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-left_h
+      - 0.2
+      4:
+      - nɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL-final_lowering
+      - 0.6
+      5:
+      - nɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL-final_lowering
+      - 0.6
+      6:
+      - nɛ́ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL-final_lowering-left_h
+      - 0.65
+      7:
+      - nɛ́ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL-final_lowering-left_h
+      - 0.65
+      8:
+      - nə̀r̀ɛ̀<ENDOFSENTENCE>
+      - nə̀-r̀-ɛ̀
+      - stab-CLN-IT-DEP
+      - 0.65
+      9:
+      - nɛ́ɾɛ́<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL
+      - 0.7
+      10:
+      - nɛ́ɾɛ́<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL
+      - 0.7
+      11:
+      - nə́r̀ɛ̀<ENDOFSENTENCE>
+      - nə̀-r̀-ɛ̀
+      - stab-CLN-IT-DEP-left_h
+      - 0.7
+      12:
+      - ńɛ̀r̀<ENDOFSENTENCE>
+      - ń-ɛ̀-ŕ
+      - listen-IT-PFV-1PL.INCL.SBJ-final_lowering
+      - 1.1
+      13:
+      - ńɛ̀r̀<ENDOFSENTENCE>
+      - ń-ɛ̀-ŕ
+      - listen-IT-PFV-1PL.INCL.OBJ-final_lowering
+      - 1.1
+- sentence: láí̀rcí lábrà nd̪ɔ̀bà
+  update_sentence: ''
+  translation: They will try to fly tomorrow (far).
+  split: test
+  index: '624'
+  checked_by_pi: false
+  words:
+  - original_str: láí̀rcí
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - láŋcí
+      - l-àŋc-í
+      - show-CLL-VENT-PFV-left_h
+      - 1.6
+      1:
+      - lácí
+      - làc-í
+      - shake-VENT-IPFV-left_h
+      - 1.6
+      2:
+      - lácí
+      - lác-í
+      - shake-IT-IMP
+      - 1.6
+      3:
+      - làcí
+      - làc-í
+      - shake-VENT-IPFV
+      - 1.6
+      4:
+      - làŋcí
+      - l-àŋc-í
+      - show-CLL-VENT-PFV
+      - 1.6
+      5:
+      - láŋcì
+      - l-àŋc-ì
+      - show-CLL-IT-DEP-left_h
+      - 1.65
+      6:
+      - lá ìrcə̀cí
+      - l-á ìrcə̀c-í
+      - teach/learn-CLL-VENT-IPFV-aux
+      - 1.65
+      7:
+      - lá ìrcə̀cí
+      - l-á ìrcə̀c-í
+      - teach/learn-CLL-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.65
+      8:
+      - lácì
+      - lác-ì
+      - shake-IT-PFV
+      - 1.65
+      9:
+      - làŋcì
+      - l-àŋc-ì
+      - show-CLL-IT-DEP
+      - 1.65
+      10:
+      - kàɾcí
+      - kàɾc-í
+      - look.for-VENT-IPFV
+      - 1.65
+      11:
+      - káɾcí
+      - kàɾc-í
+      - look.for-VENT-IPFV-left_h
+      - 1.65
+      12:
+      - káɾcí
+      - káɾc-í
+      - look.for-IT-IMP
+      - 1.65
+  - original_str: lábrà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lábr̀à
+      - l-àbr̀-à
+      - jump-CLL-VENT-DEP-left_h
+      - 0.05
+      1:
+      - làbr̀à
+      - l-àbr̀-à
+      - jump-CLL-VENT-DEP
+      - 0.1
+      2:
+      - rábr̀à
+      - r-àbr̀-à
+      - jump-CLR-VENT-DEP-left_h
+      - 1.05
+      3:
+      - lá ŕà
+      - l-á ŕ-à
+      - stab-CLL-IT-IPFV-aux
+      - 1.05
+      4:
+      - lá ŕà
+      - l-á ŕ-à
+      - stab-CLL-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.05
+      5:
+      - t̪ábr̀à
+      - t̪-àbr̀-à
+      - jump-CLT̪-VENT-DEP-left_h
+      - 1.05
+      6:
+      - lábr̀t̪à
+      - l-àbr̀t̪-à
+      - ride-CLL-VENT-DEP-left_h
+      - 1.05
+      7:
+      - ðábr̀à
+      - ð-àbr̀-à
+      - jump-CLÐ-VENT-DEP-left_h
+      - 1.05
+      8:
+      - ɲábr̀à
+      - ɲ-àbr̀-à
+      - jump-CLƝ-VENT-DEP-left_h
+      - 1.05
+      9:
+      - kábr̀à
+      - k-àbr̀-à
+      - jump-CLG-VENT-DEP-left_h
+      - 1.05
+      10:
+      - jábr̀à
+      - j-àbr̀-à
+      - jump-CLJ-VENT-DEP-left_h
+      - 1.05
+  - original_str: nd̪ɔ̀bà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - nd̪ɔ̀bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 0.0
+      1:
+      - nd̪ɔ́bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 0.05
+      2:
+      - nd̪ɔ̀bà
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 1.0
+      3:
+      - nd̪ɔ́bà
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 1.05
+      4:
+      - nd̪ɔ̀bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      5:
+      - nd̪ɔ̀bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.55
+      6:
+      - nd̪ɔ́bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      7:
+      - nd̪ɔ́bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow-left_h
+      - 1.6
+      8:
+      - nɔ̀là<ENDOFSENTENCE>
+      - n-ɔ̀là
+      - tall-CLN
+      - 2.0
+      9:
+      - nɔ̀dà<ENDOFSENTENCE>
+      - n-ɔ̀d-à
+      - build-CLN-VENT-DEP
+      - 2.0
+- sentence: làðíðǒ íjò t̪ə̀wànì
+  update_sentence: ''
+  translation: they are making a fire right now/ currently
+  split: test
+  index: '625'
+  checked_by_pi: false
+  words:
+  - original_str: làðíðǒ
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - lə̀ðìðó
+      - lə̀-ðìð-ó
+      - slice-antip-CLL-VENT-PFV
+      - 0.65
+      1:
+      - lá ðìðó
+      - l-á ðìð-ó
+      - slice-antip-CLL-VENT-IPFV-aux
+      - 0.65
+      2:
+      - lá ðìðó
+      - l-á ðìð-ó
+      - slice-antip-CLL-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.65
+      3:
+      - lə́ðìðó
+      - lə́-ðìð-ó
+      - slice-antip-VENT-PFV-1DU.INCL.SBJ
+      - 0.7
+      4:
+      - lə́ðìðó
+      - lə̀-ðìð-ó
+      - slice-antip-CLL-VENT-PFV-left_h
+      - 0.7
+      5:
+      - láŋíðó
+      - láŋíð-ó
+      - lay.egg-antip-IT-IMP
+      - 1.1
+      6:
+      - láɽíðó
+      - láɽíð-ó
+      - plough-antip-IT-IMP
+      - 1.1
+      7:
+      - lɔ̀ðìðó
+      - l-ɔ̀ðìð-ó
+      - grind-antip-CLL-VENT-PFV
+      - 1.1
+      8:
+      - ɲàðìðó
+      - ɲà-ðìð-ó
+      - slice-antip-VENT-PFV-1PL.EXCL.SBJ
+      - 1.1
+      9:
+      - làɽìðó
+      - l-àɽìð-ó
+      - put-antip-CLL-VENT-PFV
+      - 1.1
+      10:
+      - làɽìðó
+      - làɽìð-ó
+      - plough-antip-VENT-IPFV
+      - 1.1
+      11:
+      - làŋìðó
+      - làŋìð-ó
+      - lay.egg-antip-VENT-IPFV
+      - 1.1
+      12:
+      - làɾìðó
+      - l-àɾìð-ó
+      - aɾ-antip-CLL-VENT-PFV
+      - 1.1
+  - original_str: íjò
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - íjɔ̀
+      - ìjɔ̀
+      - letter -NOM-PL-left_h
+      - 0.05
+      1:
+      - íjɔ̀
+      - ìjɔ̀
+      - shepherd-NOM-SG-left_h
+      - 0.05
+      2:
+      - ìjɔ̀
+      - ìjɔ̀
+      - letter -NOM-PL
+      - 0.1
+      3:
+      - ìjɔ̀
+      - ìjɔ̀
+      - shepherd-NOM-SG
+      - 0.1
+      4:
+      - íjɔ́
+      - ìj-ɔ́
+      - beat-VENT-IPFV-left_h
+      - 0.1
+      5:
+      - íjɔ́
+      - íj-ɔ́
+      - beat-IT-IMP
+      - 0.1
+      6:
+      - íjɔ́
+      - íjɔ́
+      - fire/gun-NOM-SG
+      - 0.1
+      7:
+      - ìjɔ́
+      - ìj-ɔ́
+      - beat-VENT-IPFV
+      - 0.15
+      8:
+      - jɔ́
+      - j-ɔ́
+      - eat-VENT-IPFV
+      - 0.65
+      9:
+      - jɔ́
+      - j-ɔ́
+      - eat-IT-IMP
+      - 0.65
+      10:
+      - áìjɔ́
+      - á-ìj-ɔ́
+      - beat-VENT-PFV-2SG.SBJ
+      - 0.7
+      11:
+      - íjɛ̀
+      - íj-ɛ̀
+      - beat-IT-PFV
+      - 1.0
+      12:
+      - íjà
+      - íj-à
+      - beat-IT-IPFV
+      - 1.0
+      13:
+      - ðíjɔ̀
+      - ðíj-ɔ̀
+      - slice-caus-IT-IPFV
+      - 1.05
+      14:
+      - ðíjɔ̀
+      - ðìjɔ̀
+      - letter -NOM-SG-left_h
+      - 1.05
+  - original_str: t̪ə̀wànì
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - t̪ɔ́wɜ̀nì<ENDOFSENTENCE>
+      - t̪ɔ́wɜ̀nì
+      - now
+      - 0.15
+      1:
+      - t̪ə̀mànì<ENDOFSENTENCE>
+      - t̪ə̀-màn-ì
+      - boil-CLT̪-IT-DEP
+      - 1.0
+      2:
+      - t̪ə̀wàjì<ENDOFSENTENCE>
+      - t̪ə̀-wàj-í
+      - wash-CLT̪-VENT-PFV-final_lowering
+      - 1.0
+      3:
+      - t̪ə̀wàjì<ENDOFSENTENCE>
+      - t̪ə̀-wàj-ì
+      - wash-CLT̪-IT-DEP
+      - 1.0
+      4:
+      - t̪ə́mànì<ENDOFSENTENCE>
+      - t̪ə̀-màn-ì
+      - boil-CLT̪-IT-DEP-left_h
+      - 1.05
+      5:
+      - t̪ə́wàjì<ENDOFSENTENCE>
+      - t̪ə̀-wàj-í
+      - wash-CLT̪-VENT-PFV-final_lowering-left_h
+      - 1.05
+      6:
+      - t̪ə́wàjì<ENDOFSENTENCE>
+      - t̪ə̀-wàj-ì
+      - wash-CLT̪-IT-DEP-left_h
+      - 1.05
+      7:
+      - t̪ə̀wàjí<ENDOFSENTENCE>
+      - t̪ə̀-wàj-í
+      - wash-CLT̪-VENT-PFV
+      - 1.05
+      8:
+      - t̪ə́wàjí<ENDOFSENTENCE>
+      - t̪ə̀-wàj-í
+      - wash-CLT̪-VENT-PFV-left_h
+      - 1.1
+      9:
+      - t̪ɔ́wɜ̀nì
+      - t̪ɔ́wɜ̀nì
+      - now
+      - 1.15
+      10:
+      - t̪à wájì<ENDOFSENTENCE>
+      - t̪-à wáj-ì
+      - wash-CLT̪-IT-PFV-aux
+      - 1.6
+      11:
+      - t̪à wájì<ENDOFSENTENCE>
+      - t̪-à wáj-ì
+      - wash-CLT̪-IT-PFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.6
+      12:
+      - t̪á wàjì<ENDOFSENTENCE>
+      - t̪-á wàj-í
+      - wash-CLT̪-VENT-IPFV-aux-final_lowering
+      - 1.6
+      13:
+      - t̪á wàjì<ENDOFSENTENCE>
+      - t̪-á wàj-í
+      - wash-CLT̪-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux-final_lowering
+      - 1.6
+- sentence: làrɛ́ ðə́wàjà kúkùŋú únɛ̀ɾɛ̀
+  update_sentence: ''
+  translation: They went to wash Kuku yesterday
+  split: test
+  index: '626'
+  checked_by_pi: false
+  words:
+  - original_str: làrɛ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - láɾɛ́
+      - láɾɛ́
+      - chicken/hen-ACC-PL
+      - 0.1
+      1:
+      - làɾɛ̀
+      - l-àɾ-ɛ̀
+      - aɾ-CLL-IT-DEP
+      - 0.1
+      2:
+      - láɾɛ̀
+      - l-àɾ-ɛ̀
+      - aɾ-CLL-IT-DEP-left_h
+      - 0.15
+      3:
+      - lə̀ré
+      - lə̀ré
+      - bowl-NOM-SG
+      - 0.6
+      4:
+      - là ŕɛ̀
+      - l-à ŕ-ɛ̀
+      - stab-CLL-IT-PFV-aux
+      - 0.6
+      5:
+      - là ŕɛ̀
+      - l-à ŕ-ɛ̀
+      - stab-CLL-IT-PFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.6
+      6:
+      - lə̀r̀ɛ̀
+      - lə̀-r̀-ɛ̀
+      - stab-CLL-IT-DEP
+      - 0.65
+      7:
+      - lə́ré
+      - lə̀ré
+      - bowl-NOM-SG-left_h
+      - 0.65
+      8:
+      - lá ŕɛ̀
+      - l-à ŕ-ɛ̀
+      - stab-CLL-IT-PFV-aux-left_h
+      - 0.65
+      9:
+      - lá ŕɛ̀
+      - l-à ŕ-ɛ̀
+      - stab-CLL-IT-PFV-3SG.OBJ-2SG.SBJ-aux-left_h
+      - 0.65
+      10:
+      - lə́r̀ɛ̀
+      - lə̀-r̀-ɛ̀
+      - stab-CLL-IT-DEP-left_h
+      - 0.7
+      11:
+      - ràrɛ́
+      - r-à-rɛ́
+      - aux-CLR-IT-PFV-CLASS
+      - 1.0
+      12:
+      - ràrɛ́
+      - r-à-rɛ́
+      - aux-CLR-IT-PFV-CLASS-3SG.OBJ-2SG.SBJ
+      - 1.0
+  - original_str: ðə́wàjà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ðə́wàjà
+      - ðə̀-wàj-à
+      - wash-CLÐ-VENT-DEP-left_h
+      - 0.0
+      1:
+      - ðə̀wàjà
+      - ðə̀-wàj-à
+      - wash-CLÐ-VENT-DEP
+      - 0.05
+      2:
+      - ðə́wájá
+      - ðə́-wáj-á
+      - wash-CLÐ-INF
+      - 0.1
+      3:
+      - ðɛ́ wájà
+      - ð-ɛ́ wáj-à
+      - wash-CLÐ-IT-IPFV-3SG.OBJ-1SG.SBJ-aux
+      - 0.6
+      4:
+      - ðá wájà
+      - ð-á wáj-à
+      - wash-CLÐ-IT-IPFV-aux
+      - 0.6
+      5:
+      - ðá wájà
+      - ð-á wáj-à
+      - wash-CLÐ-IT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 0.6
+      6:
+      - jə́wàjà
+      - jə̀-wàj-à
+      - wash-CLJ-VENT-DEP-left_h
+      - 1.0
+      7:
+      - nə́wàjà
+      - nə̀-wàj-à
+      - wash-CLN-VENT-DEP-left_h
+      - 1.0
+      8:
+      - ɲə́wàjà
+      - ɲə̀-wàj-à
+      - wash-CLƝ-VENT-DEP-left_h
+      - 1.0
+      9:
+      - rə́wàjà
+      - rə̀-wàj-à
+      - wash-CLR-VENT-DEP-left_h
+      - 1.0
+      10:
+      - lə́wàjà
+      - lə̀-wàj-à
+      - wash-CLL-VENT-DEP-left_h
+      - 1.0
+  - original_str: kúkùŋú
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - kúkùŋú
+      - kúkùŋú
+      - 1st born male child-ACC-SG
+      - 0.0
+      1:
+      - kúkùŋú<ENDOFSENTENCE>
+      - kúkùŋú
+      - 1st born male child-ACC-SG
+      - 1.0
+      2:
+      - kúrúŋú
+      - k-ùr-ú-ŋú
+      - climb.down-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 1.05
+      3:
+      - kúrúŋú
+      - k-ùr-ú-ŋú
+      - climb.down-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 1.05
+      4:
+      - kút̪úŋú
+      - k-ùt̪-ú-ŋú
+      - choose-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 1.05
+      5:
+      - kút̪úŋú
+      - k-ùt̪-ú-ŋú
+      - choose-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 1.05
+      6:
+      - kúkùŋù<ENDOFSENTENCE>
+      - kúkùŋú
+      - 1st born male child-ACC-SG-final_lowering
+      - 1.05
+      7:
+      - kùt̪úŋú
+      - k-ùt̪-ú-ŋú
+      - choose-CLG-VENT-PFV-3SG.OBJ
+      - 1.1
+      8:
+      - kùt̪úŋú
+      - k-ùt̪-ú-ŋú
+      - choose-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ
+      - 1.1
+      9:
+      - kùrúŋú
+      - k-ùr-ú-ŋú
+      - climb.down-CLG-VENT-PFV-3SG.OBJ
+      - 1.1
+      10:
+      - kùrúŋú
+      - k-ùr-ú-ŋú
+      - climb.down-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ
+      - 1.1
+      11:
+      - kúdóŋú
+      - k-ùd-ó-ŋú
+      - burn-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 1.1
+      12:
+      - kúdóŋú
+      - k-ùd-ó-ŋú
+      - burn-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 1.1
+      13:
+      - kút̪uŋ́ú
+      - k-ùt̪-u-ŋ́ú
+      - choose-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 1.1
+      14:
+      - kút̪uŋ́ú
+      - k-ùt̪-u-ŋ́ú
+      - choose-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 1.1
+      15:
+      - kúruŋ́ú
+      - k-ùr-u-ŋ́ú
+      - climb.down-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 1.1
+      16:
+      - kúruŋ́ú
+      - k-ùr-u-ŋ́ú
+      - climb.down-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 1.1
+  - original_str: únɛ̀ɾɛ̀
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - únɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-final_lowering-left_h
+      - 0.0
+      1:
+      - ùnɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-final_lowering
+      - 0.05
+      2:
+      - únɛ́ɾɛ́<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday-left_h
+      - 0.1
+      3:
+      - ùnɛ́ɾɛ́<ENDOFSENTENCE>
+      - ùnɛ́ɾɛ́
+      - yesterday
+      - 0.15
+      4:
+      - nɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL-final_lowering
+      - 0.55
+      5:
+      - nɛ̀ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL-final_lowering
+      - 0.55
+      6:
+      - nɛ́ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL-final_lowering-left_h
+      - 0.6
+      7:
+      - nɛ́ɾɛ̀<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL-final_lowering-left_h
+      - 0.6
+      8:
+      - nɛ́ɾɛ́<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - fence-NOM-PL
+      - 0.65
+      9:
+      - nɛ́ɾɛ́<ENDOFSENTENCE>
+      - nɛ́ɾɛ́
+      - waterskin-ACC-PL
+      - 0.65
+      10:
+      - únɛ́ɾɛ́
+      - ùnɛ́ɾɛ́
+      - yesterday-left_h
+      - 1.1
+      11:
+      - ùnɛ́ɾɛ́
+      - ùnɛ́ɾɛ́
+      - yesterday
+      - 1.15
+      12:
+      - nɔ̀ɾɛ̀<ENDOFSENTENCE>
+      - n-ɔ̀ɾ-ɛ̀
+      - insult-CLN-IT-DEP
+      - 1.55
+- sentence: káŋvə́lɛ̂ðɔ́ ndɔ̀bà
+  update_sentence: ''
+  translation: It (sheep) will pull him (person) (here) tomorrow
+  split: test
+  index: '627'
+  checked_by_pi: false
+  words:
+  - original_str: káŋvə́lɛ̂ðɔ́
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - ká və̀lɛ̀ðɔ́
+      - k-á və̀lɛ̀ð-ɔ́
+      - pull-CLG-VENT-IPFV-aux
+      - 1.1
+      1:
+      - ká və̀lɛ̀ðɔ́
+      - k-á və̀lɛ̀ð-ɔ́
+      - pull-CLG-VENT-IPFV-3SG.OBJ-2SG.SBJ-aux
+      - 1.1
+      2:
+      - káŋɛ̂ və̀lɛ̀ðɔ́
+      - k-á-ŋɛ̂ və̀lɛ̀ð-ɔ́
+      - pull-CLG-VENT-IPFV-1SG.OBJ-aux
+      - 1.15
+      3:
+      - káŋâ və̀lɛ̀ðɔ́
+      - k-á-ŋâ və̀lɛ̀ð-ɔ́
+      - pull-CLG-VENT-IPFV-2SG.OBJ-aux
+      - 1.15
+      4:
+      - kál və́lɛ̀ðɔ́
+      - k-á-l və́lɛ̀ð-ɔ́
+      - pull-CLG-VENT-IPFV-3SG.OBJ-1DU.INCL.SBJ-aux
+      - 1.55
+      5:
+      - kál və̀lɛ̀ðɔ́
+      - k-á-l və̀lɛ̀ð-ɔ́
+      - pull-CLG-VENT-IPFV-3SG.OBJ-3SG.SBJ-aux
+      - 1.6
+      6:
+      - kál və̀lɛ̀ðɔ́
+      - k-á-l və̀lɛ̀ð-ɔ́
+      - pull-CLG-VENT-IPFV-3SG.OBJ-3PL.SBJ-aux
+      - 1.6
+      7:
+      - kə́və̀lɛ̀ðɔ́
+      - kə̀-və̀lɛ̀ð-ɔ́
+      - pull-CLG-VENT-PFV-left_h
+      - 1.65
+      8:
+      - káĺ və̀lɛ̀ðɔ́
+      - k-á-ĺ və̀lɛ̀ð-ɔ́
+      - pull-CLG-VENT-IPFV-3PL.OBJ-aux
+      - 1.65
+      9:
+      - káĺ və̀lɛ̀ðɔ́
+      - k-á-ĺ və̀lɛ̀ð-ɔ́
+      - pull-CLG-VENT-IPFV-3PL.OBJ-2SG.SBJ-aux
+      - 1.65
+      10:
+      - áŋvə̀lɛ̀ðɔ́ú
+      - á--ŋvə̀lɛ̀ð-ɔ́ú
+      - pull-VENT-PFV-3SG.OBJ-2SG.SBJ
+      - 1.65
+      11:
+      - ɲáŋvə̀lɛ̀ðɔ́ú
+      - ɲà--ŋvə̀lɛ̀ð-ɔ́ú
+      - pull-VENT-PFV-3SG.OBJ-1PL.EXCL.SBJ-left_h
+      - 1.65
+      12:
+      - ɲáŋvə̀lɛ̀ðɔ́ú
+      - ɲá--ŋvə̀lɛ̀ð-ɔ́ú
+      - pull-VENT-PFV-3SG.OBJ-2PL.SBJ
+      - 1.65
+      13:
+      - kə́ŋvə̀lɛ̀ðú
+      - kə̀-ŋvə̀lɛ̀ð-ú
+      - pull-CLG-VENT-PFV-3SG.OBJ-left_h
+      - 1.65
+      14:
+      - kə́ŋvə̀lɛ̀ðú
+      - kə̀-ŋvə̀lɛ̀ð-ú
+      - pull-CLG-VENT-PFV-3SG.OBJ-3SG.SBJ-left_h
+      - 1.65
+  - original_str: ndɔ̀bà
+    updated_str: ''
+    updated_gloss: ''
+    chosen_parse: null
+    comment: ''
+    parses:
+      0:
+      - nd̪ɔ̀bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 0.05
+      1:
+      - nd̪ɔ́bà<ENDOFSENTENCE>
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 0.1
+      2:
+      - nd̪ɔ̀bà
+      - nd̪ɔ̀bà
+      - tomorrow
+      - 1.05
+      3:
+      - nd̪ɔ́bà
+      - nd̪ɔ̀bà
+      - tomorrow-left_h
+      - 1.1
+      4:
+      - nɔ́dɔ̀t̪à<ENDOFSENTENCE>
+      - n-ɔ̀dɔ̀t̪-à
+      - build-loc-CLN-VENT-DEP-left_h
+      - 1.55
+      5:
+      - nɔ̀dɔ̀t̪à<ENDOFSENTENCE>
+      - n-ɔ̀dɔ̀t̪-à
+      - build-loc-CLN-VENT-DEP
+      - 1.55
+      6:
+      - ńdòr̀<ENDOFSENTENCE>
+      - ǹd-ó-ŕ
+      - sleep-VENT-IPFV-1PL.INCL.SBJ-final_lowering-left_h
+      - 1.6
+      7:
+      - ńdòr̀<ENDOFSENTENCE>
+      - ǹd-ó-ŕ
+      - sleep-VENT-IPFV-1PL.INCL.OBJ-final_lowering-left_h
+      - 1.6
+      8:
+      - ǹdòr̀<ENDOFSENTENCE>
+      - ǹd-ó-ŕ
+      - sleep-VENT-IPFV-1PL.INCL.SBJ-final_lowering
+      - 1.6
+      9:
+      - ǹdòr̀<ENDOFSENTENCE>
+      - ǹd-ó-ŕ
+      - sleep-VENT-IPFV-1PL.INCL.OBJ-final_lowering
+      - 1.6
+      10:
+      - nd̪ɔ̀bàgɛ̀
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.6
+      11:
+      - nd̪ɔ̀bàgɛ̀<ENDOFSENTENCE>
+      - nd̪ɔ̀bàgɛ̀
+      - tomorrow
+      - 1.6
