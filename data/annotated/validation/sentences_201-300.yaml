@@ -2888,7 +2888,7 @@
   translation: stick
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ðówɛ̀
       parses:
@@ -2951,7 +2951,7 @@
   translation: stick
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ðówɛ́
       parses:
@@ -3014,7 +3014,7 @@
   translation: boy
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: àprì
       parses:
@@ -3097,7 +3097,7 @@
   translation: return away
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: úɽíðû
       parses:
@@ -3165,7 +3165,7 @@
   translation: they climbed down away
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: là
       parses:
@@ -3271,7 +3271,7 @@
           - 0.6
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: húrì
       parses:
@@ -3335,7 +3335,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: be.lost-loc not being generated in lexicon!
       original_str: kát̪òt̪ó
       parses:
         '0':
@@ -3449,8 +3449,8 @@
           - k-á ùt̪-ú
           - choose-aux-CLg-ventive-au-3sg.obj-2sg.sbj-imperfective
           - 1.1
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: be.lost-loc-aux-CLg-ventive-aɔ-imperfective
+      updated_str: ká t̪òt̪ó
 - checked_by_pi: false
   index: '227'
   sentence: lìjàjɔ̀
@@ -3459,7 +3459,9 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: >-
+        TODO: support tensing of [ə] to [i] before /j/; TODO add REDUP verbs to
+        lexicon
       original_str: lìjàjɔ̀
       parses:
         '0':
@@ -3512,8 +3514,8 @@
           - l-ìj-á-ló
           - beat-CLl-ventive-aɔ-3pl.obj-2sg.sbj-perfective
           - 1.15
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: eat.REDUP-CLg-perfective-ventive
+      updated_str: lìjàjɔ̀
 - checked_by_pi: false
   index: '228'
   sentence: jɛ̀ìdìjé jɛ̀ìdìjé
@@ -3521,7 +3523,7 @@
   translation: made fallmade fall
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: jɛ̀ìdìjé
       parses:
@@ -3577,7 +3579,7 @@
           - 1.65
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: jɛ̀ìdìjé
       parses:
@@ -3716,7 +3718,7 @@
           - aux-CLl-itive-3sg.obj-2sg.sbj-perfective
           - 1
       updated_gloss: ''
-      updated_str: ''
+      updated_str: DELETE
     - chosen_parse: null
       comment: ''
       original_str: rɔ̀ðɔ̀
@@ -3786,8 +3788,8 @@
           - rə̀-ð-ɔ́
           - slice-CLr-ventive-final_lowering-aɔ-left_h-perfective
           - 0.6
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: cook-CLl-perfective-ventive
+      updated_str: lə̀ɾɔ̀ðɔ̀
 - checked_by_pi: false
   index: '230'
   sentence: kúkù kɛ̀ìdù
@@ -3795,7 +3797,7 @@
   translation: Kuku fell
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '9'
       comment: ''
       original_str: kúkù
       parses:
@@ -3851,7 +3853,7 @@
           - 1.6
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: kɛ̀ìdù
       parses:
@@ -3924,7 +3926,7 @@
   translation: dance
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ábúðú
       parses:
@@ -3993,7 +3995,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: verify meaning w/ Sharon
       original_str: jòú
       parses:
         '0':
@@ -4056,9 +4058,9 @@
           - j-ùt̪-ú
           - choose-CLj-ventive-au-left_h-perfective
           - 1.1
-      updated_gloss: ''
-      updated_str: ''
-    - chosen_parse: null
+      updated_gloss: '???'
+      updated_str: jòú
+    - chosen_parse: '2'
       comment: ''
       original_str: jà
       parses:
@@ -4145,7 +4147,7 @@
       updated_gloss: ''
       updated_str: ''
     - chosen_parse: null
-      comment: ''
+      comment: add inalienably possessed nouns to lexicon
       original_str: ɔ̀ráj
       parses:
         '0':
@@ -4193,8 +4195,8 @@
           - r-àj-ú
           - die-CLr-ventive-au-perfective
           - 1.15
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: sibling-NOM-SG-1SG.POSS
+      updated_str: ɔ̀ɾ-áj
 - checked_by_pi: false
   index: '233'
   sentence: ǎn kúkú kɔ̀n
@@ -4202,7 +4204,7 @@
   translation: Thats Kuku addressee and Kuku are together far from speaker
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ǎn
       parses:
@@ -4248,7 +4250,7 @@
           - 1.05
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: kúkú
       parses:
@@ -4305,7 +4307,7 @@
       updated_gloss: ''
       updated_str: ''
     - chosen_parse: null
-      comment: ''
+      comment: verify meaning w Sharon
       original_str: kɔ̀n
       parses:
         '0':
@@ -4348,8 +4350,8 @@
           - kə̀-ǹ-à
           - listen-CLg-ventive-aɔ-dependent
           - 1.15
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: spatial demonstrative???
+      updated_str: kɔ̀n
 - checked_by_pi: false
   index: '234'
   sentence: áwùr
@@ -4357,7 +4359,7 @@
   translation: door
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '15'
       comment: ''
       original_str: áwùr
       parses:
@@ -4460,7 +4462,7 @@
   translation: This pot
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: lídí
       parses:
@@ -4517,7 +4519,7 @@
       updated_gloss: ''
       updated_str: ''
     - chosen_parse: null
-      comment: ''
+      comment: add demonstratives to lexicon
       original_str: lɛ̂
       parses:
         '0':
@@ -4590,8 +4592,8 @@
           - p-ɛ̀
           - hit-itive-ɔɔ-left_h-perfective
           - 1
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: this-CLl
+      updated_str: lɛ̂
 - checked_by_pi: false
   index: '236'
   sentence: kɛ̀t̪ɔ̀t̪ɔ́
@@ -4599,7 +4601,7 @@
   translation: Kuku drank in the field
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: kɛ̀t̪ɔ̀t̪ɔ́
       parses:
@@ -4714,7 +4716,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: verify form w Sharon (paper gives 'l-ùn' for parent-in-law)
       original_str: lɛ̀nɛ̀nɛ́j
       parses:
         '0':
@@ -4767,8 +4769,8 @@
           - lə̀-nìn-ɜ́l
           - listen-pass-CLl-ventive-ɔɔ-left_h-3sg.obj-3pl.sbj-perfective
           - 2.15
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: parent.in.law-NOM-PL-1SG.POSS
+      updated_str: lɛ̀nɛ̀nɛ́j
 - checked_by_pi: false
   index: '238'
   sentence: ɽàpɾì
@@ -4777,7 +4779,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: Add 'boy.dim' to lexicon
       original_str: ɽàpɾì
       parses:
         '0':
@@ -4830,8 +4832,8 @@
           - t̪-àp-ɔ́
           - carry-CLt̪-ventive-final_lowering-aɔ-perfective
           - 2.5
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: boy.dim-NOM-SG-final_lowering
+      updated_str: ɽàpɾì
 - checked_by_pi: false
   index: '239'
   sentence: ŋàŋɔ́
@@ -4839,8 +4841,8 @@
   translation: look at
   update_sentence: ''
   words:
-    - chosen_parse: null
-      comment: ''
+    - chosen_parse: '2'
+      comment: is gloss 'look at' a mistake?
       original_str: ŋàŋɔ́
       parses:
         '0':
@@ -4918,7 +4920,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: verify form and gloss w Sharon
       original_str: nɛ̀nɔ́nɔ̀l
       parses:
         '0':
@@ -4971,8 +4973,8 @@
           - nə̀-nɔ̀n-ɜ́l
           - look-CLn-ventive-final_lowering-aɔ-3sg.obj-3pl.sbj-perfective
           - 1.1
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: '???'
+      updated_str: nɛ̀nɔ́nɔ̀l
 - checked_by_pi: false
   index: '241'
   sentence: ròrlà
@@ -4981,7 +4983,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: add 'tall.redup' to lexicon
       original_str: ròrlà
       parses:
         '0':
@@ -5034,8 +5036,8 @@
           - r-ùr-ì
           - climb.down-CLr-itive-ɔu-dependent
           - 1.55
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: tall.redup-CLr
+      updated_str: r-ɔ̀rlà
 - checked_by_pi: false
   index: '242'
   sentence: ìjɔ̀ ɜ̀n ɔ́ɟɔ̀
@@ -5043,7 +5045,7 @@
   translation: What is shepherd
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '1'
       comment: ''
       original_str: ìjɔ̀
       parses:
@@ -5139,7 +5141,7 @@
           - 1
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ɜ̀n
       parses:
@@ -5186,7 +5188,7 @@
       updated_gloss: ''
       updated_str: ''
     - chosen_parse: null
-      comment: ''
+      comment: add to lexicon
       original_str: ɔ́ɟɔ̀
       parses:
         '0':
@@ -5319,8 +5321,8 @@
           - ɔ́ɽ-ɔ́
           - run-itive-aɔ-imperative
           - 1.05
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: who-NOM-SG
+      updated_str: ɔ́ɟɔ̀
 - checked_by_pi: false
   index: '243'
   sentence: ndràð
@@ -5328,7 +5330,7 @@
   translation: clothes
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ndràð
       parses:
@@ -5391,7 +5393,7 @@
   translation: Thats Kuku
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ǎn
       parses:
@@ -5437,7 +5439,7 @@
           - 1.05
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: kúkú
       parses:
@@ -5494,7 +5496,7 @@
       updated_gloss: ''
       updated_str: ''
     - chosen_parse: null
-      comment: ''
+      comment: add 'that' to lexicon
       original_str: káì
       parses:
         '0':
@@ -5577,8 +5579,8 @@
           - k-àw-ì
           - urinate-CLg-itive-ao-left_h-dependent
           - 1
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: that-CLg
+      updated_str: k-âj
 - checked_by_pi: false
   index: '245'
   sentence: ndŕdɔ́ ndŕdɔ́
@@ -5586,7 +5588,7 @@
   translation: knives spoken twice
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ndŕdɔ́
       parses:
@@ -5647,7 +5649,7 @@
           - 1.6
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ndŕdɔ́
       parses:
@@ -5710,7 +5712,7 @@
   translation: to cook
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ðɾɔ́ðà
       parses:
@@ -5803,7 +5805,7 @@
   translation: to cook
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ðɾɔ́ðǎ
       parses:
@@ -5891,7 +5893,7 @@
   translation: cook IMP2SG  breath
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '1'
       comment: ''
       original_str: rɔ́ðɔ̌
       parses:
@@ -5947,7 +5949,7 @@
           - 1.05
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: úðɔ̂
       parses:
@@ -6050,7 +6052,7 @@
   translation: this is a fire
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ǎn
       parses:
@@ -6096,7 +6098,7 @@
           - 1.05
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '2'
       comment: ''
       original_str: íjó
       parses:
@@ -6188,7 +6190,7 @@
       updated_gloss: ''
       updated_str: ''
     - chosen_parse: null
-      comment: ''
+      comment: add 'this' to lexicon
       original_str: jɛ̂
       parses:
         '0':
@@ -6296,8 +6298,8 @@
           - ŋ-ɛ̀
           - aux-CLŋ-itive-left_h-3sg.obj-1sg.sbj-perfective
           - 1
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: this-CLj
+      updated_str: j-ɛ̂
 - checked_by_pi: false
   index: '250'
   sentence: àn íjó jɛ̂
@@ -6305,7 +6307,7 @@
   translation: this is a fire
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: àn
       parses:
@@ -6351,7 +6353,7 @@
           - 1.05
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '2'
       comment: ''
       original_str: íjó
       parses:
@@ -6443,7 +6445,7 @@
       updated_gloss: ''
       updated_str: ''
     - chosen_parse: null
-      comment: ''
+      comment: add 'this' to lexicon
       original_str: jɛ̂
       parses:
         '0':
@@ -6551,8 +6553,8 @@
           - ŋ-ɛ̀
           - aux-CLŋ-itive-left_h-3sg.obj-1sg.sbj-perfective
           - 1
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: this-CLj
+      updated_str: j-ɛ̂
 - checked_by_pi: false
   index: '251'
   sentence: kǎr káɟà
@@ -6561,7 +6563,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: verify w Sharon
       original_str: kǎr
       parses:
         '0':
@@ -6619,10 +6621,10 @@
           - k-àɾ-ɔ́
           - aɾ-CLg-ventive-aɔ-left_h-perfective
           - 0.65
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: '?someone'
+      updated_str: kǎr
     - chosen_parse: null
-      comment: ''
+      comment: verify word w/ Sharon
       original_str: káɟà
       parses:
         '0':
@@ -6690,8 +6692,8 @@
           - k-à-ŋâ
           - aux-CLg-itive-left_h-2sg.obj-perfective
           - 1.05
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: different
+      updated_str: káɟà
 - checked_by_pi: false
   index: '252'
   sentence: là pápìðì
@@ -6699,7 +6701,7 @@
   translation: they beat often
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: là
       parses:
@@ -6859,8 +6861,8 @@
           - r-àpìð-ì
           - carry-antip-CLr-itive-ao-left_h-dependent
           - 1
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: beat.redup-antip-IT-PFV
+      updated_str: pápìðì
 - checked_by_pi: false
   index: '253'
   sentence: lɔ̀rlà
@@ -6869,7 +6871,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: add tall.redup to lexicon
       original_str: lɔ̀rlà
       parses:
         '0':
@@ -6927,8 +6929,8 @@
           - lòlá
           - elbow-accusative-final_lowering-left_h-singular
           - 1.1
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: tall.redup-CLl
+      updated_str: l-ɔ̀rlà
 - checked_by_pi: false
   index: '254'
   sentence: kúkù kǎjɛ̌
@@ -6936,7 +6938,7 @@
   translation: Kuku ate
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: kúkù
       parses:
@@ -6992,7 +6994,7 @@
           - 1.6
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: kǎjɛ̌
       parses:
@@ -7115,8 +7117,8 @@
   translation: Say Jump far away
   update_sentence: ''
   words:
-    - chosen_parse: null
-      comment: ''
+    - chosen_parse: '0'
+      comment: change gloss to 'say'
       original_str: àɾá
       parses:
         '0':
@@ -7166,7 +7168,7 @@
           - 1
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ɔ̀ɽcâ
       parses:
@@ -7244,7 +7246,7 @@
   translation: They will wrestle far
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '14'
       comment: ''
       original_str: lábùlú
       parses:
@@ -7357,7 +7359,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: support 1sg objects w/o /ŋ/
       original_str: àpìt̪í
       parses:
         '0':
@@ -7455,8 +7457,8 @@
           - ápíj-í
           - carry-caus-itive-ɔi-imperative
           - 1.1
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: carry-ben-VENT-IMP-1SG.OBJ
+      updated_str: àpìt̪í
 - checked_by_pi: false
   index: '258'
   sentence: rmàn
@@ -7464,7 +7466,7 @@
   translation: legs
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: rmàn
       parses:
@@ -7528,7 +7530,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: add adjective ɔlɔt̪ɔ 'good' to lexicon
       original_str: kɔ́lɔ̀t̪ɔ̌
       parses:
         '0':
@@ -7591,8 +7593,8 @@
           - k-ɔ̀ɾɔ̀t̪-ɔ́
           - insult-loc-CLg-ventive-ɔɔ-left_h-perfective
           - 1.05
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: good-CLg
+      updated_str: kɔ̀lɔ̀t̪ɔ̀
 - checked_by_pi: false
   index: '260'
   sentence: kɔ́lɔ̀t̪ɔ̀
@@ -7601,7 +7603,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: add to lexicon
       original_str: kɔ́lɔ̀t̪ɔ̀
       parses:
         '0':
@@ -7679,8 +7681,8 @@
           - k-ɔ̀ðɔ̀t̪-ɔ́
           - grind-loc-CLg-ventive-final_lowering-aɔ-perfective
           - 1.05
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: good-CLg
+      updated_str: kɔ́lɔ̀t̪ɔ̀
 - checked_by_pi: false
   index: '261'
   sentence: ámɔ́nɔ́
@@ -7688,7 +7690,7 @@
   translation: take care
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '2'
       comment: ''
       original_str: ámɔ́nɔ́
       parses:
@@ -7767,7 +7769,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: add ið 'make' to lexicon
       original_str: ìðɔ́
       parses:
         '0':
@@ -7835,9 +7837,9 @@
           - kìð-ɔ́
           - open-ventive-ɔɔ-imperative
           - 1
-      updated_gloss: ''
-      updated_str: ''
-    - chosen_parse: null
+      updated_gloss: make-VENT-IMP
+      updated_str: ìðɔ́
+    - chosen_parse: '3'
       comment: ''
       original_str: íjɔ̀
       parses:
@@ -7956,7 +7958,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: add ið 'make' to lexicon
       original_str: íðɔ́
       parses:
         '0':
@@ -8049,9 +8051,9 @@
           - pìð-ɔ́
           - hit-antip-ventive-ɔu-left_h-imperative
           - 1
-      updated_gloss: ''
-      updated_str: ''
-    - chosen_parse: null
+      updated_gloss: make-IT-IMP
+      updated_str: íðɔ́
+    - chosen_parse: '3'
       comment: ''
       original_str: íjɔ̀
       parses:
@@ -8170,7 +8172,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: add 'make' to lexicon
       original_str: íðɔ́
       parses:
         '0':
@@ -8263,9 +8265,9 @@
           - pìð-ɔ́
           - hit-antip-ventive-ɔu-left_h-imperative
           - 1
-      updated_gloss: ''
-      updated_str: ''
-    - chosen_parse: null
+      updated_gloss: make-VENT-IMP
+      updated_str: íðɔ́
+    - chosen_parse: '3'
       comment: ''
       original_str: íjɔ̀
       parses:
@@ -8383,7 +8385,7 @@
   translation: Badness is bad
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ìcɔ̀
       parses:
@@ -8444,7 +8446,7 @@
           - 1.05
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: kìcɔ̀
       parses:
@@ -8523,7 +8525,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: add to lexicon
       original_str: ɲàŋgú
       parses:
         '0':
@@ -8621,8 +8623,8 @@
           - ɲ-à-ŋd-ú
           - touch-CLɲ-ventive-ɔi-left_h-3sg.obj-3sg.sbj-perfective
           - 1.05
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: tira.dance-NOM-SG
+      updated_str: ɲáŋgù
 - checked_by_pi: false
   index: '267'
   sentence: láðà ɛ̀ðɛ̀
@@ -8630,7 +8632,7 @@
   translation: they will chop meat
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: láðà
       parses:
@@ -8706,7 +8708,7 @@
           - 1
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ɛ̀ðɛ̀
       parses:
@@ -8784,7 +8786,7 @@
   translation: year
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ìt̪ìlɔ́
       parses:
@@ -8847,7 +8849,7 @@
   translation: year
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ìt̪ìlɔ̀
       parses:
@@ -8911,7 +8913,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: verify w Sharon
       original_str: ŋɛ̀ŋɔ̀nɔ́
       parses:
         '0':
@@ -8989,8 +8991,8 @@
           - ɔ́ŋɔ́ŋɔ́n-ɔ́
           - rest-itive-final_lowering-ɔɔ-imperative
           - 1.6
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: '???-CLŋ'
+      updated_str: ŋɛ̀ŋɔ̀nɔ́
 - checked_by_pi: false
   index: '271'
   sentence: ðɔ́ ɛ̂ð ánù
@@ -8998,7 +9000,7 @@
   translation: chop the meat
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '1'
       comment: ''
       original_str: ðɔ́
       parses:
@@ -9069,7 +9071,7 @@
           - 1
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ɛ̂ð
       parses:
@@ -9096,7 +9098,7 @@
       updated_gloss: ''
       updated_str: ''
     - chosen_parse: null
-      comment: ''
+      comment: add particle 'ánù' to lexicon
       original_str: ánù
       parses:
         '0':
@@ -9169,8 +9171,8 @@
           - áj-ú
           - die-itive-au-imperative
           - 1.05
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: '?particle'
+      updated_str: ánù
 - checked_by_pi: false
   index: '272'
   sentence: ðúɽór
@@ -9179,7 +9181,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: ask Sharon about final -r
       original_str: ðúɽór
       parses:
         '0':
@@ -9274,8 +9276,8 @@
           - ðúɽ-ó
           - breastfeed-itive-final_lowering-ao-left_h-imperative
           - 1.05
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: breastfeed-IT-IMP
+      updated_str: ðúɽór
 - checked_by_pi: false
   index: '273'
   sentence: bɔ̀là
@@ -9283,7 +9285,7 @@
   translation: wrestle far
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: bɔ̀là
       parses:
@@ -9356,7 +9358,7 @@
   translation: wrestle far
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: bɔ̀lá
       parses:
@@ -9430,7 +9432,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: add to lexicon
       original_str: ðɔ̀cà
       parses:
         '0':
@@ -9533,8 +9535,8 @@
           - ðɔ́lá
           - flour/pollen-nominative-final_lowering-left_h-singular
           - 1.05
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: palm.basket-ACC-SG
+      updated_str: ðɔ̀c-à
 - checked_by_pi: false
   index: '276'
   sentence: lɛ̀dɜ̀dì
@@ -9543,7 +9545,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: add ɜdɜd 'touch.redup' to lexicon
       original_str: lɛ̀dɜ̀dì
       parses:
         '0':
@@ -9601,8 +9603,8 @@
           - l-àd-ì
           - touch-CLl-itive-ɔi-dependent
           - 1.6
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: touch.redup-CLl-PFV-IT
+      updated_str: làdɜ̀dì
 - checked_by_pi: false
   index: '277'
   sentence: ùnɛ́ɾɛ̀
@@ -9610,7 +9612,7 @@
   translation: yesterday
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ùnɛ́ɾɛ̀
       parses:
@@ -9688,7 +9690,7 @@
   translation: jump both speaker and adressee are on the roof
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ábrô
       parses:
@@ -9756,7 +9758,7 @@
   translation: They looked at the porcupine
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: lɛ̀nɔ̀nɔ́
       parses:
@@ -9817,7 +9819,7 @@
           - 1.05
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: ónɛ̀
       parses:
@@ -9906,7 +9908,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: add ɛl 'go' to lexicon
       original_str: ɲàlɛ́lǎ
       parses:
         '0':
@@ -10077,8 +10079,8 @@
           - ɲ-àlèŋ-à
           - sing-CLɲ-ventive-aɔ-left_h-dependent
           - 1.2
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: go-IPFV-IT-1PL.EXCL.SBJ
+      updated_str: ɲàlɛ́là
 - checked_by_pi: false
   index: '281'
   sentence: ɲàlɛ́là
@@ -10087,7 +10089,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: Add ɛl 'go' to lexicon
       original_str: ɲàlɛ́là
       parses:
         '0':
@@ -10259,7 +10261,7 @@
             aux-CLɲ-itive-final_lowering-left_h-3pl.obj-2sg.sbj-perfective-locative
           - 1.15
       updated_gloss: ''
-      updated_str: ''
+      updated_str: ɲàlɛ́là
 - checked_by_pi: false
   index: '282'
   sentence: lɔ́mɛ̀
@@ -10267,7 +10269,7 @@
   translation: rain
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: lɔ́mɛ̀
       parses:
@@ -10335,7 +10337,7 @@
   translation: girls
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '1'
       comment: ''
       original_str: ldɛ̀ɾɛ̀
       parses:
@@ -10398,7 +10400,7 @@
   translation: Kuku fed
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: kúkù
       parses:
@@ -10454,7 +10456,7 @@
           - 1.6
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '6'
       comment: ''
       original_str: kìjjí
       parses:
@@ -10532,7 +10534,7 @@
   translation: It is good
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: lìclò
       parses:
@@ -10595,8 +10597,8 @@
   translation: Parts of They will say something tomorrow far away
   update_sentence: ''
   words:
-    - chosen_parse: null
-      comment: ''
+    - chosen_parse: '0'
+      comment: verify 'say' not 'run'???
       original_str: lâlɔ̀ɽɔ́
       parses:
         '0':
@@ -10681,7 +10683,7 @@
           - 1.05
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: lâlɔ̀ɽɔ́
       parses:
@@ -10790,8 +10792,8 @@
   translation: Parts of They will say something tomorrow far away
   update_sentence: ''
   words:
-    - chosen_parse: null
-      comment: ''
+    - chosen_parse: '0'
+      comment: verify 'say' not 'run'
       original_str: lâlɔ̀ɽɔ́
       parses:
         '0':
@@ -10953,8 +10955,8 @@
           - úd̪ɛ̀t̪-ɛ̀
           - kindle-loc-itive-ɔɔ-perfective
           - 2.55
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: girl.dim-NOM-SG-final_lowering
+      updated_str: ɽíd̪ɛ́ɾɛ̀
 - checked_by_pi: false
   index: '289'
   sentence: lɛ̀bùlú
@@ -10962,7 +10964,7 @@
   translation: they wrestled
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '3'
       comment: ''
       original_str: lɛ̀bùlú
       parses:
@@ -11065,8 +11067,8 @@
   translation: ‘shave bald’
   update_sentence: ''
   words:
-    - chosen_parse: null
-      comment: ''
+    - chosen_parse: '0'
+      comment: verify 'shave' vs 'plait'
       original_str: mɜ́ðɔ́
       parses:
         '0':
@@ -11148,7 +11150,7 @@
   translation: the graves are big
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '1'
       comment: ''
       original_str: rɛ́l
       parses:
@@ -11214,7 +11216,7 @@
           - 1
       updated_gloss: ''
       updated_str: ''
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: rə̀ɽà
       parses:
@@ -11277,7 +11279,7 @@
   translation: birds like a dove
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '1'
       comment: ''
       original_str: ŋùbútù
       parses:
@@ -11414,8 +11416,8 @@
           - ŋùðɛ́ɾɛ́
           - sleep-accusative-final_lowering-singular
           - 1.55
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: girl-NOM-SG-final_lowering
+      updated_str: èd̪ɛ̀ɾɛ̀
 - checked_by_pi: false
   index: '294'
   sentence: údí ðùɽì
@@ -11424,7 +11426,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: change 'burn' from ao to ɔi
       original_str: údí
       parses:
         '0':
@@ -11472,9 +11474,9 @@
           - ád-ì
           - touch-itive-ɔi-perfective
           - 1.05
-      updated_gloss: ''
-      updated_str: ''
-    - chosen_parse: null
+      updated_gloss: burn-IT-IMP-final_lowering
+      updated_str: údì
+    - chosen_parse: '0'
       comment: ''
       original_str: ðùɽì
       parses:
@@ -11552,7 +11554,7 @@
   translation: monkeys
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: l̀twɛ̀l
       parses:
@@ -11628,7 +11630,7 @@
   translation: young men
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '2'
       comment: ''
       original_str: námàl
       parses:
@@ -11711,7 +11713,7 @@
   translation: boys
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: námál
       parses:
@@ -11799,7 +11801,7 @@
   translation: country hill mountain
   update_sentence: ''
   words:
-    - chosen_parse: null
+    - chosen_parse: '0'
       comment: ''
       original_str: àjɛ̀n
       parses:
@@ -11883,7 +11885,7 @@
   update_sentence: ''
   words:
     - chosen_parse: null
-      comment: ''
+      comment: 'handle: 2sg w/ ŋ, vowel coalescence w/ FV and personal suffix'
       original_str: énɔ̀ná
       parses:
         '0':
@@ -11941,5 +11943,5 @@
           - ɲə̀-nɔ̀n-à
           - look-CLɲ-ventive-aɔ-left_h-dependent
           - 1.1
-      updated_gloss: ''
-      updated_str: ''
+      updated_gloss: look-PFV-VENT-1SG.SBJ-2SG.OBJ
+      updated_str: jɛ́nɔ̀ná
