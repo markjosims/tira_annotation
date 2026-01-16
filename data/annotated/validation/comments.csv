@@ -1,105 +1,105 @@
-sentence,update_sentence,translation,word,comment,updated_str,gloss
-áá,,no,áá,add áá 'no' (pos=interjection) to lexicon,áá,no
-áfàn,,Youre welcome,áfàn,Add this interjection to lexicon,áfàn,youre.welcome
-bʊ́lʊ̀,,to wrestle,bʊ́lʊ̀,Add bul- wrestle.intrans to lexicon,búlù,wrestle.intrans-infintiive-final_lowering
-ɲɛ̀n,,countries,ɲɛ̀n,Verify ajɛn/ɲɛn with Sharon,ɲɛ̀n,countries-nominative-plural
-kʊ́mʊ̀,,name of HH’s village,kʊ́mʊ̀,Add village name to lexicon,kúmù,village.name-nominative-singular
-nɔ̂n,,there,nɔ̂n,verify with Sharon,nɔ̂n,there
-ðíd̪í,,under,ðíd̪í,verify with Sharon,ðíd̪í,under
-bú,,leave,bú,add to lexicon (irregular),bú,leave-imperative-itive
-àn áò,,how,áò,verify with Sharon,áò,??how
-lɛ̀ nɛ̀,,some,lɛ̀,verify w sharon,lɛ̀,??
-lɛ̀ nɛ̀,,some,nɛ̀,verify w Sharon,nɛ̀,???
-ɲɛ́hɛ̂ n,,countries,ɲɛ́hɛ̂,verify ajen/ɲen w/ Sharon,ɲɛ̂n,country-nominative-plural-final_lowering
-tásá,,all,tásá,add adverb to lexicon,tásá,all
-ówà,,woman,ówà,related to waj 'wife'? verify with Sharon,ówà,woman-nominative-singular
-d̪ʊ́ɾʊ́ nî,,Stop here,d̪ʊ́ɾʊ́,update dur 'stop' to d̪ur in lexicon,d̪úɾú,stop-imperative-itive
-d̪ʊ́ɾʊ́ nî,,Stop here,nî,verify w Sharon,nî,here-final_lowering???
-ɔ̀pí,,Thank you,ɔ̀pí,add interjection to lexicon,ɔ̀pí,thank.you
-ùlùŋú,,many years ago when we were young etc,ùlùŋú,add ??adverb to lexicon,ùlùŋú,long.ago
-ðǎ ɛ̀ðɛ̀,,chop the meat far away,ðǎ,TODO fix imperative tone on monosyllables; TODO might want to sort hypotheses so that forms w/o left H or final lowering come after unchanged forms when weight is equal,ðá<ENDOFSENTENCE>,slice-ventive-aɔ-imperative
-nìrí,,names,nìrí,"add plural form of ""name"" to lexicon",nìrí,name-nominative-plural
-nɔ́ nɔ̀ŋnɔ̀,,listen well,nɔ̀ŋnɔ̀,verify w Sharon,nɔ̀ŋnɔ̀,???well
-kúkú kɔ̀n,,Thats Kuku addressee and Kuku are together far from speaker,kɔ̀n,verify w Sharon,kɔ̀n,???copula-CLg??
-nɔ̀ŋnɔ̀,,well,nɔ̀ŋnɔ̀,add adverb to lexicon,nɔ̀ŋnɔ̀,well
-nàj,,sweet potato,nàj,TODO: add j/i as a low-cost transition,nàì,sweet.potato-nominative-singular
-ɔ̀mì,,fish,ɔ̀mì,TODO: merge nominative and accusative forms for 'fish' as they are homophonous,ʊ̀mì<ENDOFSENTENCE>,fish-nominative-singular
-kɛ́ně,,any,kɛ́ně,add -ɛ́nê (-ɛ́né???) to adnominals,kɛńê,any-CLg
-àɾòǒ,,histheir brother,àɾòǒ,TODO: support inalienable nouns,àɾò,brother-nominative-singular-3sg
-ðùɽùbú,,name of tree,ðùɽùbú,add noun to lexicon,ðùɽùbú,tree.sp-nominative-singular
-ávàn,,very much,ávàn,add adverb to lexicon,ávàn,very.much
-kńnǎ,,every,kńnǎ,add ?adverb to lexicon,kńnà,every
-ŋɛ́nɛ̌,,only,ŋɛ́nɛ̌,same as one???,ŋɛ́nê,only
+sentence,update_sentence,translation,word,comment,updated_str,gloss,resolved,new_comment
+áá,,no,áá,add áá 'no' (pos=interjection) to lexicon,áá,no,true
+áfàn,,Youre welcome,áfàn,Add this interjection to lexicon,áfàn,youre.welcome,true
+bʊ́lʊ̀,,to wrestle,bʊ́lʊ̀,Add bul- wrestle.intrans to lexicon,búlù,wrestle.intrans-infintiive-final_lowering,true
+ɲɛ̀n,,countries,ɲɛ̀n,Verify ajɛn/ɲɛn with Sharon,ɲɛ̀n,countries-nominative-plural,true,added ɲɛ̌n as variant of nàjén
+kʊ́mʊ̀,,name of HH’s village,kʊ́mʊ̀,Add village name to lexicon,kúmù,village.name-nominative-singular,true
+nɔ̂n,,there,nɔ̂n,verify with Sharon,nɔ̂n,there,true,added <CL>-ɔ̂n to lexicon
+ðíd̪í,,under,ðíd̪í,verify with Sharon,ðíd̪í,under,true,added to lexicon
+bú,,leave,bú,add to lexicon (irregular),bú,leave-imperative-itive,false
+àn áò,,how,áò,verify with Sharon,áò,??how,
+lɛ̀ nɛ̀,,some,lɛ̀,verify w sharon,lɛ̀,??,true,added <CL>-ɛ̀nɛ̀ to lexicon
+lɛ̀ nɛ̀,,some,nɛ̀,verify w Sharon,nɛ̀,???,true
+ɲɛ́hɛ̂ n,,countries,ɲɛ́hɛ̂,verify ajen/ɲen w/ Sharon,ɲɛ̂n,country-nominative-plural-final_lowering,true
+tásá,,all,tásá,add adverb to lexicon,tásá,all,true
+ówà,,woman,ówà,related to waj 'wife'? verify with Sharon,ówà,woman-nominative-singular,true,added ówà/ɲówà to lexicon
+d̪ʊ́ɾʊ́ nî,,Stop here,d̪ʊ́ɾʊ́,update dur 'stop' to d̪ur in lexicon,d̪úɾú,stop-imperative-itive,true
+d̪ʊ́ɾʊ́ nî,,Stop here,nî,verify w Sharon,nî,here-final_lowering???,true,added ní to lexicon
+ɔ̀pí,,Thank you,ɔ̀pí,add interjection to lexicon,ɔ̀pí,thank.you,true,added to lexicon
+ùlùŋú,,many years ago when we were young etc,ùlùŋú,add ??adverb to lexicon,ùlùŋú,long.ago,true,added to lexicon
+ðǎ ɛ̀ðɛ̀,,chop the meat far away,ðǎ,TODO fix imperative tone on monosyllables; TODO might want to sort hypotheses so that forms w/o left H or final lowering come after unchanged forms when weight is equal,ðá<ENDOFSENTENCE>,slice-ventive-aɔ-imperative,false
+nìrí,,names,nìrí,"add plural form of ""name"" to lexicon",nìrí,name-nominative-plural,true
+nɔ́ nɔ̀ŋnɔ̀,,listen well,nɔ̀ŋnɔ̀,verify w Sharon,nɔ̀ŋnɔ̀,???well,true
+kúkú kɔ̀n,,Thats Kuku addressee and Kuku are together far from speaker,kɔ̀n,verify w Sharon,kɔ̀n,???copula-CLg??,true,added 'there' to lexicon
+nɔ̀ŋnɔ̀,,well,nɔ̀ŋnɔ̀,add adverb to lexicon,nɔ̀ŋnɔ̀,well,true
+nàj,,sweet potato,nàj,TODO: add j/i as a low-cost transition,nàì,sweet.potato-nominative-singular,true
+ɔ̀mì,,fish,ɔ̀mì,TODO: merge nominative and accusative forms for 'fish' as they are homophonous,ʊ̀mì<ENDOFSENTENCE>,fish-nominative-singular,true
+kɛ́ně,,any,kɛ́ně,add -ɛ́nê (-ɛ́né???) to adnominals,kɛńê,any-CLg,true,added to lexicon
+àɾòǒ,,histheir brother,àɾòǒ,TODO: support inalienable nouns,àɾò,brother-nominative-singular-3sg,false
+ðùɽùbú,,name of tree,ðùɽùbú,add noun to lexicon,ðùɽùbú,tree.sp-nominative-singular,true
+ávàn,,very much,ávàn,add adverb to lexicon,ávàn,very.much,true,added to lexicon
+kńnǎ,,every,kńnǎ,add ?adverb to lexicon,kńnà,every,true,added
+ŋɛ́nɛ̌,,only,ŋɛ́nɛ̌,same as one???,ŋɛ́nê,only,true,added to lexicon
 lɛ̀ɲ,,penis,lɛ̀ɲ,verify: same as egg or tone difference?,lɛ̀ɲ,penis-nominative-singular
 ŋ́ɛ̂n,,,ŋ́ɛ̂n,no translation,DELETE,
-ŋɛ̀n,,countries hills mountains,ŋɛ̀n,verify vs. ájɛ̀n,ŋɛ́n,country-nominative-singular
-érá,,ask why,érá,verify form (HH or LH?) and add 'ask' to lexicon,èrá,ask-imperative-itive
-lúɔ̀,,cloth,lúɔ̀,add as variant of lúgó 'dress/shirt',lúò,dress/shirt-nominative-singular-final_lowering
-nùr,,Parts of Go out from the house,nùr,"add adverb to lexicon, note: might be contraction of 'nɛ̀ àúr'",nùr,from.house
-íðɔ̂,,Do it,íðɔ̂,add 'do' to lexicon (irregular form),íðɔ̀,do-imperative-itive-final_lowering
-járà,,indicates uncertainty,járà,verify with Sharon,járà,uncertain
-ɛ̀gɔ́,,youyour,ɛ̀gɔ́,verify gloss/POS w Sharon,ɛ̀gɔ́,2sg
-íðʊ́n,,Parts of His father is tall,íðʊ́n,verify tone,íðún,3sg-POSS
-kʊ̀mbʊ́r,,‘name of mountain’,kʊ̀mbʊ́r,add noun to lexicon and verify tone,kùmbúr,mountain.name-nominative-singular
-lɜ̀ù,,some,lɜ̀ù,add ?adjective to lexicon,lɜ̀ù,some-CLl
-ŋɛ̌n ŋɛ́nê,,any dog,ŋɛ́nê,add to lexicon,ŋɛ́nê,any-CLŋ
-nɛ̀ŋná ɛ́nɛ̀n,,their house,ɛ́nɛ̀n,add possessive forms to lexicon,ɛ́nɛ̀n,3pl-POSS
-ɔ̂rnɔ̀ ɔ́ɟɔ̀,,Youre called what,ɔ́ɟɔ̀,add to lexicon,ɔ́ɟɔ̀,who-nominative-singular-final_lowering
-jàdíjà,,live,jàdíjà,how to handle vowel coalescence w/ fuzzy search?,já ádìjà,stay-aux-CLj-itive-imperfective
-káɟà,,different,káɟà,verify POS w Sharon,káɟà,different
-ndó nì,,Sleep here,nì,add adverb to lexicon,nî,here
-rùɽár ròrlà,,tiɡers are tall,rùɽár,'tigers' given as jɔ̀ɽár in lexicon; is this a variant?,ròɽár,tiger-nominative-plural
-rùɽár ròrlà,,tiɡers are tall,ròrlà,add reduplicated form of adjective to lexicon,rɔ̀rlà,tall.REDUP-CLr
-là jájɛ̀,,they ate often,jájɛ̀,add REDUP verb forms to lexicon,jájɛ̀,eat.REDUP-itive-perfective
-ɲówà,,women,ɲówà,verify form and add to lexicon,ɲówà,woman-nominative-plural
-évé édɔ̌,,I was fat,évé,TODO: look into & support copula forms,évé,copula-1sg
-évé édɔ̌,,I was fat,édɔ̌,"adjective w/ personal marker? need to support, or treat as verb root?",ɛ́dɔ́,fat-1sg
-ǎn kúkú kɛ̀,,This is Kuku,kɛ̀,support demonstratives,kɛ̂,this-CLg-final_lowering
-ŋɛ́rɛ́gɛ̌,,evening,ŋɛ́rɛ́gɛ̌,add noun to lexicon,ŋɛ́rɛ́gɛ̀,evening-nominative-singular
-ðlá ɽà,,farming,ðlá,add to lexicon,ðə́láɽà,farming-nominative-singular
-t̪òlé t̪ɛ́,,with lion,t̪ɛ́,add to lexicon,t̪-ɛ́,with-CLt̪
-ɲárà ráó,,How are you all,ɲárà,verify independent pronouns & add to lexicon,ɲárà,PRO-2pl
-ɲárà ráó,,How are you all,ráó,verify gloss,ráó,how-CLr???
-wáló,,wife,wáló,support inalienably possessed nouns,wáló,wife-2sg
-kʊ́ɾí,,name,kʊ́ɾí,add noun to lexicon,kúɾí,personal.name-nominative-singular
-nɛ̀nìɲɔ́,,leaves,nɛ̀nìɲɔ́,"'leaves' in our dataset is nɜ̀nì, where is the ɲɔ́ coming from?",nɜ̀nìɲɔ́,leaf-nominative-plural
-ðɔ́ lúɔ̀,,cut the cloth,lúɔ̀,variant of dress/shirt or separate word?,lúɔ̀,cloth-nominative-singular-final_lowering
-ɲɛ̌n ɲɛ̀ɽà,,mountains are big,ɲɛ̌n,verify form,ɲɛ̌n,mountain-nominative-plural
-kát̪òt̪ó,,Kuku will be lost in the field,kát̪òt̪ó,be.lost-loc not being generated in lexicon!,ká t̪òt̪ó,be.lost-loc-aux-CLg-ventive-aɔ-imperfective
-lìjàjɔ̀,,they ate often,lìjàjɔ̀,TODO: support tensing of [ə] to [i] before /j/; TODO add REDUP verbs to lexicon,lìjàjɔ̀,eat.REDUP-CLg-perfective-ventive
-jòú jà ɔ̀ráj,,Parts of My brother is spreading it the mat now,jòú,verify meaning w/ Sharon,jòú,???
-jòú jà ɔ̀ráj,,Parts of My brother is spreading it the mat now,ɔ̀ráj,add inalienably possessed nouns to lexicon,ɔ̀ɾ-áj,sibling-NOM-SG-1SG.POSS
-ǎn kúkú kɔ̀n,,Thats Kuku addressee and Kuku are together far from speaker,kɔ̀n,verify meaning w Sharon,kɔ̀n,spatial demonstrative???
-lídí lɛ̂,,This pot,lɛ̂,add demonstratives to lexicon,lɛ̂,this-CLl
-lɛ̀nɛ̀nɛ́j,,my parentsinlaw,lɛ̀nɛ̀nɛ́j,verify form w Sharon (paper gives 'l-ùn' for parent-in-law),lɛ̀nɛ̀nɛ́j,parent.in.law-NOM-PL-1SG.POSS
-ɽàpɾì,,little boy,ɽàpɾì,Add 'boy.dim' to lexicon,ɽàpɾì,boy.dim-NOM-SG-final_lowering
-ŋàŋɔ́,,look at,ŋàŋɔ́,is gloss 'look at' a mistake?,ŋáŋɔ́<ENDOFSENTENCE>,scratch-itive-aɔ-imperative
-nɛ̀nɔ́nɔ̀l,,themselves,nɛ̀nɔ́nɔ̀l,verify form and gloss w Sharon,nɛ̀nɔ́nɔ̀l,???
-ròrlà,,tiɡers are tall,ròrlà,add 'tall.redup' to lexicon,r-ɔ̀rlà,tall.redup-CLr
-ìjɔ̀ ɜ̀n ɔ́ɟɔ̀,,What is shepherd,ɔ́ɟɔ̀,add to lexicon,ɔ́ɟɔ̀,who-NOM-SG
-ǎn kúkú káì,,Thats Kuku,káì,add 'that' to lexicon,k-âj,that-CLg
-ǎn íjó jɛ̂,,this is a fire,jɛ̂,add 'this' to lexicon,j-ɛ̂,this-CLj
-àn íjó jɛ̂,,this is a fire,jɛ̂,add 'this' to lexicon,j-ɛ̂,this-CLj
-kǎr káɟà,,Someone different,kǎr,verify w Sharon,kǎr,?someone
-kǎr káɟà,,Someone different,káɟà,verify word w/ Sharon,káɟà,different
-lɔ̀rlà,,They are tall,lɔ̀rlà,add tall.redup to lexicon,l-ɔ̀rlà,tall.redup-CLl
-àɾá ɔ̀ɽcâ,,Say Jump far away,àɾá,change gloss to 'say',àɾá,aɾ-ventive-aɔ-imperative
-àpìt̪í,,bring,àpìt̪í,support 1sg objects w/o /ŋ/,àpìt̪í,carry-ben-VENT-IMP-1SG.OBJ
-kɔ́lɔ̀t̪ɔ̌,,it is good,kɔ́lɔ̀t̪ɔ̌,add adjective ɔlɔt̪ɔ 'good' to lexicon,kɔ̀lɔ̀t̪ɔ̀,good-CLg
-kɔ́lɔ̀t̪ɔ̀,,it is good,kɔ́lɔ̀t̪ɔ̀,add to lexicon,kɔ́lɔ̀t̪ɔ̀,good-CLg
-ìðɔ́ íjɔ̀,,make a fire speaker is not there,ìðɔ́,add ið 'make' to lexicon,ìðɔ́,make-VENT-IMP
-íðɔ́ íjɔ̀,,make a fire,íðɔ́,add ið 'make' to lexicon,íðɔ́,make-IT-IMP
-íðɔ́ íjɔ̀,,make a fire,íðɔ́,add 'make' to lexicon,íðɔ́,make-VENT-IMP
-ɲàŋgú,,a dance most common type of dance in Tira community,ɲàŋgú,add to lexicon,ɲáŋgù,tira.dance-NOM-SG
-ŋɛ̀ŋɔ̀nɔ́,,themselves,ŋɛ̀ŋɔ̀nɔ́,verify w Sharon,ŋɛ̀ŋɔ̀nɔ́,???-CLŋ
-ðɔ́ ɛ̂ð ánù,,chop the meat,ánù,add particle 'ánù' to lexicon,ánù,?particle
-ðúɽór,,to breastfeed,ðúɽór,ask Sharon about final -r,ðúɽór,breastfeed-IT-IMP
-ðɔ̀cà,,basket made of palm leaves less sturdy,ðɔ̀cà,add to lexicon,ðɔ̀c-à,palm.basket-ACC-SG
-lɛ̀dɜ̀dì,,they held often,lɛ̀dɜ̀dì,add ɜdɜd 'touch.redup' to lexicon,làdɜ̀dì,touch.redup-CLl-PFV-IT
-ɲàlɛ́lǎ,,We are going,ɲàlɛ́lǎ,add ɛl 'go' to lexicon,ɲàlɛ́là,go-IPFV-IT-1PL.EXCL.SBJ
-ɲàlɛ́là,,Parts of We excl are going to cut the rope,ɲàlɛ́là,Add ɛl 'go' to lexicon,ɲàlɛ́là,
-lâlɔ̀ɽɔ́ lâlɔ̀ɽɔ́,,Parts of They will say something tomorrow far away,lâlɔ̀ɽɔ́,verify 'say' not 'run'???,lál ɔ̀ɽɔ́,run-aux-CLl-ventive-aɔ-3sg.obj-3sg.sbj-imperfective
-lâlɔ̀ɽɔ́,,Parts of They will say something tomorrow far away,lâlɔ̀ɽɔ́,verify 'say' not 'run',lál ɔ̀ɽɔ́<ENDOFSENTENCE>,run-aux-CLl-ventive-aɔ-3sg.obj-3sg.sbj-imperfective
-mɜ́ðɔ́,,‘shave bald’,mɜ́ðɔ́,verify 'shave' vs 'plait',mɛ́ðɔ́<ENDOFSENTENCE>,plait-ventive-aɔ-left_h-imperfective
-údí ðùɽì,,burn wood,údí,change 'burn' from ao to ɔi,údì,burn-IT-IMP-final_lowering
-énɔ̀ná,,I saw you,énɔ̀ná,"handle: 2sg w/ ŋ, vowel coalescence w/ FV and personal suffix",jɛ́nɔ̀ná,look-PFV-VENT-1SG.SBJ-2SG.OBJ
+ŋɛ̀n,,countries hills mountains,ŋɛ̀n,verify vs. ájɛ̀n,ŋɛ́n,country-nominative-singular,true
+érá,,ask why,érá,verify form (HH or LH?) and add 'ask' to lexicon,èrá,ask-imperative-itive,false,'ask' is ɛɽð verify recording
+lúɔ̀,,cloth,lúɔ̀,add as variant of lúgó 'dress/shirt',lúò,dress/shirt-nominative-singular-final_lowering,true,added pronunciation variant
+nùr,,Parts of Go out from the house,nùr,"add adverb to lexicon, note: might be contraction of 'nɛ̀ àúr'",nùr,from.house,true,added to lexicon
+íðɔ̂,,Do it,íðɔ̂,add 'do' to lexicon (irregular form),íðɔ̀,do-imperative-itive-final_lowering,true,added to lexicon
+járà,,indicates uncertainty,járà,verify with Sharon,járà,uncertain,true,added to lexicon
+ɛ̀gɔ́,,youyour,ɛ̀gɔ́,verify gloss/POS w Sharon,ɛ̀gɔ́,2sg,true,added to lexicon
+íðʊ́n,,Parts of His father is tall,íðʊ́n,verify tone,íðún,3sg-POSS,true,added to lexicon
+kʊ̀mbʊ́r,,‘name of mountain’,kʊ̀mbʊ́r,add noun to lexicon and verify tone,kùmbúr,mountain.name-nominative-singular,true,add to lexicon
+lɜ̀ù,,some,lɜ̀ù,add ?adjective to lexicon,lɜ̀ù,some-CLl,false,wrote note to ask Sharon about meaning
+ŋɛ̌n ŋɛ́nê,,any dog,ŋɛ́nê,add to lexicon,ŋɛ́nê,any-CLŋ,true,added to lexicon
+nɛ̀ŋná ɛ́nɛ̀n,,their house,ɛ́nɛ̀n,add possessive forms to lexicon,ɛ́nɛ̀n,3pl-POSS,true,added to lexicon
+ɔ̂rnɔ̀ ɔ́ɟɔ̀,,Youre called what,ɔ́ɟɔ̀,add to lexicon,ɔ́ɟɔ̀,who-nominative-singular-final_lowering,true,added to lexicon
+jàdíjà,,live,jàdíjà,how to handle vowel coalescence w/ fuzzy search?,já ádìjà,stay-aux-CLj-itive-imperfective,false,made note to work on vowel coalescence handling
+káɟà,,different,káɟà,verify POS w Sharon,káɟà,different,false,made note to ask Sharon about POS
+ndó nì,,Sleep here,nì,add adverb to lexicon,nî,here,true,added to lexicon
+rùɽár ròrlà,,tiɡers are tall,rùɽár,'tigers' given as jɔ̀ɽár in lexicon; is this a variant?,ròɽár,tiger-nominative-plural,true,added pronunciation variant
+rùɽár ròrlà,,tiɡers are tall,ròrlà,add reduplicated form of adjective to lexicon,rɔ̀rlà,tall.REDUP-CLr,true,added to lexicon
+là jájɛ̀,,they ate often,jájɛ̀,add REDUP verb forms to lexicon,jájɛ̀,eat.REDUP-itive-perfective,true,added to lexicon
+ɲówà,,women,ɲówà,verify form and add to lexicon,ɲówà,woman-nominative-plural,true,added to lexicon
+évé édɔ̌,,I was fat,évé,TODO: look into & support copula forms,évé,copula-1sg,false,copula forms need work
+évé édɔ̌,,I was fat,édɔ̌,"adjective w/ personal marker? need to support, or treat as verb root?",ɛ́dɔ́,fat-1sg,false,add note to ask Sharon
+ǎn kúkú kɛ̀,,This is Kuku,kɛ̀,support demonstratives,kɛ̂,this-CLg-final_lowering,true,added to lexicon
+ŋɛ́rɛ́gɛ̌,,evening,ŋɛ́rɛ́gɛ̌,add noun to lexicon,ŋɛ́rɛ́gɛ̀,evening-nominative-singular,true,added to lexicon
+ðlá ɽà,,farming,ðlá,add to lexicon,ðə́láɽà,farming-nominative-singular,true,added to lexicon
+t̪òlé t̪ɛ́,,with lion,t̪ɛ́,add to lexicon,t̪-ɛ́,with-CLt̪,true,added to lexicon
+ɲárà ráó,,How are you all,ɲárà,verify independent pronouns & add to lexicon,ɲárà,PRO-2pl,false,added note to ask Sharon about independent pronouns
+ɲárà ráó,,How are you all,ráó,verify gloss,ráó,how-CLr???,false,added note to ask Sharon about gloss
+wáló,,wife,wáló,support inalienably possessed nouns,wáló,wife-2sg,true,added to lexicon
+kʊ́ɾí,,name,kʊ́ɾí,add noun to lexicon,kúɾí,personal.name-nominative-singular,true,added to lexicon
+nɛ̀nìɲɔ́,,leaves,nɛ̀nìɲɔ́,"'leaves' in our dataset is nɜ̀nì, where is the ɲɔ́ coming from?",nɜ̀nìɲɔ́,leaf-nominative-plural,false,added note to ask Sharon about form
+ðɔ́ lúɔ̀,,cut the cloth,lúɔ̀,variant of dress/shirt or separate word?,lúɔ̀,cloth-nominative-singular-final_lowering,true,added to lexicon
+ɲɛ̌n ɲɛ̀ɽà,,mountains are big,ɲɛ̌n,verify form,ɲɛ̌n,mountain-nominative-plural,true,added to lexicon
+kát̪òt̪ó,,Kuku will be lost in the field,kát̪òt̪ó,be.lost-loc not being generated in lexicon!,ká t̪òt̪ó,be.lost-loc-aux-CLg-ventive-aɔ-imperfective,false,need to debug
+lìjàjɔ̀,,they ate often,lìjàjɔ̀,TODO: support tensing of [ə] to [i] before /j/; TODO add REDUP verbs to lexicon,lìjàjɔ̀,eat.REDUP-CLg-perfective-ventive,false,added reduplication still need to support tensinɡ of [ə] to [i]
+jòú jà ɔ̀ráj,,Parts of My brother is spreading it the mat now,jòú,verify meaning w/ Sharon,jòú,???,false,added note to ask Sharon about meaning
+jòú jà ɔ̀ráj,,Parts of My brother is spreading it the mat now,ɔ̀ráj,add inalienably possessed nouns to lexicon,ɔ̀ɾ-áj,sibling-NOM-SG-1SG.POSS,true,added to lexicon
+ǎn kúkú kɔ̀n,,Thats Kuku addressee and Kuku are together far from speaker,kɔ̀n,verify meaning w Sharon,kɔ̀n,spatial demonstrative???,true,added to lexicon
+lídí lɛ̂,,This pot,lɛ̂,add demonstratives to lexicon,lɛ̂,this-CLl,true,added to lexicon
+lɛ̀nɛ̀nɛ́j,,my parentsinlaw,lɛ̀nɛ̀nɛ́j,verify form w Sharon (paper gives 'l-ùn' for parent-in-law),lɛ̀nɛ̀nɛ́j,parent.in.law-NOM-PL-1SG.POSS,false,added note to ask Sharon about form
+ɽàpɾì,,little boy,ɽàpɾì,Add 'boy.dim' to lexicon,ɽàpɾì,boy.dim-NOM-SG-final_lowering,true,added to lexicon
+ŋàŋɔ́,,look at,ŋàŋɔ́,is gloss 'look at' a mistake?,ŋáŋɔ́<ENDOFSENTENCE>,scratch-itive-aɔ-imperative,false,made note to ask Sharon about gloss
+nɛ̀nɔ́nɔ̀l,,themselves,nɛ̀nɔ́nɔ̀l,verify form and gloss w Sharon,nɛ̀nɔ́nɔ̀l,???,false,added note to ask Sharon about form and gloss
+ròrlà,,tiɡers are tall,ròrlà,add 'tall.redup' to lexicon,r-ɔ̀rlà,tall.redup-CLr,true,added to lexicon
+ìjɔ̀ ɜ̀n ɔ́ɟɔ̀,,What is shepherd,ɔ́ɟɔ̀,add to lexicon,ɔ́ɟɔ̀,who-NOM-SG,true,added to lexicon
+ǎn kúkú káì,,Thats Kuku,káì,add 'that' to lexicon,k-âj,that-CLg,true,added to lexicon
+ǎn íjó jɛ̂,,this is a fire,jɛ̂,add 'this' to lexicon,j-ɛ̂,this-CLj,true,added to lexicon
+àn íjó jɛ̂,,this is a fire,jɛ̂,add 'this' to lexicon,j-ɛ̂,this-CLj,true,added to lexicon
+kǎr káɟà,,Someone different,kǎr,verify w Sharon,kǎr,?someone,false,added note to ask Sharon about meaning
+kǎr káɟà,,Someone different,káɟà,verify word w/ Sharon,káɟà,different,false,added note to ask Sharon about word
+lɔ̀rlà,,They are tall,lɔ̀rlà,add tall.redup to lexicon,l-ɔ̀rlà,tall.redup-CLl,true,added to lexicon
+àɾá ɔ̀ɽcâ,,Say Jump far away,àɾá,change gloss to 'say',àɾá,aɾ-ventive-aɔ-imperative,true,changed gloss
+àpìt̪í,,bring,àpìt̪í,support 1sg objects w/o /ŋ/,àpìt̪í,carry-ben-VENT-IMP-1SG.OBJ,false,need to support
+kɔ́lɔ̀t̪ɔ̌,,it is good,kɔ́lɔ̀t̪ɔ̌,add adjective ɔlɔt̪ɔ 'good' to lexicon,kɔ̀lɔ̀t̪ɔ̀,good-CLg,true,added to lexicon
+kɔ́lɔ̀t̪ɔ̀,,it is good,kɔ́lɔ̀t̪ɔ̀,add to lexicon,kɔ́lɔ̀t̪ɔ̀,good-CLg,true,added to lexicon
+ìðɔ́ íjɔ̀,,make a fire speaker is not there,ìðɔ́,add ið 'make' to lexicon,ìðɔ́,make-VENT-IMP,true,added to lexicon
+íðɔ́ íjɔ̀,,make a fire,íðɔ́,add ið 'make' to lexicon,íðɔ́,make-IT-IMP,true,added to lexicon
+íðɔ́ íjɔ̀,,make a fire,íðɔ́,add 'make' to lexicon,íðɔ́,make-VENT-IMP,true,added to lexicon
+ɲàŋgú,,a dance most common type of dance in Tira community,ɲàŋgú,add to lexicon,ɲáŋgù,tira.dance-NOM-SG,true,already in lexicon (added ɔ~u as low-cost edit)
+ŋɛ̀ŋɔ̀nɔ́,,themselves,ŋɛ̀ŋɔ̀nɔ́,verify w Sharon,ŋɛ̀ŋɔ̀nɔ́,???-CLŋ,false,added note to ask Sharon about meaning
+ðɔ́ ɛ̂ð ánù,,chop the meat,ánù,add particle 'ánù' to lexicon,ánù,?particle,true,added to lexicon
+ðúɽór,,to breastfeed,ðúɽór,ask Sharon about final -r,ðúɽór,breastfeed-IT-IMP,false,added note to ask Sharon about final -r
+ðɔ̀cà,,basket made of palm leaves less sturdy,ðɔ̀cà,add to lexicon,ðɔ̀c-à,palm.basket-ACC-SG,true,added to lexicon
+lɛ̀dɜ̀dì,,they held often,lɛ̀dɜ̀dì,add ɜdɜd 'touch.redup' to lexicon,làdɜ̀dì,touch.redup-CLl-PFV-IT,true,added to lexicon
+ɲàlɛ́lǎ,,We are going,ɲàlɛ́lǎ,add ɛl 'go' to lexicon,ɲàlɛ́là,go-IPFV-IT-1PL.EXCL.SBJ,false,need to support 'come/go'
+ɲàlɛ́là,,Parts of We excl are going to cut the rope,ɲàlɛ́là,Add ɛl 'go' to lexicon,ɲàlɛ́là,false,need to support 'come/go'
+lâlɔ̀ɽɔ́ lâlɔ̀ɽɔ́,,Parts of They will say something tomorrow far away,lâlɔ̀ɽɔ́,verify 'say' not 'run'???,lál ɔ̀ɽɔ́,run-aux-CLl-ventive-aɔ-3sg.obj-3sg.sbj-imperfective,false,added note to ask Sharon about gloss
+lâlɔ̀ɽɔ́,,Parts of They will say something tomorrow far away,lâlɔ̀ɽɔ́,verify 'say' not 'run',lál ɔ̀ɽɔ́<ENDOFSENTENCE>,run-aux-CLl-ventive-aɔ-3sg.obj-3sg.sbj-imperfective,false,added note to ask Sharon about gloss
+mɜ́ðɔ́,,‘shave bald’,mɜ́ðɔ́,verify 'shave' vs 'plait',mɛ́ðɔ́<ENDOFSENTENCE>,plait-ventive-aɔ-left_h-imperfective,false,added note to ask Sharon about meaning
+údí ðùɽì,,burn wood,údí,change 'burn' from ao to ɔi,údì,burn-IT-IMP-final_lowering,true,changed FV
+énɔ̀ná,,I saw you,énɔ̀ná,"handle: 2sg w/ ŋ, vowel coalescence w/ FV and personal suffix",jɛ́nɔ̀ná,look-PFV-VENT-1SG.SBJ-2SG.OBJ,false,need to support elision of /ŋ/ and vowel coalescence
