@@ -82,13 +82,17 @@ To save, press **ctrl/cmnd+s**, equivalent to clicking on the 'Download YAML' bu
 ## Abbreviations and glossary
 
 ### Noun features
-**Case:**
+#### Case
 - Nominative (NOM): subject of the verb, also the default case in Tira. ŋɛ́n ŋ-ícə̀lò dog-NOM-SG good-CLŋ-left_h 'the dog is good'
 - Accusative (ACC): object of the verb. íŋgá nɔ́nà ŋɛ́nɛ́ nd̪ɔ̀bà AUX-IPFV-1SG.SBJ see-IPFV-IT dog-ACC tomorrow 'I will see the dog tomorrow'
 
-**Number:**
+#### Number
 - Singular (SG): marked by noun class prefix, different for each word. ŋɛ́n dog-NOM-SG
 - Plural (PL): marked by noun class prefix, different for each word. ɲɛ́n dog-NOM-PL
+
+### Person
+Note: only inalienably possessed nouns are marked for person in Tira.
+Inaleinably possessed nouns include \TODO
 
 ### Verb features
 #### Tense/aspect/mood
@@ -112,7 +116,7 @@ Following person values present in Tira:
 - Second person plural (2PL)
 - Third person plural (3PL)
 
-Both subjects and objects can be marked on a verb, e.g. 1SG.SBJ or 1SG.OBJ.  
+Both subjects and objects can be marked on a verb, e.g. 1SG.SBJ or 1SG.OBJ.
 
 #### Class
 Abbreviated CL{prefix}. Indicates the noun class the verb shows agreement for, represented with a consonantal prefix.
@@ -129,6 +133,61 @@ Same as verbs.
 
 - ùɟí kícə̀lò person-NOM-SG good-CLg 'person is good'
 - lìɟí lícə̀lò person-NOM-PL good-CLl 'person is good'
+
+### Left-H
+'Left-H' is an umbrella term for various processes in Tira that all have one effect: the leftmost syllable of a word gains a high (H) tone.
+There are multiple instances where this can occur.
+For instance, in some cases a word ending with a high tone will 'spread' it's high tone onto the first syllable of the previous word, a process called (appropriately enough) 'High-tone spreading.'
+Note that the word *ðàŋàl-à* 'sheep (accusative)' normally has a low tone on the first syllable (1), but following the verb *kə̀-və̀lɛ̀ð-ɔ́*, which ends in a high tone, the first syllable of 'sheep' also takes a high tone (2).
+
+(1) ùrnɔ̀            k-á     və́lɛ̀ð-à       ðàŋàl-à
+    CLg.grandfather CLg-Aux pull-IT.PFV   CLð.sheep-ACC
+'Grandfather pulled the sheep' (away from speaker)
+
+(2) ùrnɔ̀            kə̀-və̀lɛ̀ð-ɔ́          ðáŋàl-à
+    CLg.grandfather CLg-pull-VENT.PFV   CLð.sheep.LEFT_H-ACC
+'Grandfather pulled the sheep' (towards speaker)
+
+Another case is focus constructions with the particle *àn*.
+Focus constructions single out one part of the sentence, e.g. the subject of the verb 'It is Kuku that ate soup (and not someone else who ate it)', object 'It is soup that Kuku ate (and not e.g. bread).'
+As these sentences show, an 'It'-cleft ('It is X that...') can introduce focus constructions in English.
+In Tira the dedicated focus particle *àn* does this job.
+Like high tone spreading above, the focus particle *àn* causes a high tone to occur on the first syllable of the following word.
+Notice in (3) that the word lion typically has a low tone in the first syllable, but following *àn* it has a high tone (4).
+
+(3) t̪òlé
+    CLt̪-lion
+'The lion'
+
+(4) àn  t̪ólé
+    FOC CLt̪-lion-LEFT_H
+'It is the lion'
+
+Focus constructions are associated with another form of Left-H.
+Specifically, the main verb in a focus construction gains a high tone.
+Compare the verb 'watch' in (5) vs. (6).
+
+(5) t̪òlé      t̪ə̀-nɔ̀n-ɔ́          ŋɛ́n-ɛ́         únɛ́ɾɛ́
+    CLt̪-lion  CLt̪-watch-IT.PFV  CLŋ.dog-ACC   yesterday-LEFT_H
+'The lion watched the dog yesterday.'
+
+(6) àn  ɔ́ndì              kə́-nɔ̀n-ɔ́                ŋɛ́n-ɛ́         únɛ́ɾɛ́
+    FOC CLg.what.LEFT_H   CLg.LEFT_H-watch-IT.PFV CLŋ.dog-ACC   yesterday-LEFT_H
+'What watched the dog yesterday?'
+
+As an aside, note that the word *ùnɛ́ɾɛ́* also has a Left-H, in this case due to high-tone spreading from the preceding noun *ŋɛ́n-ɛ́*.
+
+The last instance where Left-H can occur is in relative clauses.
+Like in focus constructions, the main verb of a relative clause obtains a high tone at the left edge.
+Compare the verb 'chase' in a matrix clause (7) and in a relative clause (8).
+
+(7) ŋɛ́n     ŋə̀-r̀lɛ̀ɲ-í         t̪ólè-ɲá
+    CLŋ.doɡ CLŋ-chase-VEN.PFV CLt̪.lion-ACC
+'The dog chased the lion'
+
+(8) t̪òlé      [t̪ə́-r̀lɛ̀ɲ-í                 ŋɛ́n-ɛ́]       t̪-ìcò
+    CLt̪.lion  [CLt̪.LEFT_H-chase-VEN.PFV  CLŋ.dog-ACC] CLt̪-bad
+'The lion [who chased the dog] is bad.
 
 ## FAQ
 - **What if I'm not sure if the gloss I chose is correct?** Answer: Leave a comment and I'll review when you upload it and/or during our next meeting.
