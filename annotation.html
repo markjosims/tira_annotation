@@ -382,7 +382,7 @@
                 <div class="status-dot ${isDone ? 'status-completed' : 'status-pending'}"></div>
                 <div style="overflow: hidden;">
                     <div style="font-size: 0.85rem; font-weight: 600; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
-                        ${s.sentence}
+                        (${s.index}) ${s.sentence}
                     </div>
                     <div style="font-size: 0.7rem; color: var(--text-muted); font-style: italic; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
                         ${updatedSent !== s.sentence ? updatedSent : s.translation}
