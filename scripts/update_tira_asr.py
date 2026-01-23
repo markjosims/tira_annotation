@@ -33,6 +33,8 @@ def get_transcription_and_gloss(sentence_obj: Dict[str, Any]) -> Tuple[str, str]
 
 def main():
     args = get_args()
+
+    print(f"Loading predicted parses from {args.yaml}...")
     with open(args.yaml, 'r') as f:
         data = yaml.safe_load(f)
 
