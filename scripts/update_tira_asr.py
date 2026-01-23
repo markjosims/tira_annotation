@@ -24,6 +24,11 @@ def get_transcription_and_gloss(sentence_obj: Dict[str, Any]) -> Tuple[str, str]
         chosen_parse = word.get('chosen_parse', 0)
         if chosen_parse is None:
             chosen_parse = 0
+        if not word.get('parses'):
+            # No parses available, use original word
+            words.append(word['original'])
+            glosses.append('<NO_GLOSS>')
+            continue
         parse = word['parses'][chosen_parse]
         updated_str = parse[0]  # updated_str is at index 0
         gloss = parse[2]        # gloss is at index 2
