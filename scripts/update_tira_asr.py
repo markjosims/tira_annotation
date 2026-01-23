@@ -65,3 +65,6 @@ def get_args():
         + f"Default: {TIRA_ASR_DIR}"
     )
     return parser.parse_args()
+
+if __name__ == '__main__':
+    main()
