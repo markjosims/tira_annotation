@@ -51,6 +51,7 @@ def main():
         'gloss': sentence2updated[example['sentence']][1],
     }
 
+    print(f"Loading dataset from {args.dataset_dir}...")
     ds = load_from_disk(args.dataset_dir)
     ds = ds.map(update_sentence, desc='Updating dataset...')
     ds.save_to_disk(args.dataset_dir+'_updated')
