@@ -52,8 +52,8 @@ def main():
         sentence2updated[sentence] = (transcription, gloss)
     
     update_sentence = lambda example: {
-        'rewritten_transcript': sentence2updated[example['sentence']][0],
-        'gloss': sentence2updated[example['sentence']][1],
+        'rewritten_transcript': sentence2updated[example['transcription']][0],
+        'gloss': sentence2updated[example['transcription']][1],
     }
 
     print(f"Loading dataset from {args.dataset_dir}...")
