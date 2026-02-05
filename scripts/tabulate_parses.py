@@ -19,14 +19,14 @@ SENTENCE_YAML_PATH = "data/sentences.yaml"
 def main():
     args = get_args()
     all_data = []
-    for input_file in args.input_files:
+    for input_file in tqdm(args.input_files, desc="Loading YAML files"):
         with open(input_file, 'r') as f:
             data = yaml.safe_load(f)
             all_data.extend(data)
     # data is nested list of dictionaries
     # sentence > words > parses
     rows = []
-    for sentence in tqdm(all_data):
+    for sentence in tqdm(all_data, desc="Tabulating parses"):
         word_data = sentence.pop('words')
         for word in word_data:
             parses = word.pop('parses')
