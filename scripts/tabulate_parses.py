@@ -12,6 +12,10 @@ and their parses, so the resulting CSV has a length of
 num(sentence) * num(word in sentence) * num(parse for word).
 """
 
+PARSES_OUTPATH = os.path.expanduser("~/projects/tira_parser/data/sentences/parses.csv")
+SENTENCE_YAML_PATH = "data/sentences.yaml"
+
+
 def main():
     args = get_args()
     all_data = []
@@ -34,9 +38,6 @@ def main():
                 }
                 rows.append(row)
     df = pd.DataFrame(rows)
-    if args.output_file is None:
-        output_dir = os.path.expanduser("~/projects/tira_parser/data/sentences/")
-        args.output_file = os.path.join(output_dir, "parses.csv")
     df.to_csv(args.output_file, index=False)
 
 def get_args():
@@ -46,11 +47,12 @@ def get_args():
     parser.add_argument(
         "input_files",
         nargs="+",
+        default=[SENTENCE_YAML_PATH],
         help="YAML files containing parse results."
     )
     parser.add_argument(
         "--output_file",
-        default=None,
+        default=PARSES_OUTPATH,
         help="File to write the tabulated results."
     )
     return parser.parse_args()
