@@ -45,13 +45,13 @@ def get_args():
         description="Tabulate parse results from YAML files."
     )
     parser.add_argument(
-        "input_files",
+        "--input_files", "-i",
         nargs="+",
         default=[SENTENCE_YAML_PATH],
         help="YAML files containing parse results."
     )
     parser.add_argument(
-        "--output_file",
+        "--output_file", "-o",
         default=PARSES_OUTPATH,
         help="File to write the tabulated results."
     )
